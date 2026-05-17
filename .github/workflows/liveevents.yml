@@ -3,10 +3,10 @@ name: Update Stream99 Playlist
 on:
   # Allows you to trigger it manually from the Actions tab
   workflow_dispatch: 
-  # Runs automatically every 20 minutes
+  # Runs automatically every 3 hours. 
   # (Cron format: Minute Hour Day Month DayOfWeek)
   schedule:
-    - cron: '0 */1 * * *'    
+    - cron: '*/10 * * * *'    
 
 # Give the action permission to commit files back to your repo
 permissions:
@@ -20,11 +20,6 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-          node-version: "24"
-  
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -43,8 +38,8 @@ jobs:
 
     - name: Commit and Push Playlist
       run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add liveevents.m3u
         # The '|| true' prevents the workflow from failing if no changes were made
         git commit -m "Auto-update liveevents.m3u" || true
