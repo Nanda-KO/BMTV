@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-27T20:37:42+00:00",
+  "scraped_at": "2026-05-28T06:35:22+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -8,12 +8,12 @@
     {
       "name": "UEFA Conference League (FINAL)",
       "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "May 27, 2026 3:00 PM"
+      "start_time": "May 27, 2026 12:00 PM"
     },
     {
       "name": "UEFA Conference League (FINAL)",
       "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "May 27, 2026 3:00 PM"
+      "start_time": "May 27, 2026 12:00 PM"
     },
     {
       "name": "Copa Libertadores",
@@ -266,12 +266,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/dgo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein7.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "dgo.m3u8",
+            "path": "bein7.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -300,12 +300,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/epl5.m3u8",
+            "url": "https://601.shadow-ran.online/bein6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "epl5.m3u8",
+            "path": "bein6.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -322,13 +322,13 @@
             "display_name": "Fluminense vs Deportivo Guaira - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/epl5.m3u8",
+            "label": "bein6.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "epl5.m3u8",
+            "path": "bein6.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -342,7 +342,7 @@
               "home": "Fluminense",
               "away": "Deportivo Guaira"
             },
-            "display_name": "Fluminense vs Deportivo Guaira - Stream 2"
+            "display_name": "Fluminense vs Deportivo Guaira - bein6.m3u8"
           }
         ]
       },
@@ -357,12 +357,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/epl6.m3u8",
+            "url": "https://daffodil.shadow-ran.online/river.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "epl6.m3u8",
+            "subdomain": "daffodil",
+            "path": "river.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -377,29 +377,6 @@
               "away": "Blooming"
             },
             "display_name": "River Plate vs Blooming - Stream 1"
-          },
-          {
-            "label": "epl6.m3u8",
-            "url": "https://daffodil.shadow-ran.online/epl6.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "epl6.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-7",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "River Plate vs Blooming",
-            "matchup": {
-              "home": "River Plate",
-              "away": "Blooming"
-            },
-            "display_name": "River Plate vs Blooming - epl6.m3u8"
           }
         ]
       }
@@ -1022,6 +999,28 @@
             "display_name": "Oklahoma City Thunder vs San Antonio Spurs"
           },
           {
+            "label": "Direct Link",
+            "url": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd?ip=187.225.98.121&exp=1775563213&hmac=729933f942e28f493212b9d70c930865c11d1571",
+            "type": "mpd",
+            "source_page": "https://roxiestreams.su/nba-streams-1",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nba-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": {
+              "45d4b06cf3345219a4184135abbefc18": "1d28c167b64f628c23a89a84ce4a3b09"
+            },
+            "sport": "nba",
+            "event_title": "Oklahoma City Thunder vs San Antonio Spurs",
+            "matchup": {
+              "home": "Oklahoma City Thunder",
+              "away": "San Antonio Spurs"
+            },
+            "display_name": "Oklahoma City Thunder vs San Antonio Spurs"
+          },
+          {
             "label": "nbasat.m3u8",
             "url": "https://601.shadow-ran.online/nbasat.m3u8",
             "type": "m3u8",
@@ -1128,29 +1127,7 @@
         "page": "https://roxiestreams.su/nhl-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index.mpd?aws.sessionId=f2080ae6-9ca1-421a-b680-3d3deda56aff&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzQwOTAiXSwiaW50c2lnIjoiYVVHREdOM0tGTXFsaVRvdElZQXpCSC10bjY0c3FEU2pTZUc1cVRnVWprayIsImlhdCI6MTc3OTE3MTM4NCwiZXhwIjoxNzc5MjU3Nzg0fQ.crhqFUrnExwvS4PWovOyr7qm_5pX1EVCuV8Fi2L1r-w&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
-            "type": "mpd",
-            "source_page": "https://roxiestreams.su/nhl-streams-1",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": {
-              "458272fe4bc45eb6968556743b063f50": "61ebeccd86058fb0e57cc9c039ed1a74"
-            },
-            "sport": "nhl",
-            "event_title": "Carolina Hurricanes vs Montreal Canadiens",
-            "matchup": {
-              "home": "Carolina Hurricanes",
-              "away": "Montreal Canadiens"
-            },
-            "display_name": "Carolina Hurricanes vs Montreal Canadiens"
-          },
-          {
-            "label": "Stream 2",
+            "label": "Stream 1",
             "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -1170,10 +1147,10 @@
               "home": "Carolina Hurricanes",
               "away": "Montreal Canadiens"
             },
-            "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 2"
+            "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 1"
           },
           {
-            "label": "nhl.m3u8",
+            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -1193,7 +1170,7 @@
               "home": "Carolina Hurricanes",
               "away": "Montreal Canadiens"
             },
-            "display_name": "Carolina Hurricanes vs Montreal Canadiens - nhl.m3u8"
+            "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 2"
           }
         ]
       }
@@ -1297,7 +1274,7 @@
             "display_name": "AEW - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "aew.m3u8",
             "url": "https://daffodil.shadow-ran.online/aew.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/aew",
@@ -1314,7 +1291,7 @@
             "sport": "aew",
             "event_title": "AEW",
             "matchup": null,
-            "display_name": "AEW - Stream 2"
+            "display_name": "AEW - aew.m3u8"
           }
         ]
       }
@@ -1749,7 +1726,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2991,6 +2967,7 @@
         "Stream Request (Discord)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
@@ -3248,7 +3225,6 @@
         "Stream Request (Discord)",
         "Stream 1",
         "Stream 2",
-        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3504,7 +3480,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3750,12 +3725,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/dgo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein7.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "dgo.m3u8",
+          "path": "bein7.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -3773,12 +3748,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/epl5.m3u8",
+          "url": "https://601.shadow-ran.online/bein6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "epl5.m3u8",
+          "path": "bein6.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -3795,13 +3770,13 @@
           "display_name": "Fluminense vs Deportivo Guaira - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/epl5.m3u8",
+          "label": "bein6.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "epl5.m3u8",
+          "path": "bein6.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -3815,16 +3790,16 @@
             "home": "Fluminense",
             "away": "Deportivo Guaira"
           },
-          "display_name": "Fluminense vs Deportivo Guaira - Stream 2"
+          "display_name": "Fluminense vs Deportivo Guaira - bein6.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/epl6.m3u8",
+          "url": "https://daffodil.shadow-ran.online/river.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "epl6.m3u8",
+          "subdomain": "daffodil",
+          "path": "river.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -3839,29 +3814,6 @@
             "away": "Blooming"
           },
           "display_name": "River Plate vs Blooming - Stream 1"
-        },
-        {
-          "label": "epl6.m3u8",
-          "url": "https://daffodil.shadow-ran.online/epl6.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "epl6.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-7",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "River Plate vs Blooming",
-          "matchup": {
-            "home": "River Plate",
-            "away": "Blooming"
-          },
-          "display_name": "River Plate vs Blooming - epl6.m3u8"
         }
       ]
     },
@@ -4334,6 +4286,28 @@
           "display_name": "Oklahoma City Thunder vs San Antonio Spurs"
         },
         {
+          "label": "Direct Link",
+          "url": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd?ip=187.225.98.121&exp=1775563213&hmac=729933f942e28f493212b9d70c930865c11d1571",
+          "type": "mpd",
+          "source_page": "https://roxiestreams.su/nba-streams-1",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nba-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": {
+            "45d4b06cf3345219a4184135abbefc18": "1d28c167b64f628c23a89a84ce4a3b09"
+          },
+          "sport": "nba",
+          "event_title": "Oklahoma City Thunder vs San Antonio Spurs",
+          "matchup": {
+            "home": "Oklahoma City Thunder",
+            "away": "San Antonio Spurs"
+          },
+          "display_name": "Oklahoma City Thunder vs San Antonio Spurs"
+        },
+        {
           "label": "nbasat.m3u8",
           "url": "https://601.shadow-ran.online/nbasat.m3u8",
           "type": "m3u8",
@@ -4433,29 +4407,7 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index.mpd?aws.sessionId=f2080ae6-9ca1-421a-b680-3d3deda56aff&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzQwOTAiXSwiaW50c2lnIjoiYVVHREdOM0tGTXFsaVRvdElZQXpCSC10bjY0c3FEU2pTZUc1cVRnVWprayIsImlhdCI6MTc3OTE3MTM4NCwiZXhwIjoxNzc5MjU3Nzg0fQ.crhqFUrnExwvS4PWovOyr7qm_5pX1EVCuV8Fi2L1r-w&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
-          "type": "mpd",
-          "source_page": "https://roxiestreams.su/nhl-streams-1",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": {
-            "458272fe4bc45eb6968556743b063f50": "61ebeccd86058fb0e57cc9c039ed1a74"
-          },
-          "sport": "nhl",
-          "event_title": "Carolina Hurricanes vs Montreal Canadiens",
-          "matchup": {
-            "home": "Carolina Hurricanes",
-            "away": "Montreal Canadiens"
-          },
-          "display_name": "Carolina Hurricanes vs Montreal Canadiens"
-        },
-        {
-          "label": "Stream 2",
+          "label": "Stream 1",
           "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -4475,10 +4427,10 @@
             "home": "Carolina Hurricanes",
             "away": "Montreal Canadiens"
           },
-          "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 2"
+          "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 1"
         },
         {
-          "label": "nhl.m3u8",
+          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -4498,7 +4450,7 @@
             "home": "Carolina Hurricanes",
             "away": "Montreal Canadiens"
           },
-          "display_name": "Carolina Hurricanes vs Montreal Canadiens - nhl.m3u8"
+          "display_name": "Carolina Hurricanes vs Montreal Canadiens - Stream 2"
         }
       ]
     },
@@ -4602,7 +4554,7 @@
           "display_name": "AEW - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "aew.m3u8",
           "url": "https://daffodil.shadow-ran.online/aew.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/aew",
@@ -4619,12 +4571,12 @@
           "sport": "aew",
           "event_title": "AEW",
           "matchup": null,
-          "display_name": "AEW - Stream 2"
+          "display_name": "AEW - aew.m3u8"
         }
       ]
     }
   },
-  "stream_count": 46,
+  "stream_count": 45,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
