@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T21:39:01+00:00",
+  "scraped_at": "2026-06-19T22:36:34+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -51,35 +51,12 @@
             "display_name": "Brazil vs Haiti - TSN"
           },
           {
-            "label": "BBC (UK)",
-            "url": "https://601.shadow-ran.online/bbc.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "bbc.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Brazil vs Haiti",
-            "matchup": {
-              "home": "Brazil",
-              "away": "Haiti"
-            },
-            "display_name": "Brazil vs Haiti - BBC (UK)"
-          },
-          {
             "label": "FOX",
-            "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+            "url": "https://602.shadow-ran.online/fox.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
+            "subdomain": "602",
             "path": "fox.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -175,29 +152,6 @@
               "away": "Paraguay"
             },
             "display_name": "Turkey vs Paraguay - TSN"
-          },
-          {
-            "label": "FS1 (FHD)",
-            "url": "https://602.shadow-ran.online/fox.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
-            "path": "fox.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Turkey vs Paraguay",
-            "matchup": {
-              "home": "Turkey",
-              "away": "Paraguay"
-            },
-            "display_name": "Turkey vs Paraguay - FS1 (FHD)"
           }
         ]
       }
@@ -1321,7 +1275,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "TSN",
-        "BBC (UK)",
         "FOX",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
@@ -3226,35 +3179,12 @@
           "display_name": "Brazil vs Haiti - TSN"
         },
         {
-          "label": "BBC (UK)",
-          "url": "https://601.shadow-ran.online/bbc.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "bbc.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Brazil vs Haiti",
-          "matchup": {
-            "home": "Brazil",
-            "away": "Haiti"
-          },
-          "display_name": "Brazil vs Haiti - BBC (UK)"
-        },
-        {
           "label": "FOX",
-          "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+          "url": "https://602.shadow-ran.online/fox.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
+          "subdomain": "602",
           "path": "fox.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -3339,29 +3269,6 @@
             "away": "Paraguay"
           },
           "display_name": "Turkey vs Paraguay - TSN"
-        },
-        {
-          "label": "FS1 (FHD)",
-          "url": "https://602.shadow-ran.online/fox.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
-          "path": "fox.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Turkey vs Paraguay",
-          "matchup": {
-            "home": "Turkey",
-            "away": "Paraguay"
-          },
-          "display_name": "Turkey vs Paraguay - FS1 (FHD)"
         }
       ]
     },
@@ -4209,7 +4116,7 @@
       ]
     }
   },
-  "stream_count": 46,
+  "stream_count": 44,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
