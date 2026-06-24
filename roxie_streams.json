@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-23T23:53:50+00:00",
+  "scraped_at": "2026-06-24T02:56:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -159,12 +159,12 @@
         "page": "https://roxiestreams.su/soccer-streams-2",
         "streams": [
           {
-            "label": "FS1",
-            "url": "https://602.shadow-ran.online/fs1.m3u8",
+            "label": "FOX (ALT)",
+            "url": "https://601.shadow-ran.online/fs1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
+            "subdomain": "601",
             "path": "fs1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -179,30 +179,7 @@
               "home": "Colombia",
               "away": "Congo DR"
             },
-            "display_name": "Colombia vs Congo DR - FS1"
-          },
-          {
-            "label": "TSN",
-            "url": "https://ataide0.shadow-ran.online/tsn2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
-            "path": "tsn2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Colombia vs Congo DR",
-            "matchup": {
-              "home": "Colombia",
-              "away": "Congo DR"
-            },
-            "display_name": "Colombia vs Congo DR - TSN"
+            "display_name": "Colombia vs Congo DR - FOX (ALT)"
           }
         ]
       }
@@ -1443,8 +1420,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "FS1",
         "TSN",
+        "FOX (ALT)",
+        "FS1 (FHD)",
+        "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
         "العربية",
@@ -3460,12 +3439,12 @@
           "display_name": "Panama vs Croatia - العربية"
         },
         {
-          "label": "FS1",
-          "url": "https://602.shadow-ran.online/fs1.m3u8",
+          "label": "FOX (ALT)",
+          "url": "https://601.shadow-ran.online/fs1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
+          "subdomain": "601",
           "path": "fs1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -3480,30 +3459,7 @@
             "home": "Colombia",
             "away": "Congo DR"
           },
-          "display_name": "Colombia vs Congo DR - FS1"
-        },
-        {
-          "label": "TSN",
-          "url": "https://ataide0.shadow-ran.online/tsn2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
-          "path": "tsn2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Colombia vs Congo DR",
-          "matchup": {
-            "home": "Colombia",
-            "away": "Congo DR"
-          },
-          "display_name": "Colombia vs Congo DR - TSN"
+          "display_name": "Colombia vs Congo DR - FOX (ALT)"
         }
       ]
     },
@@ -4403,7 +4359,7 @@
       ]
     }
   },
-  "stream_count": 49,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
