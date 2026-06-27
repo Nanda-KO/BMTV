@@ -170,7 +170,7 @@ class SportzxClient:
     def get_channels(self) -> List[SportzxChannel]:
         api_url = self._get_api_url()
         if not api_url:
-            print("Non è stato possibile ottenere l'URL API")
+            print("Unable to get API URL")
             return []
 
         channels_list: List[SportzxChannel] = []
@@ -217,7 +217,7 @@ class SportzxClient:
                     keyid, key = api_val.split(":", 1)
 
                 channels_list.append(SportzxChannel(
-                    event_title=event.get("title", "Evento senza titolo"),
+                    event_title=event.get("title", "Untitled Event"),
                     event_id=eid,
                     event_cat=event.get("cat", ""),
                     event_name=event.get("eventInfo", {}).get("eventName", ""),
@@ -232,15 +232,15 @@ class SportzxClient:
         return channels_list
 
     # ────────────────────────────────────────────────────────────────
-    # Funzione per aumentare l'orario di +1 ora (solo HH:MM)
+    # Function to increase the time by +1 hour (HH:MM only)
     # ────────────────────────────────────────────────────────────────
     def _increase_time_by_one_hour(self, time_str: str) -> str:
         if not time_str or len(time_str) < 5 or ':' not in time_str:
             return time_str
 
         try:
-            # Prendiamo solo HH:MM (ignoriamo data se presente)
-            time_part = time_str.split()[-1][:5]  # prende l'ultima parte tipo "14:30"
+            # We only take HH:MM (ignore date if present)
+            time_part = time_str.split()[-1][:5]  # take the last part like "2.30pm"
             hh, mm = map(int, time_part.split(':'))
             if not (0 <= hh <= 23 and 0 <= mm <= 59):
                 return time_part
@@ -277,7 +277,7 @@ class SportzxClient:
             orario_aumentato = self._increase_time_by_one_hour(orario_originale)
             orario_part = f" {orario_aumentato}" if orario_aumentato else ""
 
-            # Canale tra parentesi se diverso
+            # Channel in brackets if different
             canale = ""
             if ch.channel_title and ch.channel_title.strip():
                 tit_canale = ch.channel_title.strip()
@@ -286,7 +286,7 @@ class SportzxClient:
 
             nome_finale = f"{evento}{orario_part}{canale}".strip()
 
-            # Pulizia
+            # Cleaning
             nome_pulito = re.sub(r'[^\w\s\-\:\(\)\,\.\']', ' ', nome_finale).strip()
 
             gruppo = ch.event_cat.capitalize() if ch.event_cat else "Sportzx"
@@ -350,7 +350,7 @@ if __name__ == "__main__":
         timeout=timeout_val
     )
 
-    print("Recupero canali...")
+    print("Channel recovery...")
     canali = client.get_channels()
 
     print(f"Trovati {len(canali)} canali in totale")
@@ -363,4 +363,4 @@ if __name__ == "__main__":
             generic_logo=logo_url
         )
     else:
-        print("Nessun canale trovato")
+        print("No channels found")
