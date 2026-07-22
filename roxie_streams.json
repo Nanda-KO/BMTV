@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T22:17:55+00:00",
+  "scraped_at": "2026-07-22T23:17:25+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -214,6 +214,29 @@
               "away": "Palmeiras"
             },
             "display_name": "Coritiba vs Palmeiras - Arena 2 Premium"
+          },
+          {
+            "label": "CANAL 11 PT",
+            "url": "https://admin2.shadow-ran.online/canal11pt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "canal11pt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coritiba vs Palmeiras",
+            "matchup": {
+              "home": "Coritiba",
+              "away": "Palmeiras"
+            },
+            "display_name": "Coritiba vs Palmeiras - CANAL 11 PT"
           },
           {
             "label": "fana.m3u8",
@@ -1771,6 +1794,7 @@
         "Stream 1",
         "Sportdigital FUSSBALL",
         "Arena 2 Premium",
+        "CANAL 11 PT",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4512,6 +4536,29 @@
           "display_name": "Coritiba vs Palmeiras - Arena 2 Premium"
         },
         {
+          "label": "CANAL 11 PT",
+          "url": "https://admin2.shadow-ran.online/canal11pt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "canal11pt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coritiba vs Palmeiras",
+          "matchup": {
+            "home": "Coritiba",
+            "away": "Palmeiras"
+          },
+          "display_name": "Coritiba vs Palmeiras - CANAL 11 PT"
+        },
+        {
           "label": "fana.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
@@ -5560,7 +5607,7 @@
       "streams": []
     }
   },
-  "stream_count": 52,
+  "stream_count": 53,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]

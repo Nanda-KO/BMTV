@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-22T22:17:55+00:00
+# RoxieStreams Playlist - generated 2026-07-22T23:17:25+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Sporting Braga vs Železničar Pančevo - Stream 1" group-title="SOCCER - Sporting Braga vs Železničar Pančevo",Sporting Braga vs Železničar Pančevo - Stream 1
@@ -64,6 +64,15 @@ https://admin2.shadow-ran.online/sportdigital.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/arenapre2.m3u8
+
+#EXTINF:-1 tvg-name="Coritiba vs Palmeiras - CANAL 11 PT" group-title="SOCCER - Coritiba vs Palmeiras",Coritiba vs Palmeiras - CANAL 11 PT
+#EXTGRP:SOCCER - Coritiba vs Palmeiras
+#EXTDESC:Coritiba vs Palmeiras
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/canal11pt.m3u8
 
 #EXTINF:-1 tvg-name="Coritiba vs Palmeiras - fana.m3u8" group-title="SOCCER - Coritiba vs Palmeiras",Coritiba vs Palmeiras - fana.m3u8
 #EXTGRP:SOCCER - Coritiba vs Palmeiras
