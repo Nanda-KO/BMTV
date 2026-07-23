@@ -50,4 +50,3 @@ jobs:
           git add SerieA_Sportzx.m3u8
           git diff --cached --quiet || git commit -m "M3U8 file updated with new streams"
           git push origin main --force
-        continue-on-error: true
