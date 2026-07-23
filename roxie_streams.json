@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T22:39:13+00:00",
+  "scraped_at": "2026-07-23T23:34:39+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -540,29 +540,6 @@
               "away": "Rosario Central"
             },
             "display_name": "Belgrano vs Rosario Central - Stream 2 (ENGLISH)"
-          },
-          {
-            "label": "Arena 2 Premium",
-            "url": "https://admin2.shadow-ran.online/arenapre2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "arenapre2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Belgrano vs Rosario Central",
-            "matchup": {
-              "home": "Belgrano",
-              "away": "Rosario Central"
-            },
-            "display_name": "Belgrano vs Rosario Central - Arena 2 Premium"
           },
           {
             "label": "fana3es.m3u8",
@@ -2001,7 +1978,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (ENGLISH)",
-        "Arena 2 Premium",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4031,29 +4007,6 @@
           "display_name": "Belgrano vs Rosario Central - Stream 2 (ENGLISH)"
         },
         {
-          "label": "Arena 2 Premium",
-          "url": "https://admin2.shadow-ran.online/arenapre2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "arenapre2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Belgrano vs Rosario Central",
-          "matchup": {
-            "home": "Belgrano",
-            "away": "Rosario Central"
-          },
-          "display_name": "Belgrano vs Rosario Central - Arena 2 Premium"
-        },
-        {
           "label": "fana3es.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana3es.m3u8",
           "type": "m3u8",
@@ -4780,7 +4733,7 @@
       "streams": []
     }
   },
-  "stream_count": 50,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
