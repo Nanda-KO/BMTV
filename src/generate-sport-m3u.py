@@ -11,7 +11,7 @@ from typing import Optional
 
 import os
 
-EVENTS_API = "https://api.cdnlivetv.ru/api/v1/events/sports/?user=cdnlivetv&plan=free"
+EVENTS_API = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
 IPTV_CHANNELS_API = "https://iptv-org.github.io/api/channels.json"
 IPTV_LOGOS_API = "https://iptv-org.github.io/api/logos.json"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "data"
@@ -31,7 +31,7 @@ HEADERS = {
     "Referer": "https://cdnlivetv.ru/",
 }
 
-STREAM_REFERER = "https://cdnlivetv.is/"
+STREAM_REFERER = "https://cdnlivetv.ru/"
 STREAM_UA      = HEADERS["User-Agent"]
 
 
