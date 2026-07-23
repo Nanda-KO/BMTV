@@ -28,10 +28,10 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     ),
-    "Referer": "https://cdnlivetv.ru/",
+    "Referer": "https://cdnlivetv.tv/",
 }
 
-STREAM_REFERER = "https://cdnlivetv.ru/"
+STREAM_REFERER = "https://cdnlivetv.tv/"
 STREAM_UA      = HEADERS["User-Agent"]
 
 
@@ -94,7 +94,7 @@ def extract_m3u8(html: str) -> Optional[str]:
     token_qs   = next((v for v in decoded if v.startswith("?token=")), None)
 
     if channel_id and token_qs:
-        return f"https://cdnlivetv.ru/secure/api/v1/{channel_id}/playlist.m3u8{token_qs}"
+        return f"https://cdnlivetv.tv/secure/api/v1/{channel_id}/playlist.m3u8{token_qs}"
 
     m = re.search(r"https://[^\s\"']+playlist\.m3u8[^\s\"']*", html)
     return m.group() if m else None
