@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T04:25:21+00:00",
+  "scraped_at": "2026-07-24T06:44:56+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -314,12 +314,12 @@
         "streams": [
           {
             "label": "AZTECA 7",
-            "url": "https://admin2.shadow-ran.online/azteca7mx.m3u8",
+            "url": "https://admin2.shadow-ran.online/azteca7.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "azteca7mx.m3u8",
+            "path": "azteca7.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-6",
               "Origin": "https://roxiestreams.info",
@@ -337,12 +337,12 @@
           },
           {
             "label": "ESPN MX",
-            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+            "url": "https://admin2.shadow-ran.online/espn1mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "espnmx.m3u8",
+            "path": "espn1mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-6",
               "Origin": "https://roxiestreams.info",
@@ -370,13 +370,13 @@
         "page": "https://roxiestreams.info/soccer-streams-7",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+            "label": "FOX ONE MX",
+            "url": "https://admin2.shadow-ran.online/foxonemx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana2.m3u8",
+            "path": "foxonemx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -390,16 +390,16 @@
               "home": "Tijuana",
               "away": "León"
             },
-            "display_name": "Tijuana vs León - Stream 1"
+            "display_name": "Tijuana vs León - FOX ONE MX"
           },
           {
-            "label": "Arena 2 Premium",
-            "url": "https://admin2.shadow-ran.online/arenapre2.m3u8",
+            "label": "VIX US",
+            "url": "https://admin2.shadow-ran.online/vix3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "arenapre2.m3u8",
+            "path": "vix3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -413,53 +413,7 @@
               "home": "Tijuana",
               "away": "León"
             },
-            "display_name": "Tijuana vs León - Arena 2 Premium"
-          },
-          {
-            "label": "CANAL 11 PT",
-            "url": "https://admin2.shadow-ran.online/canal11.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "canal11.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Tijuana vs León",
-            "matchup": {
-              "home": "Tijuana",
-              "away": "León"
-            },
-            "display_name": "Tijuana vs León - CANAL 11 PT"
-          },
-          {
-            "label": "fs1.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fs1.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Tijuana vs León",
-            "matchup": {
-              "home": "Tijuana",
-              "away": "León"
-            },
-            "display_name": "Tijuana vs León - fs1.m3u8"
+            "display_name": "Tijuana vs León - VIX US"
           }
         ]
       }
@@ -1796,9 +1750,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
-        "Arena 2 Premium",
-        "CANAL 11 PT",
+        "FOX ONE MX",
+        "MX VPN PC ONLY",
+        "VIX US",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3621,12 +3575,12 @@
         },
         {
           "label": "AZTECA 7",
-          "url": "https://admin2.shadow-ran.online/azteca7mx.m3u8",
+          "url": "https://admin2.shadow-ran.online/azteca7.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "azteca7mx.m3u8",
+          "path": "azteca7.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-6",
             "Origin": "https://roxiestreams.info",
@@ -3644,12 +3598,12 @@
         },
         {
           "label": "ESPN MX",
-          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+          "url": "https://admin2.shadow-ran.online/espn1mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "espnmx.m3u8",
+          "path": "espn1mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-6",
             "Origin": "https://roxiestreams.info",
@@ -3666,13 +3620,13 @@
           "display_name": "Atlante vs América - ESPN MX"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+          "label": "FOX ONE MX",
+          "url": "https://admin2.shadow-ran.online/foxonemx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana2.m3u8",
+          "path": "foxonemx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -3686,16 +3640,16 @@
             "home": "Tijuana",
             "away": "León"
           },
-          "display_name": "Tijuana vs León - Stream 1"
+          "display_name": "Tijuana vs León - FOX ONE MX"
         },
         {
-          "label": "Arena 2 Premium",
-          "url": "https://admin2.shadow-ran.online/arenapre2.m3u8",
+          "label": "VIX US",
+          "url": "https://admin2.shadow-ran.online/vix3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "arenapre2.m3u8",
+          "path": "vix3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -3709,53 +3663,7 @@
             "home": "Tijuana",
             "away": "León"
           },
-          "display_name": "Tijuana vs León - Arena 2 Premium"
-        },
-        {
-          "label": "CANAL 11 PT",
-          "url": "https://admin2.shadow-ran.online/canal11.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "canal11.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Tijuana vs León",
-          "matchup": {
-            "home": "Tijuana",
-            "away": "León"
-          },
-          "display_name": "Tijuana vs León - CANAL 11 PT"
-        },
-        {
-          "label": "fs1.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fs1.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Tijuana vs León",
-          "matchup": {
-            "home": "Tijuana",
-            "away": "León"
-          },
-          "display_name": "Tijuana vs León - fs1.m3u8"
+          "display_name": "Tijuana vs León - VIX US"
         }
       ]
     },
@@ -4461,7 +4369,7 @@
       "streams": []
     }
   },
-  "stream_count": 45,
+  "stream_count": 43,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
