@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T17:55:40+00:00",
+  "scraped_at": "2026-07-26T19:00:35+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -335,12 +335,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/fana2.m3u8",
+            "url": "https://temp.shadow-ran.online/fana2pt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "temp",
-            "path": "fana2.m3u8",
+            "path": "fana2pt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-4",
               "Origin": "https://roxiestreams.info",
@@ -357,13 +357,13 @@
             "display_name": "Cruzeiro vs Botafogo - Stream 1"
           },
           {
-            "label": "fana2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://temp.shadow-ran.online/fana2en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana2.m3u8",
+            "subdomain": "temp",
+            "path": "fana2en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-4",
               "Origin": "https://roxiestreams.info",
@@ -377,7 +377,53 @@
               "home": "Cruzeiro",
               "away": "Botafogo"
             },
-            "display_name": "Cruzeiro vs Botafogo - fana2.m3u8"
+            "display_name": "Cruzeiro vs Botafogo - Stream 2 (EN)"
+          },
+          {
+            "label": "Stream 3 (ES)",
+            "url": "https://temp.shadow-ran.online/fana2es.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "fana2es.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Cruzeiro vs Botafogo",
+            "matchup": {
+              "home": "Cruzeiro",
+              "away": "Botafogo"
+            },
+            "display_name": "Cruzeiro vs Botafogo - Stream 3 (ES)"
+          },
+          {
+            "label": "fana2pt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2pt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana2pt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Cruzeiro vs Botafogo",
+            "matchup": {
+              "home": "Cruzeiro",
+              "away": "Botafogo"
+            },
+            "display_name": "Cruzeiro vs Botafogo - fana2pt.m3u8"
           }
         ]
       },
@@ -2291,6 +2337,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
+        "Stream 3 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5025,12 +5073,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/fana2.m3u8",
+          "url": "https://temp.shadow-ran.online/fana2pt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "temp",
-          "path": "fana2.m3u8",
+          "path": "fana2pt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-4",
             "Origin": "https://roxiestreams.info",
@@ -5047,13 +5095,13 @@
           "display_name": "Cruzeiro vs Botafogo - Stream 1"
         },
         {
-          "label": "fana2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://temp.shadow-ran.online/fana2en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana2.m3u8",
+          "subdomain": "temp",
+          "path": "fana2en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-4",
             "Origin": "https://roxiestreams.info",
@@ -5067,7 +5115,53 @@
             "home": "Cruzeiro",
             "away": "Botafogo"
           },
-          "display_name": "Cruzeiro vs Botafogo - fana2.m3u8"
+          "display_name": "Cruzeiro vs Botafogo - Stream 2 (EN)"
+        },
+        {
+          "label": "Stream 3 (ES)",
+          "url": "https://temp.shadow-ran.online/fana2es.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "fana2es.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Cruzeiro vs Botafogo",
+          "matchup": {
+            "home": "Cruzeiro",
+            "away": "Botafogo"
+          },
+          "display_name": "Cruzeiro vs Botafogo - Stream 3 (ES)"
+        },
+        {
+          "label": "fana2pt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2pt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana2pt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Cruzeiro vs Botafogo",
+          "matchup": {
+            "home": "Cruzeiro",
+            "away": "Botafogo"
+          },
+          "display_name": "Cruzeiro vs Botafogo - fana2pt.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6202,7 +6296,7 @@
       ]
     }
   },
-  "stream_count": 61,
+  "stream_count": 63,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
