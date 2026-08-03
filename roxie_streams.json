@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T21:49:56+00:00",
+  "scraped_at": "2026-08-03T22:55:08+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -181,6 +181,120 @@
               "away": "Vitoria"
             },
             "display_name": "Athletico-PR vs Vitoria - torino.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Huracán vs Atlético Tucumán",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Huracán",
+          "away": "Atlético Tucumán"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-4",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Huracán vs Atlético Tucumán",
+            "matchup": {
+              "home": "Huracán",
+              "away": "Atlético Tucumán"
+            },
+            "display_name": "Huracán vs Atlético Tucumán - Stream 1"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Huracán vs Atlético Tucumán",
+            "matchup": {
+              "home": "Huracán",
+              "away": "Atlético Tucumán"
+            },
+            "display_name": "Huracán vs Atlético Tucumán - fana.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Central Córdoba SdE vs San Lorenzo",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Central Córdoba SdE",
+          "away": "San Lorenzo"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-5",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-5",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Central Córdoba SdE vs San Lorenzo",
+            "matchup": {
+              "home": "Central Córdoba SdE",
+              "away": "San Lorenzo"
+            },
+            "display_name": "Central Córdoba SdE vs San Lorenzo - Stream 1"
+          },
+          {
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-5",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Central Córdoba SdE vs San Lorenzo",
+            "matchup": {
+              "home": "Central Córdoba SdE",
+              "away": "San Lorenzo"
+            },
+            "display_name": "Central Córdoba SdE vs San Lorenzo - fana2.m3u8"
           }
         ]
       }
@@ -1035,6 +1149,8 @@
         "Celtic vs Dundee",
         "York City vs Crawley Town",
         "Athletico-PR vs Vitoria",
+        "Huracán vs Atlético Tucumán",
+        "Central Córdoba SdE vs San Lorenzo",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -1089,6 +1205,14 @@
         {
           "label": "Athletico-PR vs Vitoria",
           "url": "https://roxiestreams.info/soccer-streams-3"
+        },
+        {
+          "label": "Huracán vs Atlético Tucumán",
+          "url": "https://roxiestreams.info/soccer-streams-4"
+        },
+        {
+          "label": "Central Córdoba SdE vs San Lorenzo",
+          "url": "https://roxiestreams.info/soccer-streams-5"
         },
         {
           "label": "Stream Request (Discord)",
@@ -1230,6 +1354,138 @@
     },
     "https://roxiestreams.info/soccer-streams-3": {
       "url": "https://roxiestreams.info/soccer-streams-3",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-4": {
+      "url": "https://roxiestreams.info/soccer-streams-4",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-5": {
+      "url": "https://roxiestreams.info/soccer-streams-5",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -2839,7 +3095,9 @@
         "https://roxiestreams.info/soccer",
         "https://roxiestreams.info/soccer-streams-1",
         "https://roxiestreams.info/soccer-streams-2",
-        "https://roxiestreams.info/soccer-streams-3"
+        "https://roxiestreams.info/soccer-streams-3",
+        "https://roxiestreams.info/soccer-streams-4",
+        "https://roxiestreams.info/soccer-streams-5"
       ],
       "streams": [
         {
@@ -2979,6 +3237,98 @@
             "away": "Vitoria"
           },
           "display_name": "Athletico-PR vs Vitoria - torino.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Huracán vs Atlético Tucumán",
+          "matchup": {
+            "home": "Huracán",
+            "away": "Atlético Tucumán"
+          },
+          "display_name": "Huracán vs Atlético Tucumán - Stream 1"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Huracán vs Atlético Tucumán",
+          "matchup": {
+            "home": "Huracán",
+            "away": "Atlético Tucumán"
+          },
+          "display_name": "Huracán vs Atlético Tucumán - fana.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-5",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Central Córdoba SdE vs San Lorenzo",
+          "matchup": {
+            "home": "Central Córdoba SdE",
+            "away": "San Lorenzo"
+          },
+          "display_name": "Central Córdoba SdE vs San Lorenzo - Stream 1"
+        },
+        {
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-5",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Central Córdoba SdE vs San Lorenzo",
+          "matchup": {
+            "home": "Central Córdoba SdE",
+            "away": "San Lorenzo"
+          },
+          "display_name": "Central Córdoba SdE vs San Lorenzo - fana2.m3u8"
         }
       ]
     },
@@ -3693,7 +4043,7 @@
       ]
     }
   },
-  "stream_count": 36,
+  "stream_count": 40,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
