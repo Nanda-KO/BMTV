@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T09:50:03+00:00",
+  "scraped_at": "2026-08-08T10:24:52+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -39,45 +39,22 @@
   "events_by_sport": {
     "soccer": [
       {
-        "title": "Lens vs Sunderland",
+        "title": "Leeds vs Leipzig",
         "sport": "soccer",
         "matchup": {
-          "home": "Lens",
-          "away": "Sunderland"
+          "home": "Leeds",
+          "away": "Leipzig"
         },
         "page": "https://roxiestreams.info/soccer-streams-1",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/golazo.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "golazo.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Lens vs Sunderland",
-            "matchup": {
-              "home": "Lens",
-              "away": "Sunderland"
-            },
-            "display_name": "Lens vs Sunderland - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
+            "url": "https://tedesco.shadow-ran.online/rbtv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "golazo.m3u8",
+            "path": "rbtv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -86,21 +63,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Lens vs Sunderland",
+            "event_title": "Leeds vs Leipzig",
             "matchup": {
-              "home": "Lens",
-              "away": "Sunderland"
+              "home": "Leeds",
+              "away": "Leipzig"
             },
-            "display_name": "Lens vs Sunderland - Stream 2"
+            "display_name": "Leeds vs Leipzig - Stream 1"
           },
           {
-            "label": "golazo.m3u8",
-            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+            "label": "rbtv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/rbtv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "golazo.m3u8",
+            "path": "rbtv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -109,12 +86,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Lens vs Sunderland",
+            "event_title": "Leeds vs Leipzig",
             "matchup": {
-              "home": "Lens",
-              "away": "Sunderland"
+              "home": "Leeds",
+              "away": "Leipzig"
             },
-            "display_name": "Lens vs Sunderland - golazo.m3u8"
+            "display_name": "Leeds vs Leipzig - rbtv.m3u8"
           }
         ]
       },
@@ -129,12 +106,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/palace.m3u8",
+            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "palace.m3u8",
+            "subdomain": "tedesco",
+            "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -151,13 +128,13 @@
             "display_name": "Udinese vs Barcelona - Stream 1"
           },
           {
-            "label": "palace.m3u8",
-            "url": "https://daffodil.shadow-ran.online/palace.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "palace.m3u8",
+            "subdomain": "admin2",
+            "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -171,7 +148,30 @@
               "home": "Udinese",
               "away": "Barcelona"
             },
-            "display_name": "Udinese vs Barcelona - palace.m3u8"
+            "display_name": "Udinese vs Barcelona - Stream 2"
+          },
+          {
+            "label": "golazo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "golazo.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Udinese vs Barcelona",
+            "matchup": {
+              "home": "Udinese",
+              "away": "Barcelona"
+            },
+            "display_name": "Udinese vs Barcelona - golazo.m3u8"
           }
         ]
       },
@@ -1132,13 +1132,36 @@
         "page": "https://roxiestreams.info/soccer-streams-3",
         "streams": [
           {
-            "label": "Stream 2 (ES)",
-            "url": "https://tedesco.shadow-ran.online/tv3.m3u8",
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "tv3.m3u8",
+            "path": "cbssn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Chelsea vs Milan",
+            "matchup": {
+              "home": "Chelsea",
+              "away": "Milan"
+            },
+            "display_name": "Chelsea vs Milan - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/foxd.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foxd.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -1153,6 +1176,29 @@
               "away": "Milan"
             },
             "display_name": "Chelsea vs Milan - Stream 2 (ES)"
+          },
+          {
+            "label": "cbssn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "cbssn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Chelsea vs Milan",
+            "matchup": {
+              "home": "Chelsea",
+              "away": "Milan"
+            },
+            "display_name": "Chelsea vs Milan - cbssn.m3u8"
           }
         ]
       },
@@ -2833,9 +2879,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Lens vs Sunderland",
         "Juventus vs Inter Milan",
         "Chelsea vs Milan",
+        "Leeds vs Leipzig",
         "Bayer Leverkusen vs Sevilla",
         "Brighton vs Roma",
         "Tottenham vs Getafe",
@@ -2907,16 +2953,16 @@
           "url": "https://roxiestreams.info/multiview"
         },
         {
-          "label": "Lens vs Sunderland",
-          "url": "https://roxiestreams.info/soccer-streams-1"
-        },
-        {
           "label": "Juventus vs Inter Milan",
           "url": "https://roxiestreams.info/soccer-streams-2"
         },
         {
           "label": "Chelsea vs Milan",
           "url": "https://roxiestreams.info/soccer-streams-3"
+        },
+        {
+          "label": "Leeds vs Leipzig",
+          "url": "https://roxiestreams.info/soccer-streams-1"
         },
         {
           "label": "Bayer Leverkusen vs Sevilla",
@@ -3048,7 +3094,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3115,6 +3160,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4181,7 +4227,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (ES)",
-        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7076,35 +7121,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/golazo.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "golazo.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Lens vs Sunderland",
-          "matchup": {
-            "home": "Lens",
-            "away": "Sunderland"
-          },
-          "display_name": "Lens vs Sunderland - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
+          "url": "https://tedesco.shadow-ran.online/rbtv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "golazo.m3u8",
+          "path": "rbtv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -7113,21 +7135,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Lens vs Sunderland",
+          "event_title": "Leeds vs Leipzig",
           "matchup": {
-            "home": "Lens",
-            "away": "Sunderland"
+            "home": "Leeds",
+            "away": "Leipzig"
           },
-          "display_name": "Lens vs Sunderland - Stream 2"
+          "display_name": "Leeds vs Leipzig - Stream 1"
         },
         {
-          "label": "golazo.m3u8",
-          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+          "label": "rbtv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/rbtv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "golazo.m3u8",
+          "path": "rbtv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -7136,21 +7158,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Lens vs Sunderland",
+          "event_title": "Leeds vs Leipzig",
           "matchup": {
-            "home": "Lens",
-            "away": "Sunderland"
+            "home": "Leeds",
+            "away": "Leipzig"
           },
-          "display_name": "Lens vs Sunderland - golazo.m3u8"
+          "display_name": "Leeds vs Leipzig - rbtv.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/palace.m3u8",
+          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "palace.m3u8",
+          "subdomain": "tedesco",
+          "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -7167,13 +7189,13 @@
           "display_name": "Udinese vs Barcelona - Stream 1"
         },
         {
-          "label": "palace.m3u8",
-          "url": "https://daffodil.shadow-ran.online/palace.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "palace.m3u8",
+          "subdomain": "admin2",
+          "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -7187,7 +7209,30 @@
             "home": "Udinese",
             "away": "Barcelona"
           },
-          "display_name": "Udinese vs Barcelona - palace.m3u8"
+          "display_name": "Udinese vs Barcelona - Stream 2"
+        },
+        {
+          "label": "golazo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "golazo.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Udinese vs Barcelona",
+          "matchup": {
+            "home": "Udinese",
+            "away": "Barcelona"
+          },
+          "display_name": "Udinese vs Barcelona - golazo.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7972,13 +8017,36 @@
           "display_name": "Sport Boys vs Alianza Lima - ajax.m3u8"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://tedesco.shadow-ran.online/tv3.m3u8",
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "tv3.m3u8",
+          "path": "cbssn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Chelsea vs Milan",
+          "matchup": {
+            "home": "Chelsea",
+            "away": "Milan"
+          },
+          "display_name": "Chelsea vs Milan - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/foxd.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foxd.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -7993,6 +8061,29 @@
             "away": "Milan"
           },
           "display_name": "Chelsea vs Milan - Stream 2 (ES)"
+        },
+        {
+          "label": "cbssn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "cbssn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Chelsea vs Milan",
+          "matchup": {
+            "home": "Chelsea",
+            "away": "Milan"
+          },
+          "display_name": "Chelsea vs Milan - cbssn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9370,7 +9461,7 @@
       ]
     }
   },
-  "stream_count": 98,
+  "stream_count": 100,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
