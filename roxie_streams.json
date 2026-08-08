@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T19:37:52+00:00",
+  "scraped_at": "2026-08-08T20:04:00+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -824,13 +824,13 @@
         "page": "https://roxiestreams.info/soccer-streams-20",
         "streams": [
           {
-            "label": "TSN",
-            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tsn.m3u8",
+            "path": "mlb2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-20",
               "Origin": "https://roxiestreams.info",
@@ -844,16 +844,16 @@
               "home": "Toluca",
               "away": "LAFC"
             },
-            "display_name": "Toluca vs LAFC - TSN"
+            "display_name": "Toluca vs LAFC - Stream 2 (EN)"
           },
           {
-            "label": "FOX",
-            "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+            "label": "tudn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foxalt.m3u8",
+            "subdomain": "daffodil",
+            "path": "tudn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-20",
               "Origin": "https://roxiestreams.info",
@@ -867,76 +867,7 @@
               "home": "Toluca",
               "away": "LAFC"
             },
-            "display_name": "Toluca vs LAFC - FOX"
-          },
-          {
-            "label": "FOX (ALT)",
-            "url": "https://tedesco.shadow-ran.online/fox.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-20",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "fox.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-20",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Toluca vs LAFC",
-            "matchup": {
-              "home": "Toluca",
-              "away": "LAFC"
-            },
-            "display_name": "Toluca vs LAFC - FOX (ALT)"
-          },
-          {
-            "label": "TELEMUNDO",
-            "url": "https://admin2.shadow-ran.online/tele.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-20",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tele.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-20",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Toluca vs LAFC",
-            "matchup": {
-              "home": "Toluca",
-              "away": "LAFC"
-            },
-            "display_name": "Toluca vs LAFC - TELEMUNDO"
-          },
-          {
-            "label": "العربية",
-            "url": "https://admin2.shadow-ran.online/bein1.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-20",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "bein1.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-20",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Toluca vs LAFC",
-            "matchup": {
-              "home": "Toluca",
-              "away": "LAFC"
-            },
-            "display_name": "Toluca vs LAFC - العربية"
+            "display_name": "Toluca vs LAFC - tudn.m3u8"
           }
         ]
       },
@@ -4049,14 +3980,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "TSN",
-        "FOX",
-        "FOX (ALT)",
-        "TELEMUNDO",
-        "PC ONLY (DIRECT)",
-        "Tele (Peacock)",
-        "العربية",
-        "TSN PC DIRECT VPN",
+        "Stream 1 (ES)",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7925,13 +7850,13 @@
           "display_name": "Botafogo vs Fluminense - colo.m3u8"
         },
         {
-          "label": "TSN",
-          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tsn.m3u8",
+          "path": "mlb2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-20",
             "Origin": "https://roxiestreams.info",
@@ -7945,16 +7870,16 @@
             "home": "Toluca",
             "away": "LAFC"
           },
-          "display_name": "Toluca vs LAFC - TSN"
+          "display_name": "Toluca vs LAFC - Stream 2 (EN)"
         },
         {
-          "label": "FOX",
-          "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+          "label": "tudn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foxalt.m3u8",
+          "subdomain": "daffodil",
+          "path": "tudn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-20",
             "Origin": "https://roxiestreams.info",
@@ -7968,76 +7893,7 @@
             "home": "Toluca",
             "away": "LAFC"
           },
-          "display_name": "Toluca vs LAFC - FOX"
-        },
-        {
-          "label": "FOX (ALT)",
-          "url": "https://tedesco.shadow-ran.online/fox.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-20",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "fox.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-20",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Toluca vs LAFC",
-          "matchup": {
-            "home": "Toluca",
-            "away": "LAFC"
-          },
-          "display_name": "Toluca vs LAFC - FOX (ALT)"
-        },
-        {
-          "label": "TELEMUNDO",
-          "url": "https://admin2.shadow-ran.online/tele.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-20",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tele.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-20",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Toluca vs LAFC",
-          "matchup": {
-            "home": "Toluca",
-            "away": "LAFC"
-          },
-          "display_name": "Toluca vs LAFC - TELEMUNDO"
-        },
-        {
-          "label": "العربية",
-          "url": "https://admin2.shadow-ran.online/bein1.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-20",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "bein1.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-20",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Toluca vs LAFC",
-          "matchup": {
-            "home": "Toluca",
-            "away": "LAFC"
-          },
-          "display_name": "Toluca vs LAFC - العربية"
+          "display_name": "Toluca vs LAFC - tudn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9760,7 +9616,7 @@
       ]
     }
   },
-  "stream_count": 106,
+  "stream_count": 103,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
