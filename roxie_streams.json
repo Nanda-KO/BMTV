@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T22:23:10+00:00",
+  "scraped_at": "2026-08-09T23:02:46+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -180,13 +180,13 @@
         "page": "https://roxiestreams.info/soccer-streams-20",
         "streams": [
           {
-            "label": "Stream 1 (ES)",
-            "url": "https://admin2.shadow-ran.online/espn.m3u8",
+            "label": "ESPN MX",
+            "url": "https://admin2.shadow-ran.online/espn1mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "espn.m3u8",
+            "path": "espn1mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-20",
               "Origin": "https://roxiestreams.info",
@@ -200,16 +200,16 @@
               "home": "United States U20",
               "away": "Mexico U20"
             },
-            "display_name": "United States U20 vs Mexico U20 - Stream 1 (ES)"
+            "display_name": "United States U20 vs Mexico U20 - ESPN MX"
           },
           {
-            "label": "Stream 2 (DE)",
-            "url": "https://tedesco.shadow-ran.online/news.m3u8",
+            "label": "VIX",
+            "url": "https://admin2.shadow-ran.online/vix1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "news.m3u8",
+            "subdomain": "admin2",
+            "path": "vix1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-20",
               "Origin": "https://roxiestreams.info",
@@ -223,16 +223,16 @@
               "home": "United States U20",
               "away": "Mexico U20"
             },
-            "display_name": "United States U20 vs Mexico U20 - Stream 2 (DE)"
+            "display_name": "United States U20 vs Mexico U20 - VIX"
           },
           {
-            "label": "espn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+            "label": "espn1mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espn1mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "espn.m3u8",
+            "path": "espn1mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-20",
               "Origin": "https://roxiestreams.info",
@@ -246,7 +246,7 @@
               "home": "United States U20",
               "away": "Mexico U20"
             },
-            "display_name": "United States U20 vs Mexico U20 - espn.m3u8"
+            "display_name": "United States U20 vs Mexico U20 - espn1mx.m3u8"
           }
         ]
       },
@@ -3022,8 +3022,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (ES)",
-        "Stream 2 (DE)",
+        "ESPN MX",
+        "ESPN MX VPN",
+        "VIX",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6874,13 +6875,13 @@
           "display_name": "Johor Darul Ta'zim vs Chelsea - hub.m3u8"
         },
         {
-          "label": "Stream 1 (ES)",
-          "url": "https://admin2.shadow-ran.online/espn.m3u8",
+          "label": "ESPN MX",
+          "url": "https://admin2.shadow-ran.online/espn1mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "espn.m3u8",
+          "path": "espn1mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-20",
             "Origin": "https://roxiestreams.info",
@@ -6894,16 +6895,16 @@
             "home": "United States U20",
             "away": "Mexico U20"
           },
-          "display_name": "United States U20 vs Mexico U20 - Stream 1 (ES)"
+          "display_name": "United States U20 vs Mexico U20 - ESPN MX"
         },
         {
-          "label": "Stream 2 (DE)",
-          "url": "https://tedesco.shadow-ran.online/news.m3u8",
+          "label": "VIX",
+          "url": "https://admin2.shadow-ran.online/vix1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "news.m3u8",
+          "subdomain": "admin2",
+          "path": "vix1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-20",
             "Origin": "https://roxiestreams.info",
@@ -6917,16 +6918,16 @@
             "home": "United States U20",
             "away": "Mexico U20"
           },
-          "display_name": "United States U20 vs Mexico U20 - Stream 2 (DE)"
+          "display_name": "United States U20 vs Mexico U20 - VIX"
         },
         {
-          "label": "espn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+          "label": "espn1mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espn1mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "espn.m3u8",
+          "path": "espn1mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-20",
             "Origin": "https://roxiestreams.info",
@@ -6940,7 +6941,7 @@
             "home": "United States U20",
             "away": "Mexico U20"
           },
-          "display_name": "United States U20 vs Mexico U20 - espn.m3u8"
+          "display_name": "United States U20 vs Mexico U20 - espn1mx.m3u8"
         },
         {
           "label": "Stream 1",
