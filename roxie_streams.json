@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T23:11:57+00:00",
+  "scraped_at": "2026-08-12T00:04:07+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -479,12 +479,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/beines.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "beines.m3u8",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-6",
               "Origin": "https://roxiestreams.info",
@@ -499,6 +499,29 @@
               "away": "Pachuca"
             },
             "display_name": "Charlotte vs Pachuca - Stream 1"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-6",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Charlotte vs Pachuca",
+            "matchup": {
+              "home": "Charlotte",
+              "away": "Pachuca"
+            },
+            "display_name": "Charlotte vs Pachuca - mls.m3u8"
           }
         ]
       },
@@ -513,12 +536,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana3pt.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana3pt.m3u8",
+            "path": "mls3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -535,13 +558,13 @@
             "display_name": "Columbus Crew vs Pumas - Stream 1"
           },
           {
-            "label": "fana3pt.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana3pt.m3u8",
+            "label": "mls3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana3pt.m3u8",
+            "path": "mls3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -555,7 +578,7 @@
               "home": "Columbus Crew",
               "away": "Pumas"
             },
-            "display_name": "Columbus Crew vs Pumas - fana3pt.m3u8"
+            "display_name": "Columbus Crew vs Pumas - mls3.m3u8"
           }
         ]
       },
@@ -659,63 +682,6 @@
               "away": "Atlas"
             },
             "display_name": "Cincinnati vs Atlas - fana4pt.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Bolívar vs Sao Paulo",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Bolívar",
-          "away": "Sao Paulo"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-9",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mls.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mls.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bolívar vs Sao Paulo",
-            "matchup": {
-              "home": "Bolívar",
-              "away": "Sao Paulo"
-            },
-            "display_name": "Bolívar vs Sao Paulo - Stream 1"
-          },
-          {
-            "label": "mls.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mls.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bolívar vs Sao Paulo",
-            "matchup": {
-              "home": "Bolívar",
-              "away": "Sao Paulo"
-            },
-            "display_name": "Bolívar vs Sao Paulo - mls.m3u8"
           }
         ]
       }
@@ -5285,12 +5251,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/beines.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "beines.m3u8",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-6",
             "Origin": "https://roxiestreams.info",
@@ -5307,13 +5273,36 @@
           "display_name": "Charlotte vs Pachuca - Stream 1"
         },
         {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-6",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Charlotte vs Pachuca",
+          "matchup": {
+            "home": "Charlotte",
+            "away": "Pachuca"
+          },
+          "display_name": "Charlotte vs Pachuca - mls.m3u8"
+        },
+        {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana3pt.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana3pt.m3u8",
+          "path": "mls3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -5330,13 +5319,13 @@
           "display_name": "Columbus Crew vs Pumas - Stream 1"
         },
         {
-          "label": "fana3pt.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana3pt.m3u8",
+          "label": "mls3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana3pt.m3u8",
+          "path": "mls3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -5350,7 +5339,7 @@
             "home": "Columbus Crew",
             "away": "Pumas"
           },
-          "display_name": "Columbus Crew vs Pumas - fana3pt.m3u8"
+          "display_name": "Columbus Crew vs Pumas - mls3.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5443,52 +5432,6 @@
             "away": "Atlas"
           },
           "display_name": "Cincinnati vs Atlas - fana4pt.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mls.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mls.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bolívar vs Sao Paulo",
-          "matchup": {
-            "home": "Bolívar",
-            "away": "Sao Paulo"
-          },
-          "display_name": "Bolívar vs Sao Paulo - Stream 1"
-        },
-        {
-          "label": "mls.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mls.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bolívar vs Sao Paulo",
-          "matchup": {
-            "home": "Bolívar",
-            "away": "Sao Paulo"
-          },
-          "display_name": "Bolívar vs Sao Paulo - mls.m3u8"
         }
       ]
     },
@@ -6424,7 +6367,7 @@
       ]
     }
   },
-  "stream_count": 65,
+  "stream_count": 64,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
