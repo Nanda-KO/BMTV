@@ -1,29 +1,24 @@
 {
-  "scraped_at": "2026-08-20T07:27:52+00:00",
+  "scraped_at": "2026-08-20T08:07:56+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "UEFA Champions League Qualifier",
+      "name": "UEFA Europa League Qualifiers",
       "page": "https://roxiestreams.info/soccer",
-      "start_time": "August 19, 2026 12:00 PM"
+      "start_time": "August 20, 2026 10:00 AM"
     },
     {
-      "name": "Copa Libertadores",
-      "page": "https://roxiestreams.info/soccer",
-      "start_time": "August 19, 2026 3:00 PM"
+      "name": "Laliga",
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "start_time": "August 20, 2026 12:00 PM"
     },
     {
-      "name": "MLS",
-      "page": "https://roxiestreams.info/soccer",
-      "start_time": "August 19, 2026 4:30 PM"
-    },
-    {
-      "name": "AEW",
-      "page": "https://roxiestreams.info/aew",
-      "start_time": "August 19, 2026 5:00 PM"
+      "name": "NFL Preseason",
+      "page": "https://roxiestreams.info/nfl",
+      "start_time": "August 20, 2026 5:00 PM"
     }
   ],
   "events_by_sport": {
@@ -166,6 +161,63 @@
         ]
       },
       {
+        "title": "Rayo Vallecano vs Deportivo Alaves",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Rayo Vallecano",
+          "away": "Deportivo Alaves"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-4",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/tnt5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tnt5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Rayo Vallecano vs Deportivo Alaves",
+            "matchup": {
+              "home": "Rayo Vallecano",
+              "away": "Deportivo Alaves"
+            },
+            "display_name": "Rayo Vallecano vs Deportivo Alaves - Stream 1"
+          },
+          {
+            "label": "tnt5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tnt5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tnt5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Rayo Vallecano vs Deportivo Alaves",
+            "matchup": {
+              "home": "Rayo Vallecano",
+              "away": "Deportivo Alaves"
+            },
+            "display_name": "Rayo Vallecano vs Deportivo Alaves - tnt5.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Motherwell vs Freiburg",
         "sport": "soccer",
         "matchup": {
@@ -242,63 +294,6 @@
               "away": "Freiburg"
             },
             "display_name": "Motherwell vs Freiburg - golazo.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Rayo Vallecano vs Deportivo Alaves",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Rayo Vallecano",
-          "away": "Deportivo Alaves"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tnt5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tnt5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Rayo Vallecano vs Deportivo Alaves",
-            "matchup": {
-              "home": "Rayo Vallecano",
-              "away": "Deportivo Alaves"
-            },
-            "display_name": "Rayo Vallecano vs Deportivo Alaves - Stream 1"
-          },
-          {
-            "label": "tnt5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tnt5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tnt5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Rayo Vallecano vs Deportivo Alaves",
-            "matchup": {
-              "home": "Rayo Vallecano",
-              "away": "Deportivo Alaves"
-            },
-            "display_name": "Rayo Vallecano vs Deportivo Alaves - tnt5.m3u8"
           }
         ]
       },
@@ -1401,7 +1396,7 @@
     "motorsports": [],
     "aew": [
       {
-        "title": "AEW",
+        "title": "Stream 1",
         "sport": "aew",
         "matchup": null,
         "page": "https://roxiestreams.info/aew",
@@ -1422,10 +1417,18 @@
             },
             "drm_keys": null,
             "sport": "aew",
-            "event_title": "AEW",
+            "event_title": "Stream 1",
             "matchup": null,
-            "display_name": "AEW - Stream 1"
-          },
+            "display_name": "Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "aew.m3u8",
+        "sport": "aew",
+        "matchup": null,
+        "page": "https://roxiestreams.info/aew",
+        "streams": [
           {
             "label": "aew.m3u8",
             "url": "https://daffodil.shadow-ran.online/aew.m3u8",
@@ -1442,9 +1445,9 @@
             },
             "drm_keys": null,
             "sport": "aew",
-            "event_title": "AEW",
+            "event_title": "aew.m3u8",
             "matchup": null,
-            "display_name": "AEW - aew.m3u8"
+            "display_name": "aew.m3u8"
           }
         ]
       }
@@ -1696,8 +1699,8 @@
         }
       ]
     },
-    "https://roxiestreams.info/soccer-streams-3": {
-      "url": "https://roxiestreams.info/soccer-streams-3",
+    "https://roxiestreams.info/soccer-streams-4": {
+      "url": "https://roxiestreams.info/soccer-streams-4",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -1712,7 +1715,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1763,8 +1765,8 @@
         }
       ]
     },
-    "https://roxiestreams.info/soccer-streams-4": {
-      "url": "https://roxiestreams.info/soccer-streams-4",
+    "https://roxiestreams.info/soccer-streams-3": {
+      "url": "https://roxiestreams.info/soccer-streams-3",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -1779,6 +1781,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3775,8 +3778,8 @@
         "https://roxiestreams.info/soccer",
         "https://roxiestreams.info/soccer-streams-1",
         "https://roxiestreams.info/soccer-streams-2",
-        "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-4",
+        "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-5",
         "https://roxiestreams.info/soccer-streams-6",
         "https://roxiestreams.info/soccer-streams-7",
@@ -3900,6 +3903,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/tnt5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tnt5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Rayo Vallecano vs Deportivo Alaves",
+          "matchup": {
+            "home": "Rayo Vallecano",
+            "away": "Deportivo Alaves"
+          },
+          "display_name": "Rayo Vallecano vs Deportivo Alaves - Stream 1"
+        },
+        {
+          "label": "tnt5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tnt5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tnt5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Rayo Vallecano vs Deportivo Alaves",
+          "matchup": {
+            "home": "Rayo Vallecano",
+            "away": "Deportivo Alaves"
+          },
+          "display_name": "Rayo Vallecano vs Deportivo Alaves - tnt5.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
@@ -3966,52 +4015,6 @@
             "away": "Freiburg"
           },
           "display_name": "Motherwell vs Freiburg - golazo.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tnt5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tnt5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Rayo Vallecano vs Deportivo Alaves",
-          "matchup": {
-            "home": "Rayo Vallecano",
-            "away": "Deportivo Alaves"
-          },
-          "display_name": "Rayo Vallecano vs Deportivo Alaves - Stream 1"
-        },
-        {
-          "label": "tnt5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tnt5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tnt5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Rayo Vallecano vs Deportivo Alaves",
-          "matchup": {
-            "home": "Rayo Vallecano",
-            "away": "Deportivo Alaves"
-          },
-          "display_name": "Rayo Vallecano vs Deportivo Alaves - tnt5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4956,9 +4959,9 @@
           },
           "drm_keys": null,
           "sport": "aew",
-          "event_title": "AEW",
+          "event_title": "Stream 1",
           "matchup": null,
-          "display_name": "AEW - Stream 1"
+          "display_name": "Stream 1"
         },
         {
           "label": "aew.m3u8",
@@ -4976,9 +4979,9 @@
           },
           "drm_keys": null,
           "sport": "aew",
-          "event_title": "AEW",
+          "event_title": "aew.m3u8",
           "matchup": null,
-          "display_name": "AEW - aew.m3u8"
+          "display_name": "aew.m3u8"
         }
       ]
     },
