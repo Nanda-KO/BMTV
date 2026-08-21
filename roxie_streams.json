@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T20:49:34+00:00",
+  "scraped_at": "2026-08-21T21:17:21+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -375,12 +375,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxplus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "bein4.m3u8",
+            "path": "foxplus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -397,13 +397,13 @@
             "display_name": "León vs Monterrey - Stream 1"
           },
           {
-            "label": "bein4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+            "label": "foxplus.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxplus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "bein4.m3u8",
+            "path": "foxplus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -417,121 +417,87 @@
               "home": "León",
               "away": "Monterrey"
             },
-            "display_name": "León vs Monterrey - bein4.m3u8"
+            "display_name": "León vs Monterrey - foxplus.m3u8"
           }
         ]
       },
       {
-        "title": "Querétaro vs Toluca",
+        "title": "Tigres UANL vs Atlante",
         "sport": "soccer",
         "matchup": {
-          "home": "Querétaro",
-          "away": "Toluca"
+          "home": "Tigres UANL",
+          "away": "Atlante"
         },
-        "page": "https://roxiestreams.info/soccer-streams-14",
+        "page": "https://roxiestreams.info/soccer-streams-13",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+            "label": "AZTECA DEPORTES",
+            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "canal5.m3u8",
+            "path": "aztecadeportes.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Querétaro vs Toluca",
+            "event_title": "Tigres UANL vs Atlante",
             "matchup": {
-              "home": "Querétaro",
-              "away": "Toluca"
+              "home": "Tigres UANL",
+              "away": "Atlante"
             },
-            "display_name": "Querétaro vs Toluca - Stream 1"
+            "display_name": "Tigres UANL vs Atlante - AZTECA DEPORTES"
           },
           {
-            "label": "canal5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "label": "FOX ONE",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "canal5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Querétaro vs Toluca",
-            "matchup": {
-              "home": "Querétaro",
-              "away": "Toluca"
-            },
-            "display_name": "Querétaro vs Toluca - canal5.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Juárez vs América",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Juárez",
-          "away": "América"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-15",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/inter.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "inter.m3u8",
+            "path": "foxmx.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Juárez vs América",
+            "event_title": "Tigres UANL vs Atlante",
             "matchup": {
-              "home": "Juárez",
-              "away": "América"
+              "home": "Tigres UANL",
+              "away": "Atlante"
             },
-            "display_name": "Juárez vs América - Stream 1"
+            "display_name": "Tigres UANL vs Atlante - FOX ONE"
           },
           {
-            "label": "inter.m3u8",
-            "url": "https://daffodil.shadow-ran.online/inter.m3u8",
+            "label": "aztecadeportes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "inter.m3u8",
+            "path": "aztecadeportes.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Juárez vs América",
+            "event_title": "Tigres UANL vs Atlante",
             "matchup": {
-              "home": "Juárez",
-              "away": "América"
+              "home": "Tigres UANL",
+              "away": "Atlante"
             },
-            "display_name": "Juárez vs América - inter.m3u8"
+            "display_name": "Tigres UANL vs Atlante - aztecadeportes.m3u8"
           }
         ]
       },
@@ -703,6 +669,63 @@
               "away": "Strasbourg"
             },
             "display_name": "Olympique Marseille vs Strasbourg - Stream 2 (EN)"
+          }
+        ]
+      },
+      {
+        "title": "BB Erzurumspor vs Galatasaray",
+        "sport": "soccer",
+        "matchup": {
+          "home": "BB Erzurumspor",
+          "away": "Galatasaray"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-7",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "bein4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "BB Erzurumspor vs Galatasaray",
+            "matchup": {
+              "home": "BB Erzurumspor",
+              "away": "Galatasaray"
+            },
+            "display_name": "BB Erzurumspor vs Galatasaray - Stream 1"
+          },
+          {
+            "label": "bein4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "bein4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "BB Erzurumspor vs Galatasaray",
+            "matchup": {
+              "home": "BB Erzurumspor",
+              "away": "Galatasaray"
+            },
+            "display_name": "BB Erzurumspor vs Galatasaray - bein4.m3u8"
           }
         ]
       }
@@ -2566,6 +2589,76 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "FOX ONE MX VPN",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-13": {
+      "url": "https://roxiestreams.info/soccer-streams-13",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "AZTECA DEPORTES",
+        "AZTECA DEPORTES MX VPN",
+        "FOX ONE",
+        "FOX ONE MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2632,6 +2725,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "FOX ONE MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2697,7 +2791,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "AZTECA DEPORTES",
+        "AZTECA DEPORTES MX VPN",
+        "FOX ONE",
+        "FOX ONE MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5398,6 +5495,7 @@
         "https://roxiestreams.info/soccer-streams-10",
         "https://roxiestreams.info/soccer-streams-11",
         "https://roxiestreams.info/soccer-streams-12",
+        "https://roxiestreams.info/soccer-streams-13",
         "https://roxiestreams.info/soccer-streams-14",
         "https://roxiestreams.info/soccer-streams-15",
         "https://roxiestreams.info/soccer-streams-3",
@@ -5685,12 +5783,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxplus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "bein4.m3u8",
+          "path": "foxplus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -5707,13 +5805,13 @@
           "display_name": "León vs Monterrey - Stream 1"
         },
         {
-          "label": "bein4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+          "label": "foxplus.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxplus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "bein4.m3u8",
+          "path": "foxplus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -5727,99 +5825,76 @@
             "home": "León",
             "away": "Monterrey"
           },
-          "display_name": "León vs Monterrey - bein4.m3u8"
+          "display_name": "León vs Monterrey - foxplus.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+          "label": "AZTECA DEPORTES",
+          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "canal5.m3u8",
+          "path": "aztecadeportes.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Querétaro vs Toluca",
+          "event_title": "Tigres UANL vs Atlante",
           "matchup": {
-            "home": "Querétaro",
-            "away": "Toluca"
+            "home": "Tigres UANL",
+            "away": "Atlante"
           },
-          "display_name": "Querétaro vs Toluca - Stream 1"
+          "display_name": "Tigres UANL vs Atlante - AZTECA DEPORTES"
         },
         {
-          "label": "canal5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "label": "FOX ONE",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "canal5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Querétaro vs Toluca",
-          "matchup": {
-            "home": "Querétaro",
-            "away": "Toluca"
-          },
-          "display_name": "Querétaro vs Toluca - canal5.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/inter.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "inter.m3u8",
+          "path": "foxmx.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Juárez vs América",
+          "event_title": "Tigres UANL vs Atlante",
           "matchup": {
-            "home": "Juárez",
-            "away": "América"
+            "home": "Tigres UANL",
+            "away": "Atlante"
           },
-          "display_name": "Juárez vs América - Stream 1"
+          "display_name": "Tigres UANL vs Atlante - FOX ONE"
         },
         {
-          "label": "inter.m3u8",
-          "url": "https://daffodil.shadow-ran.online/inter.m3u8",
+          "label": "aztecadeportes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "inter.m3u8",
+          "path": "aztecadeportes.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Juárez vs América",
+          "event_title": "Tigres UANL vs Atlante",
           "matchup": {
-            "home": "Juárez",
-            "away": "América"
+            "home": "Tigres UANL",
+            "away": "Atlante"
           },
-          "display_name": "Juárez vs América - inter.m3u8"
+          "display_name": "Tigres UANL vs Atlante - aztecadeportes.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5958,6 +6033,52 @@
             "away": "Strasbourg"
           },
           "display_name": "Olympique Marseille vs Strasbourg - Stream 2 (EN)"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "bein4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "BB Erzurumspor vs Galatasaray",
+          "matchup": {
+            "home": "BB Erzurumspor",
+            "away": "Galatasaray"
+          },
+          "display_name": "BB Erzurumspor vs Galatasaray - Stream 1"
+        },
+        {
+          "label": "bein4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "bein4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "BB Erzurumspor vs Galatasaray",
+          "matchup": {
+            "home": "BB Erzurumspor",
+            "away": "Galatasaray"
+          },
+          "display_name": "BB Erzurumspor vs Galatasaray - bein4.m3u8"
         }
       ]
     },
@@ -7054,7 +7175,7 @@
       ]
     }
   },
-  "stream_count": 71,
+  "stream_count": 72,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
