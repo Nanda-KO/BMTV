@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T19:18:00+00:00",
+  "scraped_at": "2026-08-22T19:42:29+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -1103,12 +1103,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/newcastle.m3u8",
+            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "newcastle.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-24",
               "Origin": "https://roxiestreams.info",
@@ -1125,13 +1125,13 @@
             "display_name": "Atlético Tucumán vs Instituto - Stream 1"
           },
           {
-            "label": "newcastle.m3u8",
-            "url": "https://daffodil.shadow-ran.online/newcastle.m3u8",
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "newcastle.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-24",
               "Origin": "https://roxiestreams.info",
@@ -1145,7 +1145,7 @@
               "home": "Atlético Tucumán",
               "away": "Instituto"
             },
-            "display_name": "Atlético Tucumán vs Instituto - newcastle.m3u8"
+            "display_name": "Atlético Tucumán vs Instituto - fana2.m3u8"
           }
         ]
       },
@@ -1271,6 +1271,63 @@
               "away": "Deportivo Riestra"
             },
             "display_name": "Huracán vs Deportivo Riestra - colo.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Newell's Old Boys vs Banfield",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Newell's Old Boys",
+          "away": "Banfield"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-28",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/newcastle.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-28",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "newcastle.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-28",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Newell's Old Boys vs Banfield",
+            "matchup": {
+              "home": "Newell's Old Boys",
+              "away": "Banfield"
+            },
+            "display_name": "Newell's Old Boys vs Banfield - Stream 1"
+          },
+          {
+            "label": "newcastle.m3u8",
+            "url": "https://daffodil.shadow-ran.online/newcastle.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-28",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "newcastle.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-28",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Newell's Old Boys vs Banfield",
+            "matchup": {
+              "home": "Newell's Old Boys",
+              "away": "Banfield"
+            },
+            "display_name": "Newell's Old Boys vs Banfield - newcastle.m3u8"
           }
         ]
       },
@@ -9648,12 +9705,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/newcastle.m3u8",
+          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "newcastle.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-24",
             "Origin": "https://roxiestreams.info",
@@ -9670,13 +9727,13 @@
           "display_name": "Atlético Tucumán vs Instituto - Stream 1"
         },
         {
-          "label": "newcastle.m3u8",
-          "url": "https://daffodil.shadow-ran.online/newcastle.m3u8",
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "newcastle.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-24",
             "Origin": "https://roxiestreams.info",
@@ -9690,7 +9747,7 @@
             "home": "Atlético Tucumán",
             "away": "Instituto"
           },
-          "display_name": "Atlético Tucumán vs Instituto - newcastle.m3u8"
+          "display_name": "Atlético Tucumán vs Instituto - fana2.m3u8"
         },
         {
           "label": "Stream 2",
@@ -9783,6 +9840,52 @@
             "away": "Deportivo Riestra"
           },
           "display_name": "Huracán vs Deportivo Riestra - colo.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/newcastle.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-28",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "newcastle.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-28",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Newell's Old Boys vs Banfield",
+          "matchup": {
+            "home": "Newell's Old Boys",
+            "away": "Banfield"
+          },
+          "display_name": "Newell's Old Boys vs Banfield - Stream 1"
+        },
+        {
+          "label": "newcastle.m3u8",
+          "url": "https://daffodil.shadow-ran.online/newcastle.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-28",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "newcastle.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-28",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Newell's Old Boys vs Banfield",
+          "matchup": {
+            "home": "Newell's Old Boys",
+            "away": "Banfield"
+          },
+          "display_name": "Newell's Old Boys vs Banfield - newcastle.m3u8"
         },
         {
           "label": "Stream 1",
@@ -11571,7 +11674,7 @@
       ]
     }
   },
-  "stream_count": 120,
+  "stream_count": 122,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
