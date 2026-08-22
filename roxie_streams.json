@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T13:39:37+00:00",
+  "scraped_at": "2026-08-22T13:59:52+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -1148,12 +1148,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+            "url": "https://admin2.shadow-ran.online/now2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "bein4.m3u8",
+            "path": "now2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -1170,13 +1170,13 @@
             "display_name": "Leeds vs Nottingham - Stream 1"
           },
           {
-            "label": "bein4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+            "label": "now2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/now2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "bein4.m3u8",
+            "path": "now2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -1190,7 +1190,7 @@
               "home": "Leeds",
               "away": "Nottingham"
             },
-            "display_name": "Leeds vs Nottingham - bein4.m3u8"
+            "display_name": "Leeds vs Nottingham - now2.m3u8"
           }
         ]
       },
@@ -1205,12 +1205,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+            "url": "https://admin2.shadow-ran.online/now3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "cbssn.m3u8",
+            "subdomain": "admin2",
+            "path": "now3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -1225,6 +1225,29 @@
               "away": "Cagliari"
             },
             "display_name": "Parma vs Cagliari - Stream 1"
+          },
+          {
+            "label": "now3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/now3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "now3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Parma vs Cagliari",
+            "matchup": {
+              "home": "Parma",
+              "away": "Cagliari"
+            },
+            "display_name": "Parma vs Cagliari - now3.m3u8"
           }
         ]
       }
@@ -8934,12 +8957,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+          "url": "https://admin2.shadow-ran.online/now2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "bein4.m3u8",
+          "path": "now2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -8956,13 +8979,13 @@
           "display_name": "Leeds vs Nottingham - Stream 1"
         },
         {
-          "label": "bein4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+          "label": "now2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/now2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "bein4.m3u8",
+          "path": "now2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -8976,16 +8999,16 @@
             "home": "Leeds",
             "away": "Nottingham"
           },
-          "display_name": "Leeds vs Nottingham - bein4.m3u8"
+          "display_name": "Leeds vs Nottingham - now2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+          "url": "https://admin2.shadow-ran.online/now3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "cbssn.m3u8",
+          "subdomain": "admin2",
+          "path": "now3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -9000,6 +9023,29 @@
             "away": "Cagliari"
           },
           "display_name": "Parma vs Cagliari - Stream 1"
+        },
+        {
+          "label": "now3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/now3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "now3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Parma vs Cagliari",
+          "matchup": {
+            "home": "Parma",
+            "away": "Cagliari"
+          },
+          "display_name": "Parma vs Cagliari - now3.m3u8"
         }
       ]
     },
@@ -10535,7 +10581,7 @@
       ]
     }
   },
-  "stream_count": 107,
+  "stream_count": 108,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
