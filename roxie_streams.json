@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T00:00:40+00:00",
+  "scraped_at": "2026-08-22T01:49:36+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -432,12 +432,12 @@
           },
           {
             "label": "FOX ONE",
-            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxone.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "foxmx.m3u8",
+            "path": "foxone.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
@@ -1644,7 +1644,7 @@
         "page": "https://roxiestreams.info/nfl-streams-3",
         "streams": [
           {
-            "label": "Stream 2",
+            "label": "Stream 1",
             "url": "https://tedesco.shadow-ran.online/nfl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-3",
@@ -1664,7 +1664,30 @@
               "home": "Green Bay Packers",
               "away": "Denver Broncos"
             },
-            "display_name": "Green Bay Packers vs Denver Broncos - Stream 2"
+            "display_name": "Green Bay Packers vs Denver Broncos - Stream 1"
+          },
+          {
+            "label": "nfl3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nfl-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nfl-streams-3",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Green Bay Packers vs Denver Broncos",
+            "matchup": {
+              "home": "Green Bay Packers",
+              "away": "Denver Broncos"
+            },
+            "display_name": "Green Bay Packers vs Denver Broncos - nfl3.m3u8"
           }
         ]
       }
@@ -5806,12 +5829,12 @@
         },
         {
           "label": "FOX ONE",
-          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxone.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "foxmx.m3u8",
+          "path": "foxone.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
@@ -6775,7 +6798,7 @@
           "display_name": "Carolina Panthers vs Jacksonville Jaguars - nfl2.m3u8"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 1",
           "url": "https://tedesco.shadow-ran.online/nfl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-3",
@@ -6795,7 +6818,30 @@
             "home": "Green Bay Packers",
             "away": "Denver Broncos"
           },
-          "display_name": "Green Bay Packers vs Denver Broncos - Stream 2"
+          "display_name": "Green Bay Packers vs Denver Broncos - Stream 1"
+        },
+        {
+          "label": "nfl3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-3",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Green Bay Packers vs Denver Broncos",
+          "matchup": {
+            "home": "Green Bay Packers",
+            "away": "Denver Broncos"
+          },
+          "display_name": "Green Bay Packers vs Denver Broncos - nfl3.m3u8"
         }
       ]
     },
@@ -7129,7 +7175,7 @@
       ]
     }
   },
-  "stream_count": 71,
+  "stream_count": 72,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
