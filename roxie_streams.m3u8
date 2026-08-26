@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-08-26T18:53:49+00:00
+# RoxieStreams Playlist - generated 2026-08-26T21:42:01+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Real Madrid vs Real Sociedad - Stream 1" group-title="SOCCER - Real Madrid vs Real Sociedad",Real Madrid vs Real Sociedad - Stream 1
@@ -9,7 +9,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/dep.m3u8
+https://admin2.shadow-ran.online/dep.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid vs Real Sociedad - Stream 2" group-title="SOCCER - Real Madrid vs Real Sociedad",Real Madrid vs Real Sociedad - Stream 2
+#EXTGRP:SOCCER - Real Madrid vs Real Sociedad
+#EXTDESC:Real Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/mx.m3u8
 
 #EXTINF:-1 tvg-name="Real Madrid vs Real Sociedad - dep.m3u8" group-title="SOCCER - Real Madrid vs Real Sociedad",Real Madrid vs Real Sociedad - dep.m3u8
 #EXTGRP:SOCCER - Real Madrid vs Real Sociedad
@@ -82,15 +91,6 @@ https://daffodil.shadow-ran.online/tott.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/main.m3u8
-
-#EXTINF:-1 tvg-name="Everton vs Preston North End - Stream 2" group-title="SOCCER - Everton vs Preston North End",Everton vs Preston North End - Stream 2
-#EXTGRP:SOCCER - Everton vs Preston North End
-#EXTDESC:Everton vs Preston North End
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/alt.m3u8
 
 #EXTINF:-1 tvg-name="Everton vs Preston North End - main.m3u8" group-title="SOCCER - Everton vs Preston North End",Everton vs Preston North End - main.m3u8
 #EXTGRP:SOCCER - Everton vs Preston North End
@@ -173,23 +173,23 @@ https://admin2.shadow-ran.online/prem.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-14","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/prem.m3u8
 
-#EXTINF:-1 tvg-name="Olympique Lyonnais vs Fenerbahçe - Stream 1" group-title="SOCCER - Olympique Lyonnais vs Fenerbahçe",Olympique Lyonnais vs Fenerbahçe - Stream 1
-#EXTGRP:SOCCER - Olympique Lyonnais vs Fenerbahçe
-#EXTDESC:Olympique Lyonnais vs Fenerbahçe
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTINF:-1 tvg-name="AEK Athens vs Levski Sofia - Stream 1" group-title="SOCCER - AEK Athens vs Levski Sofia",AEK Athens vs Levski Sofia - Stream 1
+#EXTGRP:SOCCER - AEK Athens vs Levski Sofia
+#EXTDESC:AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-4","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/cardiff.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-3","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/athens.m3u8
 
-#EXTINF:-1 tvg-name="Olympique Lyonnais vs Fenerbahçe - cardiff.m3u8" group-title="SOCCER - Olympique Lyonnais vs Fenerbahçe",Olympique Lyonnais vs Fenerbahçe - cardiff.m3u8
-#EXTGRP:SOCCER - Olympique Lyonnais vs Fenerbahçe
-#EXTDESC:Olympique Lyonnais vs Fenerbahçe
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTINF:-1 tvg-name="AEK Athens vs Levski Sofia - athens.m3u8" group-title="SOCCER - AEK Athens vs Levski Sofia",AEK Athens vs Levski Sofia - athens.m3u8
+#EXTGRP:SOCCER - AEK Athens vs Levski Sofia
+#EXTDESC:AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-4","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/cardiff.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-3","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/athens.m3u8
 
 #EXTINF:-1 tvg-name="Viking vs Dinamo Zagreb - Stream 1" group-title="SOCCER - Viking vs Dinamo Zagreb",Viking vs Dinamo Zagreb - Stream 1
 #EXTGRP:SOCCER - Viking vs Dinamo Zagreb
@@ -198,16 +198,16 @@ https://daffodil.shadow-ran.online/cardiff.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/vsport.m3u8
+https://admin2.shadow-ran.online/vikings.m3u8
 
-#EXTINF:-1 tvg-name="Viking vs Dinamo Zagreb - vsport.m3u8" group-title="SOCCER - Viking vs Dinamo Zagreb",Viking vs Dinamo Zagreb - vsport.m3u8
+#EXTINF:-1 tvg-name="Viking vs Dinamo Zagreb - vikings.m3u8" group-title="SOCCER - Viking vs Dinamo Zagreb",Viking vs Dinamo Zagreb - vikings.m3u8
 #EXTGRP:SOCCER - Viking vs Dinamo Zagreb
 #EXTDESC:Viking vs Dinamo Zagreb
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/vsport.m3u8
+https://daffodil.shadow-ran.online/vikings.m3u8
 
 #EXTINF:-1 tvg-name="River Plate vs Santa Fe - Stream 1" group-title="SOCCER - River Plate vs Santa Fe",River Plate vs Santa Fe - Stream 1
 #EXTGRP:SOCCER - River Plate vs Santa Fe

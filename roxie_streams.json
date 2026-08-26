@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26T18:53:49+00:00",
+  "scraped_at": "2026-08-26T21:42:01+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -44,11 +44,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
+            "url": "https://admin2.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
@@ -64,6 +64,29 @@
               "away": "Real Sociedad"
             },
             "display_name": "Real Madrid vs Real Sociedad - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Real Madrid vs Real Sociedad",
+            "matchup": {
+              "home": "Real Madrid",
+              "away": "Real Sociedad"
+            },
+            "display_name": "Real Madrid vs Real Sociedad - Stream 2"
           },
           {
             "label": "dep.m3u8",
@@ -292,29 +315,6 @@
               "away": "Preston North End"
             },
             "display_name": "Everton vs Preston North End - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/alt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-12",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "alt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-12",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Everton vs Preston North End",
-            "matchup": {
-              "home": "Everton",
-              "away": "Preston North End"
-            },
-            "display_name": "Everton vs Preston North End - Stream 2"
           },
           {
             "label": "main.m3u8",
@@ -548,59 +548,59 @@
         ]
       },
       {
-        "title": "Olympique Lyonnais vs Fenerbahçe",
+        "title": "AEK Athens vs Levski Sofia",
         "sport": "soccer",
         "matchup": {
-          "home": "Olympique Lyonnais",
-          "away": "Fenerbahçe"
+          "home": "AEK Athens",
+          "away": "Levski Sofia"
         },
-        "page": "https://roxiestreams.info/soccer-streams-4",
+        "page": "https://roxiestreams.info/soccer-streams-3",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/cardiff.m3u8",
+            "url": "https://admin2.shadow-ran.online/athens.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "cardiff.m3u8",
+            "path": "athens.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Olympique Lyonnais vs Fenerbahçe",
+            "event_title": "AEK Athens vs Levski Sofia",
             "matchup": {
-              "home": "Olympique Lyonnais",
-              "away": "Fenerbahçe"
+              "home": "AEK Athens",
+              "away": "Levski Sofia"
             },
-            "display_name": "Olympique Lyonnais vs Fenerbahçe - Stream 1"
+            "display_name": "AEK Athens vs Levski Sofia - Stream 1"
           },
           {
-            "label": "cardiff.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cardiff.m3u8",
+            "label": "athens.m3u8",
+            "url": "https://daffodil.shadow-ran.online/athens.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cardiff.m3u8",
+            "path": "athens.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Olympique Lyonnais vs Fenerbahçe",
+            "event_title": "AEK Athens vs Levski Sofia",
             "matchup": {
-              "home": "Olympique Lyonnais",
-              "away": "Fenerbahçe"
+              "home": "AEK Athens",
+              "away": "Levski Sofia"
             },
-            "display_name": "Olympique Lyonnais vs Fenerbahçe - cardiff.m3u8"
+            "display_name": "AEK Athens vs Levski Sofia - athens.m3u8"
           }
         ]
       },
@@ -615,12 +615,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/vsport.m3u8",
+            "url": "https://admin2.shadow-ran.online/vikings.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "vsport.m3u8",
+            "path": "vikings.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-5",
               "Origin": "https://roxiestreams.info",
@@ -637,13 +637,13 @@
             "display_name": "Viking vs Dinamo Zagreb - Stream 1"
           },
           {
-            "label": "vsport.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vsport.m3u8",
+            "label": "vikings.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vikings.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "vsport.m3u8",
+            "path": "vikings.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-5",
               "Origin": "https://roxiestreams.info",
@@ -657,7 +657,7 @@
               "home": "Viking",
               "away": "Dinamo Zagreb"
             },
-            "display_name": "Viking vs Dinamo Zagreb - vsport.m3u8"
+            "display_name": "Viking vs Dinamo Zagreb - vikings.m3u8"
           }
         ]
       },
@@ -2130,6 +2130,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2394,7 +2395,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5099,11 +5099,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
+          "url": "https://admin2.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
@@ -5119,6 +5119,29 @@
             "away": "Real Sociedad"
           },
           "display_name": "Real Madrid vs Real Sociedad - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Real Madrid vs Real Sociedad",
+          "matchup": {
+            "home": "Real Madrid",
+            "away": "Real Sociedad"
+          },
+          "display_name": "Real Madrid vs Real Sociedad - Stream 2"
         },
         {
           "label": "dep.m3u8",
@@ -5303,29 +5326,6 @@
             "away": "Preston North End"
           },
           "display_name": "Everton vs Preston North End - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/alt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-12",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "alt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-12",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Everton vs Preston North End",
-          "matchup": {
-            "home": "Everton",
-            "away": "Preston North End"
-          },
-          "display_name": "Everton vs Preston North End - Stream 2"
         },
         {
           "label": "main.m3u8",
@@ -5536,58 +5536,58 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/cardiff.m3u8",
+          "url": "https://admin2.shadow-ran.online/athens.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "cardiff.m3u8",
+          "path": "athens.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Olympique Lyonnais vs Fenerbahçe",
+          "event_title": "AEK Athens vs Levski Sofia",
           "matchup": {
-            "home": "Olympique Lyonnais",
-            "away": "Fenerbahçe"
+            "home": "AEK Athens",
+            "away": "Levski Sofia"
           },
-          "display_name": "Olympique Lyonnais vs Fenerbahçe - Stream 1"
+          "display_name": "AEK Athens vs Levski Sofia - Stream 1"
         },
         {
-          "label": "cardiff.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cardiff.m3u8",
+          "label": "athens.m3u8",
+          "url": "https://daffodil.shadow-ran.online/athens.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cardiff.m3u8",
+          "path": "athens.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Olympique Lyonnais vs Fenerbahçe",
+          "event_title": "AEK Athens vs Levski Sofia",
           "matchup": {
-            "home": "Olympique Lyonnais",
-            "away": "Fenerbahçe"
+            "home": "AEK Athens",
+            "away": "Levski Sofia"
           },
-          "display_name": "Olympique Lyonnais vs Fenerbahçe - cardiff.m3u8"
+          "display_name": "AEK Athens vs Levski Sofia - athens.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/vsport.m3u8",
+          "url": "https://admin2.shadow-ran.online/vikings.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "vsport.m3u8",
+          "path": "vikings.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-5",
             "Origin": "https://roxiestreams.info",
@@ -5604,13 +5604,13 @@
           "display_name": "Viking vs Dinamo Zagreb - Stream 1"
         },
         {
-          "label": "vsport.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vsport.m3u8",
+          "label": "vikings.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vikings.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "vsport.m3u8",
+          "path": "vikings.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-5",
             "Origin": "https://roxiestreams.info",
@@ -5624,7 +5624,7 @@
             "home": "Viking",
             "away": "Dinamo Zagreb"
           },
-          "display_name": "Viking vs Dinamo Zagreb - vsport.m3u8"
+          "display_name": "Viking vs Dinamo Zagreb - vikings.m3u8"
         },
         {
           "label": "Stream 1",
