@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-28T19:11:23+00:00",
+  "scraped_at": "2026-08-29T02:19:05+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -299,6 +299,29 @@
               "away": "Lanús"
             },
             "display_name": "Boca Juniors vs Lanús - Stream 2 (EN)"
+          },
+          {
+            "label": "Stream 3 (DE)",
+            "url": "https://admin2.shadow-ran.online/sportdigitalfussball.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sportdigitalfussball.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-10",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Boca Juniors vs Lanús",
+            "matchup": {
+              "home": "Boca Juniors",
+              "away": "Lanús"
+            },
+            "display_name": "Boca Juniors vs Lanús - Stream 3 (DE)"
           },
           {
             "label": "fanaes2.m3u8",
@@ -1594,59 +1617,59 @@
         ]
       },
       {
-        "title": "Toronto Tempo vs Las Vegas Aces",
+        "title": "Connecticut Sun vs Indiana Fever",
         "sport": "nba",
         "matchup": {
-          "home": "Toronto Tempo",
-          "away": "Las Vegas Aces"
+          "home": "Connecticut Sun",
+          "away": "Indiana Fever"
         },
-        "page": "https://roxiestreams.info/wnba-streams-3",
+        "page": "https://roxiestreams.info/wnba-streams-2",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-3",
+            "source_page": "https://roxiestreams.info/wnba-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "wnba3.m3u8",
+            "path": "wnba2.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-3",
+              "Referer": "https://roxiestreams.info/wnba-streams-2",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Toronto Tempo vs Las Vegas Aces",
+            "event_title": "Connecticut Sun vs Indiana Fever",
             "matchup": {
-              "home": "Toronto Tempo",
-              "away": "Las Vegas Aces"
+              "home": "Connecticut Sun",
+              "away": "Indiana Fever"
             },
-            "display_name": "Toronto Tempo vs Las Vegas Aces - Stream 1"
+            "display_name": "Connecticut Sun vs Indiana Fever - Stream 1"
           },
           {
-            "label": "wnba3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wnba3.m3u8",
+            "label": "wnba2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-3",
+            "source_page": "https://roxiestreams.info/wnba-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "wnba3.m3u8",
+            "path": "wnba2.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-3",
+              "Referer": "https://roxiestreams.info/wnba-streams-2",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Toronto Tempo vs Las Vegas Aces",
+            "event_title": "Connecticut Sun vs Indiana Fever",
             "matchup": {
-              "home": "Toronto Tempo",
-              "away": "Las Vegas Aces"
+              "home": "Connecticut Sun",
+              "away": "Indiana Fever"
             },
-            "display_name": "Toronto Tempo vs Las Vegas Aces - wnba3.m3u8"
+            "display_name": "Connecticut Sun vs Indiana Fever - wnba2.m3u8"
           }
         ]
       },
@@ -1790,63 +1813,6 @@
         ]
       },
       {
-        "title": "Minnesota Vikings vs Denver Broncos",
-        "sport": "nfl",
-        "matchup": {
-          "home": "Minnesota Vikings",
-          "away": "Denver Broncos"
-        },
-        "page": "https://roxiestreams.info/nfl-streams-10",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nfl-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nfl2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nfl-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Minnesota Vikings vs Denver Broncos",
-            "matchup": {
-              "home": "Minnesota Vikings",
-              "away": "Denver Broncos"
-            },
-            "display_name": "Minnesota Vikings vs Denver Broncos - Stream 1"
-          },
-          {
-            "label": "nfl2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nfl-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nfl2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nfl-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Minnesota Vikings vs Denver Broncos",
-            "matchup": {
-              "home": "Minnesota Vikings",
-              "away": "Denver Broncos"
-            },
-            "display_name": "Minnesota Vikings vs Denver Broncos - nfl2.m3u8"
-          }
-        ]
-      },
-      {
         "title": "Atlanta Falcons vs Miami Dolphins",
         "sport": "nfl",
         "matchup": {
@@ -1856,12 +1822,12 @@
         "page": "https://roxiestreams.info/nfl-streams-2",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/nfl2.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nfl2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nfl2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-2",
@@ -1876,7 +1842,30 @@
               "home": "Atlanta Falcons",
               "away": "Miami Dolphins"
             },
-            "display_name": "Atlanta Falcons vs Miami Dolphins - Stream 2"
+            "display_name": "Atlanta Falcons vs Miami Dolphins - Stream 1"
+          },
+          {
+            "label": "nfl2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nfl-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Atlanta Falcons vs Miami Dolphins",
+            "matchup": {
+              "home": "Atlanta Falcons",
+              "away": "Miami Dolphins"
+            },
+            "display_name": "Atlanta Falcons vs Miami Dolphins - nfl2.m3u8"
           }
         ]
       },
@@ -1948,11 +1937,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nfl4.m3u8",
+            "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nfl4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-4",
@@ -1968,6 +1957,29 @@
               "away": "New York Jets"
             },
             "display_name": "New York Giants vs New York Jets - Stream 1"
+          },
+          {
+            "label": "nfl4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nfl-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nfl-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "New York Giants vs New York Jets",
+            "matchup": {
+              "home": "New York Giants",
+              "away": "New York Jets"
+            },
+            "display_name": "New York Giants vs New York Jets - nfl4.m3u8"
           }
         ]
       },
@@ -2139,6 +2151,63 @@
               "away": "Green Bay Packers"
             },
             "display_name": "Arizona Cardinals vs Green Bay Packers - nfl7.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Seattle Seahawks vs Kansas City Chiefs",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Seattle Seahawks",
+          "away": "Kansas City Chiefs"
+        },
+        "page": "https://roxiestreams.info/nfl-streams-8",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nfl-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nfl8.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nfl-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Seattle Seahawks vs Kansas City Chiefs",
+            "matchup": {
+              "home": "Seattle Seahawks",
+              "away": "Kansas City Chiefs"
+            },
+            "display_name": "Seattle Seahawks vs Kansas City Chiefs - Stream 1"
+          },
+          {
+            "label": "nfl8.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl8.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nfl-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl8.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nfl-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Seattle Seahawks vs Kansas City Chiefs",
+            "matchup": {
+              "home": "Seattle Seahawks",
+              "away": "Kansas City Chiefs"
+            },
+            "display_name": "Seattle Seahawks vs Kansas City Chiefs - nfl8.m3u8"
           }
         ]
       },
@@ -3029,6 +3098,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (EN)",
+        "Stream 3 (DE)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5496,6 +5566,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5562,7 +5633,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5694,7 +5764,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
         "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
@@ -5828,7 +5897,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7055,6 +7123,29 @@
           "display_name": "Boca Juniors vs Lanús - Stream 2 (EN)"
         },
         {
+          "label": "Stream 3 (DE)",
+          "url": "https://admin2.shadow-ran.online/sportdigitalfussball.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sportdigitalfussball.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-10",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Boca Juniors vs Lanús",
+          "matchup": {
+            "home": "Boca Juniors",
+            "away": "Lanús"
+          },
+          "display_name": "Boca Juniors vs Lanús - Stream 3 (DE)"
+        },
+        {
           "label": "fanaes2.m3u8",
           "url": "https://daffodil.shadow-ran.online/fanaes2.m3u8",
           "type": "m3u8",
@@ -8086,49 +8177,49 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-3",
+          "source_page": "https://roxiestreams.info/wnba-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "wnba3.m3u8",
+          "path": "wnba2.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-3",
+            "Referer": "https://roxiestreams.info/wnba-streams-2",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Toronto Tempo vs Las Vegas Aces",
+          "event_title": "Connecticut Sun vs Indiana Fever",
           "matchup": {
-            "home": "Toronto Tempo",
-            "away": "Las Vegas Aces"
+            "home": "Connecticut Sun",
+            "away": "Indiana Fever"
           },
-          "display_name": "Toronto Tempo vs Las Vegas Aces - Stream 1"
+          "display_name": "Connecticut Sun vs Indiana Fever - Stream 1"
         },
         {
-          "label": "wnba3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wnba3.m3u8",
+          "label": "wnba2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-3",
+          "source_page": "https://roxiestreams.info/wnba-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "wnba3.m3u8",
+          "path": "wnba2.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-3",
+            "Referer": "https://roxiestreams.info/wnba-streams-2",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Toronto Tempo vs Las Vegas Aces",
+          "event_title": "Connecticut Sun vs Indiana Fever",
           "matchup": {
-            "home": "Toronto Tempo",
-            "away": "Las Vegas Aces"
+            "home": "Connecticut Sun",
+            "away": "Indiana Fever"
           },
-          "display_name": "Toronto Tempo vs Las Vegas Aces - wnba3.m3u8"
+          "display_name": "Connecticut Sun vs Indiana Fever - wnba2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8266,55 +8357,9 @@
           "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nfl2.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nfl-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nfl2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nfl-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Minnesota Vikings vs Denver Broncos",
-          "matchup": {
-            "home": "Minnesota Vikings",
-            "away": "Denver Broncos"
-          },
-          "display_name": "Minnesota Vikings vs Denver Broncos - Stream 1"
-        },
-        {
-          "label": "nfl2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nfl-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nfl2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nfl-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Minnesota Vikings vs Denver Broncos",
-          "matchup": {
-            "home": "Minnesota Vikings",
-            "away": "Denver Broncos"
-          },
-          "display_name": "Minnesota Vikings vs Denver Broncos - nfl2.m3u8"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/nfl2.m3u8",
-          "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nfl2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-2",
@@ -8329,7 +8374,30 @@
             "home": "Atlanta Falcons",
             "away": "Miami Dolphins"
           },
-          "display_name": "Atlanta Falcons vs Miami Dolphins - Stream 2"
+          "display_name": "Atlanta Falcons vs Miami Dolphins - Stream 1"
+        },
+        {
+          "label": "nfl2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Atlanta Falcons vs Miami Dolphins",
+          "matchup": {
+            "home": "Atlanta Falcons",
+            "away": "Miami Dolphins"
+          },
+          "display_name": "Atlanta Falcons vs Miami Dolphins - nfl2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8379,11 +8447,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nfl4.m3u8",
+          "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nfl4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-4",
@@ -8399,6 +8467,29 @@
             "away": "New York Jets"
           },
           "display_name": "New York Giants vs New York Jets - Stream 1"
+        },
+        {
+          "label": "nfl4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "New York Giants vs New York Jets",
+          "matchup": {
+            "home": "New York Giants",
+            "away": "New York Jets"
+          },
+          "display_name": "New York Giants vs New York Jets - nfl4.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8537,6 +8628,52 @@
             "away": "Green Bay Packers"
           },
           "display_name": "Arizona Cardinals vs Green Bay Packers - nfl7.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nfl8.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Seattle Seahawks vs Kansas City Chiefs",
+          "matchup": {
+            "home": "Seattle Seahawks",
+            "away": "Kansas City Chiefs"
+          },
+          "display_name": "Seattle Seahawks vs Kansas City Chiefs - Stream 1"
+        },
+        {
+          "label": "nfl8.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl8.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl8.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Seattle Seahawks vs Kansas City Chiefs",
+          "matchup": {
+            "home": "Seattle Seahawks",
+            "away": "Kansas City Chiefs"
+          },
+          "display_name": "Seattle Seahawks vs Kansas City Chiefs - nfl8.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9010,7 +9147,7 @@
       ]
     }
   },
-  "stream_count": 94,
+  "stream_count": 97,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
