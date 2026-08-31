@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-31T06:15:10+00:00",
+  "scraped_at": "2026-08-31T14:09:24+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -106,12 +106,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/main.m3u8",
+            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "main.m3u8",
+            "subdomain": "tedesco",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -128,13 +128,13 @@
             "display_name": "Barcelona vs Rayo Vallecano - Stream 1"
           },
           {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "dep.m3u8",
+            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -148,7 +148,7 @@
               "home": "Barcelona",
               "away": "Rayo Vallecano"
             },
-            "display_name": "Barcelona vs Rayo Vallecano - main.m3u8"
+            "display_name": "Barcelona vs Rayo Vallecano - dep.m3u8"
           }
         ]
       },
@@ -217,26 +217,6 @@
             "event_title": "Laliga",
             "matchup": null,
             "display_name": "Laliga - Stream 3 (EN)"
-          },
-          {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "dep.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-8",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Laliga",
-            "matchup": null,
-            "display_name": "Laliga - dep.m3u8"
           }
         ]
       },
@@ -298,63 +278,6 @@
         ]
       },
       {
-        "title": "Atalanta vs Bologna",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Atalanta",
-          "away": "Bologna"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "ncaa5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Atalanta vs Bologna",
-            "matchup": {
-              "home": "Atalanta",
-              "away": "Bologna"
-            },
-            "display_name": "Atalanta vs Bologna - Stream 1"
-          },
-          {
-            "label": "ncaa5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ncaa5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ncaa5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Atalanta vs Bologna",
-            "matchup": {
-              "home": "Atalanta",
-              "away": "Bologna"
-            },
-            "display_name": "Atalanta vs Bologna - ncaa5.m3u8"
-          }
-        ]
-      },
-      {
         "title": "Aston Villa vs Arsenal",
         "sport": "soccer",
         "matchup": {
@@ -364,13 +287,13 @@
         "page": "https://roxiestreams.info/soccer-streams-5",
         "streams": [
           {
-            "label": "Stream 1 (ES)",
-            "url": "https://tedesco.shadow-ran.online/beines.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "beines.m3u8",
+            "subdomain": "admin",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-5",
               "Origin": "https://roxiestreams.info",
@@ -384,53 +307,7 @@
               "home": "Aston Villa",
               "away": "Arsenal"
             },
-            "display_name": "Aston Villa vs Arsenal - Stream 1 (ES)"
-          },
-          {
-            "label": "Stream 2 (EN)",
-            "url": "https://tempp.shadow-ran.online/bein.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tempp",
-            "path": "bein.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-5",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Aston Villa vs Arsenal",
-            "matchup": {
-              "home": "Aston Villa",
-              "away": "Arsenal"
-            },
-            "display_name": "Aston Villa vs Arsenal - Stream 2 (EN)"
-          },
-          {
-            "label": "beines.m3u8",
-            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "beines.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-5",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Aston Villa vs Arsenal",
-            "matchup": {
-              "home": "Aston Villa",
-              "away": "Arsenal"
-            },
-            "display_name": "Aston Villa vs Arsenal - beines.m3u8"
+            "display_name": "Aston Villa vs Arsenal - Stream 2"
           }
         ]
       },
@@ -1993,8 +1870,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (ES)",
-        "Stream 2 (EN)",
+        "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4118,12 +3995,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/main.m3u8",
+          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "main.m3u8",
+          "subdomain": "tedesco",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -4140,13 +4017,13 @@
           "display_name": "Barcelona vs Rayo Vallecano - Stream 1"
         },
         {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "dep.m3u8",
+          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -4160,7 +4037,7 @@
             "home": "Barcelona",
             "away": "Rayo Vallecano"
           },
-          "display_name": "Barcelona vs Rayo Vallecano - main.m3u8"
+          "display_name": "Barcelona vs Rayo Vallecano - dep.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4223,26 +4100,6 @@
           "display_name": "Laliga - Stream 3 (EN)"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "dep.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-8",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Laliga",
-          "matchup": null,
-          "display_name": "Laliga - dep.m3u8"
-        },
-        {
           "label": "Stream 1",
           "url": "https://admin.shadow-ran.online/usa.m3u8",
           "type": "m3u8",
@@ -4289,59 +4146,13 @@
           "display_name": "Chesterfield vs Gillingham - usa.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa5.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin.shadow-ran.online/main.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "source_page": "https://roxiestreams.info/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "ncaa5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Atalanta vs Bologna",
-          "matchup": {
-            "home": "Atalanta",
-            "away": "Bologna"
-          },
-          "display_name": "Atalanta vs Bologna - Stream 1"
-        },
-        {
-          "label": "ncaa5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ncaa5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ncaa5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Atalanta vs Bologna",
-          "matchup": {
-            "home": "Atalanta",
-            "away": "Bologna"
-          },
-          "display_name": "Atalanta vs Bologna - ncaa5.m3u8"
-        },
-        {
-          "label": "Stream 1 (ES)",
-          "url": "https://tedesco.shadow-ran.online/beines.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "beines.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-5",
             "Origin": "https://roxiestreams.info",
@@ -4355,53 +4166,7 @@
             "home": "Aston Villa",
             "away": "Arsenal"
           },
-          "display_name": "Aston Villa vs Arsenal - Stream 1 (ES)"
-        },
-        {
-          "label": "Stream 2 (EN)",
-          "url": "https://tempp.shadow-ran.online/bein.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tempp",
-          "path": "bein.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-5",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Aston Villa vs Arsenal",
-          "matchup": {
-            "home": "Aston Villa",
-            "away": "Arsenal"
-          },
-          "display_name": "Aston Villa vs Arsenal - Stream 2 (EN)"
-        },
-        {
-          "label": "beines.m3u8",
-          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "beines.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-5",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Aston Villa vs Arsenal",
-          "matchup": {
-            "home": "Aston Villa",
-            "away": "Arsenal"
-          },
-          "display_name": "Aston Villa vs Arsenal - beines.m3u8"
+          "display_name": "Aston Villa vs Arsenal - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -5340,7 +5105,7 @@
       ]
     }
   },
-  "stream_count": 55,
+  "stream_count": 50,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
