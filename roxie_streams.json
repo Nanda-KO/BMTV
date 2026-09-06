@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T17:01:52+00:00",
+  "scraped_at": "2026-09-06T19:09:40+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -454,12 +454,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/prem.m3u8",
+            "url": "https://admin2.shadow-ran.online/fana4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "prem.m3u8",
+            "path": "fana4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -476,13 +476,13 @@
             "display_name": "Remo vs Flamengo - Stream 1"
           },
           {
-            "label": "prem.m3u8",
-            "url": "https://daffodil.shadow-ran.online/prem.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/fana4en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "prem.m3u8",
+            "subdomain": "admin2",
+            "path": "fana4en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -496,7 +496,30 @@
               "home": "Remo",
               "away": "Flamengo"
             },
-            "display_name": "Remo vs Flamengo - prem.m3u8"
+            "display_name": "Remo vs Flamengo - Stream 2 (EN)"
+          },
+          {
+            "label": "fana4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-10",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Remo vs Flamengo",
+            "matchup": {
+              "home": "Remo",
+              "away": "Flamengo"
+            },
+            "display_name": "Remo vs Flamengo - fana4.m3u8"
           }
         ]
       },
@@ -830,12 +853,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fulham.m3u8",
+            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fulham.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -852,13 +875,13 @@
             "display_name": "Cruzeiro vs Athletico-PR - Stream 1"
           },
           {
-            "label": "fulham.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fulham.m3u8",
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fulham.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -872,7 +895,64 @@
               "home": "Cruzeiro",
               "away": "Athletico-PR"
             },
-            "display_name": "Cruzeiro vs Athletico-PR - fulham.m3u8"
+            "display_name": "Cruzeiro vs Athletico-PR - fana2.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Internacional vs Santos",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Internacional",
+          "away": "Santos"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-9",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/fana3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Internacional vs Santos",
+            "matchup": {
+              "home": "Internacional",
+              "away": "Santos"
+            },
+            "display_name": "Internacional vs Santos - Stream 1"
+          },
+          {
+            "label": "fana3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Internacional vs Santos",
+            "matchup": {
+              "home": "Internacional",
+              "away": "Santos"
+            },
+            "display_name": "Internacional vs Santos - fana3.m3u8"
           }
         ]
       }
@@ -2709,6 +2789,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6222,12 +6303,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/prem.m3u8",
+          "url": "https://admin2.shadow-ran.online/fana4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "prem.m3u8",
+          "path": "fana4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -6244,13 +6325,13 @@
           "display_name": "Remo vs Flamengo - Stream 1"
         },
         {
-          "label": "prem.m3u8",
-          "url": "https://daffodil.shadow-ran.online/prem.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/fana4en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "prem.m3u8",
+          "subdomain": "admin2",
+          "path": "fana4en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -6264,7 +6345,30 @@
             "home": "Remo",
             "away": "Flamengo"
           },
-          "display_name": "Remo vs Flamengo - prem.m3u8"
+          "display_name": "Remo vs Flamengo - Stream 2 (EN)"
+        },
+        {
+          "label": "fana4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-10",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Remo vs Flamengo",
+          "matchup": {
+            "home": "Remo",
+            "away": "Flamengo"
+          },
+          "display_name": "Remo vs Flamengo - fana4.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6521,12 +6625,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fulham.m3u8",
+          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fulham.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -6543,13 +6647,13 @@
           "display_name": "Cruzeiro vs Athletico-PR - Stream 1"
         },
         {
-          "label": "fulham.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fulham.m3u8",
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fulham.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -6563,7 +6667,53 @@
             "home": "Cruzeiro",
             "away": "Athletico-PR"
           },
-          "display_name": "Cruzeiro vs Athletico-PR - fulham.m3u8"
+          "display_name": "Cruzeiro vs Athletico-PR - fana2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/fana3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Internacional vs Santos",
+          "matchup": {
+            "home": "Internacional",
+            "away": "Santos"
+          },
+          "display_name": "Internacional vs Santos - Stream 1"
+        },
+        {
+          "label": "fana3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Internacional vs Santos",
+          "matchup": {
+            "home": "Internacional",
+            "away": "Santos"
+          },
+          "display_name": "Internacional vs Santos - fana3.m3u8"
         }
       ]
     },
@@ -7640,7 +7790,7 @@
       ]
     }
   },
-  "stream_count": 76,
+  "stream_count": 79,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
