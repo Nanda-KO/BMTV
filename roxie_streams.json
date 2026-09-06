@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T19:09:40+00:00",
+  "scraped_at": "2026-09-06T21:23:17+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -419,6 +419,29 @@
             "display_name": "Juventus vs Milan - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/milan.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "milan.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Juventus vs Milan",
+            "matchup": {
+              "home": "Juventus",
+              "away": "Milan"
+            },
+            "display_name": "Juventus vs Milan - Stream 2"
+          },
+          {
             "label": "tnt.m3u8",
             "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
@@ -534,12 +557,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+            "url": "https://admin2.shadow-ran.online/tntcl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "cbssn.m3u8",
+            "subdomain": "admin2",
+            "path": "tntcl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -556,13 +579,13 @@
             "display_name": "Huachipato vs Colo-Colo - Stream 1"
           },
           {
-            "label": "cbssn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "label": "tntcl.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tntcl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cbssn.m3u8",
+            "path": "tntcl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -576,7 +599,7 @@
               "home": "Huachipato",
               "away": "Colo-Colo"
             },
-            "display_name": "Huachipato vs Colo-Colo - cbssn.m3u8"
+            "display_name": "Huachipato vs Colo-Colo - tntcl.m3u8"
           }
         ]
       },
@@ -2723,6 +2746,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6279,6 +6303,29 @@
           "display_name": "Juventus vs Milan - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/milan.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "milan.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Juventus vs Milan",
+          "matchup": {
+            "home": "Juventus",
+            "away": "Milan"
+          },
+          "display_name": "Juventus vs Milan - Stream 2"
+        },
+        {
           "label": "tnt.m3u8",
           "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
@@ -6372,12 +6419,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+          "url": "https://admin2.shadow-ran.online/tntcl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "cbssn.m3u8",
+          "subdomain": "admin2",
+          "path": "tntcl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -6394,13 +6441,13 @@
           "display_name": "Huachipato vs Colo-Colo - Stream 1"
         },
         {
-          "label": "cbssn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "label": "tntcl.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tntcl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cbssn.m3u8",
+          "path": "tntcl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -6414,7 +6461,7 @@
             "home": "Huachipato",
             "away": "Colo-Colo"
           },
-          "display_name": "Huachipato vs Colo-Colo - cbssn.m3u8"
+          "display_name": "Huachipato vs Colo-Colo - tntcl.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7790,7 +7837,7 @@
       ]
     }
   },
-  "stream_count": 79,
+  "stream_count": 80,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
