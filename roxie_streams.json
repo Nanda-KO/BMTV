@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T10:54:45+00:00",
+  "scraped_at": "2026-09-06T14:03:44+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -1618,63 +1618,6 @@
             "display_name": "Golden State Valkyries vs Portland Fire - wnba3.m3u8"
           }
         ]
-      },
-      {
-        "title": "Connecticut Sun vs Dallas Wings",
-        "sport": "nba",
-        "matchup": {
-          "home": "Connecticut Sun",
-          "away": "Dallas Wings"
-        },
-        "page": "https://roxiestreams.info/wnba-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/wnba4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wnba4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Connecticut Sun vs Dallas Wings",
-            "matchup": {
-              "home": "Connecticut Sun",
-              "away": "Dallas Wings"
-            },
-            "display_name": "Connecticut Sun vs Dallas Wings - Stream 1"
-          },
-          {
-            "label": "wnba4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wnba4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "wnba4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Connecticut Sun vs Dallas Wings",
-            "matchup": {
-              "home": "Connecticut Sun",
-              "away": "Dallas Wings"
-            },
-            "display_name": "Connecticut Sun vs Dallas Wings - wnba4.m3u8"
-          }
-        ]
       }
     ],
     "nfl": [
@@ -1863,56 +1806,7 @@
         ]
       }
     ],
-    "fighting": [
-      {
-        "title": "Dana White's Contender Series",
-        "sport": "fighting",
-        "matchup": null,
-        "page": "https://roxiestreams.info/ppv-streams-1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ppv-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "Dana White's Contender Series",
-            "matchup": null,
-            "display_name": "Dana White's Contender Series - Stream 1"
-          },
-          {
-            "label": "ppv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ppv-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "Dana White's Contender Series",
-            "matchup": null,
-            "display_name": "Dana White's Contender Series - ppv.m3u8"
-          }
-        ]
-      }
-    ],
+    "fighting": [],
     "motorsports": [],
     "aew": [
       {
@@ -2001,7 +1895,27 @@
             "display_name": "Formula 1 - Italian Grand Prix - Stream 1 (TSN)"
           },
           {
-            "label": "Stream 2 (SKY)",
+            "label": "Stream 2 (F1TV)",
+            "url": "https://admin2.shadow-ran.online/f1tv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "f1tv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/f1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 - Italian Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 - Italian Grand Prix - Stream 2 (F1TV)"
+          },
+          {
+            "label": "Stream 3 (SKY)",
             "url": "https://admin2.shadow-ran.online/f1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/f1",
@@ -2018,7 +1932,7 @@
             "sport": "f1",
             "event_title": "Formula 1 - Italian Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 - Italian Grand Prix - Stream 2 (SKY)"
+            "display_name": "Formula 1 - Italian Grand Prix - Stream 3 (SKY)"
           },
           {
             "label": "tsn.m3u8",
@@ -4764,72 +4678,6 @@
         }
       ]
     },
-    "https://roxiestreams.info/wnba-streams-4": {
-      "url": "https://roxiestreams.info/wnba-streams-4",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        }
-      ]
-    },
     "https://roxiestreams.info/nfl": {
       "url": "https://roxiestreams.info/nfl",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -5187,259 +5035,6 @@
         }
       ]
     },
-    "https://roxiestreams.info/fighting": {
-      "url": "https://roxiestreams.info/fighting",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [
-        "Upcoming Fighting Events"
-      ],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "https://discord.gg/umQC45SubZ",
-        "Dana White's Contender Series",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "https://discord.gg/umQC45SubZ",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "Dana White's Contender Series",
-          "url": "https://roxiestreams.info/ppv-streams-1"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        }
-      ]
-    },
-    "https://roxiestreams.info/ppv-streams-1": {
-      "url": "https://roxiestreams.info/ppv-streams-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        }
-      ]
-    },
-    "https://roxiestreams.info/motorsports": {
-      "url": "https://roxiestreams.info/motorsports",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [
-        "Upcoming Motorsports Events"
-      ],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "https://discord.gg/umQC45SubZ",
-        "MXGP (MX2) - Race",
-        "MXGP - Race",
-        "Formula 1 - Italian Grand Prix",
-        "Indy NXT - Race",
-        "Indycar Series Grand Prix",
-        "NASCAR Cup Series - Race",
-        "WoO Sprint Cars - Race",
-        "ARCA Menards Series - Race",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "https://discord.gg/umQC45SubZ",
-          "url": "https://discord.gg/umQC45SubZ"
-        },
-        {
-          "label": "MXGP (MX2) - Race",
-          "url": "https://roxiestreams.info/mxgp"
-        },
-        {
-          "label": "MXGP - Race",
-          "url": "https://roxiestreams.info/mxgp"
-        },
-        {
-          "label": "Formula 1 - Italian Grand Prix",
-          "url": "https://roxiestreams.info/f1"
-        },
-        {
-          "label": "Indy NXT - Race",
-          "url": "https://roxiestreams.info/indycar"
-        },
-        {
-          "label": "Indycar Series Grand Prix",
-          "url": "https://roxiestreams.info/indycar-2"
-        },
-        {
-          "label": "NASCAR Cup Series - Race",
-          "url": "https://roxiestreams.info/nascar"
-        },
-        {
-          "label": "WoO Sprint Cars - Race",
-          "url": "https://roxiestreams.info/floracing-1"
-        },
-        {
-          "label": "ARCA Menards Series - Race",
-          "url": "https://roxiestreams.info/arca"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/umQC45SubZ"
-        }
-      ]
-    },
     "https://roxiestreams.info/aew": {
       "url": "https://roxiestreams.info/aew",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -5586,7 +5181,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1 (TSN)",
-        "Stream 2 (SKY)",
+        "Stream 2 (F1TV)",
+        "Stream 3 (SKY)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6803,8 +6399,7 @@
         "https://roxiestreams.info/nba-streams-1",
         "https://roxiestreams.info/wnba-streams-1",
         "https://roxiestreams.info/wnba-streams-2",
-        "https://roxiestreams.info/wnba-streams-3",
-        "https://roxiestreams.info/wnba-streams-4"
+        "https://roxiestreams.info/wnba-streams-3"
       ],
       "streams": [
         {
@@ -6984,52 +6579,6 @@
             "away": "Portland Fire"
           },
           "display_name": "Golden State Valkyries vs Portland Fire - wnba3.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/wnba4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wnba4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Connecticut Sun vs Dallas Wings",
-          "matchup": {
-            "home": "Connecticut Sun",
-            "away": "Dallas Wings"
-          },
-          "display_name": "Connecticut Sun vs Dallas Wings - Stream 1"
-        },
-        {
-          "label": "wnba4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wnba4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "wnba4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Connecticut Sun vs Dallas Wings",
-          "matchup": {
-            "home": "Connecticut Sun",
-            "away": "Dallas Wings"
-          },
-          "display_name": "Connecticut Sun vs Dallas Wings - wnba4.m3u8"
         }
       ]
     },
@@ -7203,57 +6752,11 @@
       ]
     },
     "fighting": {
-      "pages": [
-        "https://roxiestreams.info/fighting",
-        "https://roxiestreams.info/ppv-streams-1"
-      ],
-      "streams": [
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ppv-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "Dana White's Contender Series",
-          "matchup": null,
-          "display_name": "Dana White's Contender Series - Stream 1"
-        },
-        {
-          "label": "ppv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ppv-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "Dana White's Contender Series",
-          "matchup": null,
-          "display_name": "Dana White's Contender Series - ppv.m3u8"
-        }
-      ]
+      "pages": [],
+      "streams": []
     },
     "motorsports": {
-      "pages": [
-        "https://roxiestreams.info/motorsports"
-      ],
+      "pages": [],
       "streams": []
     },
     "aew": {
@@ -7335,7 +6838,27 @@
           "display_name": "Formula 1 - Italian Grand Prix - Stream 1 (TSN)"
         },
         {
-          "label": "Stream 2 (SKY)",
+          "label": "Stream 2 (F1TV)",
+          "url": "https://admin2.shadow-ran.online/f1tv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "f1tv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/f1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 - Italian Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 - Italian Grand Prix - Stream 2 (F1TV)"
+        },
+        {
+          "label": "Stream 3 (SKY)",
           "url": "https://admin2.shadow-ran.online/f1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/f1",
@@ -7352,7 +6875,7 @@
           "sport": "f1",
           "event_title": "Formula 1 - Italian Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 - Italian Grand Prix - Stream 2 (SKY)"
+          "display_name": "Formula 1 - Italian Grand Prix - Stream 3 (SKY)"
         },
         {
           "label": "tsn.m3u8",
@@ -7424,7 +6947,7 @@
       ]
     }
   },
-  "stream_count": 73,
+  "stream_count": 70,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
