@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T19:59:11+00:00",
+  "scraped_at": "2026-09-11T22:29:34+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -14,6 +14,11 @@
       "name": "Laliga",
       "page": "https://roxiestreams.info/soccer-streams-7",
       "start_time": "September 11, 2026 12:00 PM"
+    },
+    {
+      "name": "Dirt Racing",
+      "page": "https://roxiestreams.info/motorsports",
+      "start_time": "September 11, 2026 3:00 PM"
     },
     {
       "name": "NCAA",
@@ -518,12 +523,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mls.m3u8",
+            "url": "https://admin.shadow-ran.online/afaplay1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mls.m3u8",
+            "subdomain": "admin",
+            "path": "afaplay1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -540,13 +545,13 @@
             "display_name": "Newell's Old Boys vs Vélez Sarsfield - Stream 1"
           },
           {
-            "label": "mls.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "label": "afaplay1.m3u8",
+            "url": "https://daffodil.shadow-ran.online/afaplay1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "mls.m3u8",
+            "path": "afaplay1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -560,7 +565,7 @@
               "home": "Newell's Old Boys",
               "away": "Vélez Sarsfield"
             },
-            "display_name": "Newell's Old Boys vs Vélez Sarsfield - mls.m3u8"
+            "display_name": "Newell's Old Boys vs Vélez Sarsfield - afaplay1.m3u8"
           }
         ]
       },
@@ -575,12 +580,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/fs1.m3u8",
+            "url": "https://admin.shadow-ran.online/l1max.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "fs1.m3u8",
+            "subdomain": "admin",
+            "path": "l1max.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
@@ -597,13 +602,13 @@
             "display_name": "UTC Cajamarca vs Juan Pablo II College - Stream 1"
           },
           {
-            "label": "fs1.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
+            "label": "l1max.m3u8",
+            "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fs1.m3u8",
+            "path": "l1max.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
@@ -617,7 +622,7 @@
               "home": "UTC Cajamarca",
               "away": "Juan Pablo II College"
             },
-            "display_name": "UTC Cajamarca vs Juan Pablo II College - fs1.m3u8"
+            "display_name": "UTC Cajamarca vs Juan Pablo II College - l1max.m3u8"
           }
         ]
       },
@@ -689,12 +694,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/az.m3u8",
+            "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "az.m3u8",
+            "subdomain": "admin",
+            "path": "afaplay2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -711,13 +716,13 @@
             "display_name": "Defensa y Justicia vs Gimnasia Mendoza - Stream 1"
           },
           {
-            "label": "az.m3u8",
-            "url": "https://daffodil.shadow-ran.online/az.m3u8",
+            "label": "afaplay2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "az.m3u8",
+            "path": "afaplay2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -731,7 +736,64 @@
               "home": "Defensa y Justicia",
               "away": "Gimnasia Mendoza"
             },
-            "display_name": "Defensa y Justicia vs Gimnasia Mendoza - az.m3u8"
+            "display_name": "Defensa y Justicia vs Gimnasia Mendoza - afaplay2.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "AZ vs Willem",
+        "sport": "soccer",
+        "matchup": {
+          "home": "AZ",
+          "away": "Willem"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-18",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/az.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "az.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "AZ vs Willem",
+            "matchup": {
+              "home": "AZ",
+              "away": "Willem"
+            },
+            "display_name": "AZ vs Willem - Stream 1"
+          },
+          {
+            "label": "az.m3u8",
+            "url": "https://daffodil.shadow-ran.online/az.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "az.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "AZ vs Willem",
+            "matchup": {
+              "home": "AZ",
+              "away": "Willem"
+            },
+            "display_name": "AZ vs Willem - az.m3u8"
           }
         ]
       },
@@ -6538,12 +6600,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mls.m3u8",
+          "url": "https://admin.shadow-ran.online/afaplay1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mls.m3u8",
+          "subdomain": "admin",
+          "path": "afaplay1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -6560,13 +6622,13 @@
           "display_name": "Newell's Old Boys vs Vélez Sarsfield - Stream 1"
         },
         {
-          "label": "mls.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "label": "afaplay1.m3u8",
+          "url": "https://daffodil.shadow-ran.online/afaplay1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "mls.m3u8",
+          "path": "afaplay1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -6580,16 +6642,16 @@
             "home": "Newell's Old Boys",
             "away": "Vélez Sarsfield"
           },
-          "display_name": "Newell's Old Boys vs Vélez Sarsfield - mls.m3u8"
+          "display_name": "Newell's Old Boys vs Vélez Sarsfield - afaplay1.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/fs1.m3u8",
+          "url": "https://admin.shadow-ran.online/l1max.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "fs1.m3u8",
+          "subdomain": "admin",
+          "path": "l1max.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
@@ -6606,13 +6668,13 @@
           "display_name": "UTC Cajamarca vs Juan Pablo II College - Stream 1"
         },
         {
-          "label": "fs1.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
+          "label": "l1max.m3u8",
+          "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fs1.m3u8",
+          "path": "l1max.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
@@ -6626,7 +6688,7 @@
             "home": "UTC Cajamarca",
             "away": "Juan Pablo II College"
           },
-          "display_name": "UTC Cajamarca vs Juan Pablo II College - fs1.m3u8"
+          "display_name": "UTC Cajamarca vs Juan Pablo II College - l1max.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6676,12 +6738,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/az.m3u8",
+          "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "az.m3u8",
+          "subdomain": "admin",
+          "path": "afaplay2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -6698,13 +6760,13 @@
           "display_name": "Defensa y Justicia vs Gimnasia Mendoza - Stream 1"
         },
         {
-          "label": "az.m3u8",
-          "url": "https://daffodil.shadow-ran.online/az.m3u8",
+          "label": "afaplay2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "az.m3u8",
+          "path": "afaplay2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -6718,7 +6780,53 @@
             "home": "Defensa y Justicia",
             "away": "Gimnasia Mendoza"
           },
-          "display_name": "Defensa y Justicia vs Gimnasia Mendoza - az.m3u8"
+          "display_name": "Defensa y Justicia vs Gimnasia Mendoza - afaplay2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/az.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "az.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "AZ vs Willem",
+          "matchup": {
+            "home": "AZ",
+            "away": "Willem"
+          },
+          "display_name": "AZ vs Willem - Stream 1"
+        },
+        {
+          "label": "az.m3u8",
+          "url": "https://daffodil.shadow-ran.online/az.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "az.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "AZ vs Willem",
+          "matchup": {
+            "home": "AZ",
+            "away": "Willem"
+          },
+          "display_name": "AZ vs Willem - az.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7981,7 +8089,7 @@
       ]
     }
   },
-  "stream_count": 79,
+  "stream_count": 81,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
