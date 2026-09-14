@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T10:56:20+00:00",
+  "scraped_at": "2026-09-14T16:55:46+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -472,13 +472,13 @@
         "page": "https://roxiestreams.info/soccer-streams-7",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/pea.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/skymx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "pea.m3u8",
+            "path": "skymx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -492,30 +492,7 @@
               "home": "Villarreal",
               "away": "Real Betis"
             },
-            "display_name": "Villarreal vs Real Betis - Stream 1"
-          },
-          {
-            "label": "pea.m3u8",
-            "url": "https://daffodil.shadow-ran.online/pea.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "pea.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Villarreal vs Real Betis",
-            "matchup": {
-              "home": "Villarreal",
-              "away": "Real Betis"
-            },
-            "display_name": "Villarreal vs Real Betis - pea.m3u8"
+            "display_name": "Villarreal vs Real Betis - Stream 2"
           }
         ]
       },
@@ -2425,6 +2402,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5058,13 +5036,13 @@
           "display_name": "Lecce vs Monza"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/pea.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/skymx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "pea.m3u8",
+          "path": "skymx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -5078,30 +5056,7 @@
             "home": "Villarreal",
             "away": "Real Betis"
           },
-          "display_name": "Villarreal vs Real Betis - Stream 1"
-        },
-        {
-          "label": "pea.m3u8",
-          "url": "https://daffodil.shadow-ran.online/pea.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "pea.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Villarreal vs Real Betis",
-          "matchup": {
-            "home": "Villarreal",
-            "away": "Real Betis"
-          },
-          "display_name": "Villarreal vs Real Betis - pea.m3u8"
+          "display_name": "Villarreal vs Real Betis - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -6217,7 +6172,7 @@
       ]
     }
   },
-  "stream_count": 66,
+  "stream_count": 65,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
