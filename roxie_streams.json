@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T23:41:33+00:00",
+  "scraped_at": "2026-09-15T01:55:27+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -22,7 +22,7 @@
     },
     {
       "name": "WWE RAW",
-      "page": "https://roxiestreams.info/tennis-1",
+      "page": "https://roxiestreams.info/wwe-streams",
       "start_time": "September 14, 2026 5:00 PM"
     },
     {
@@ -455,12 +455,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/vix.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "vix.m3u8",
+            "path": "foxmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -477,13 +477,13 @@
             "display_name": "León vs San Luis - Stream 1"
           },
           {
-            "label": "vix.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vix.m3u8",
+            "label": "foxmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "vix.m3u8",
+            "path": "foxmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -497,7 +497,7 @@
               "home": "León",
               "away": "San Luis"
             },
-            "display_name": "León vs San Luis - vix.m3u8"
+            "display_name": "León vs San Luis - foxmx.m3u8"
           }
         ]
       }
@@ -1378,26 +1378,6 @@
             "display_name": "TNA - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ppv-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "TNA",
-            "matchup": null,
-            "display_name": "TNA - Stream 2"
-          },
-          {
             "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
@@ -1574,49 +1554,72 @@
         ]
       }
     ],
-    "tennis-1": [
+    "wwe": [
       {
-        "title": "WWE RAW",
-        "sport": "tennis-1",
+        "title": "WWE Smackdown",
+        "sport": "wwe",
         "matchup": null,
-        "page": "https://roxiestreams.info/tennis-1",
+        "page": "https://roxiestreams.info/wwe-streams",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/10d15fb432dadec289d4e9197b15c55c/manifest/video.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/tennis-1",
+            "source_page": "https://roxiestreams.info/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/tennis-1",
+              "Referer": "https://roxiestreams.info/wwe-streams",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "tennis-1",
-            "event_title": "WWE RAW",
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE RAW"
+            "display_name": "WWE Smackdown - Stream 1"
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/tennis.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/tennis-1",
+            "source_page": "https://roxiestreams.info/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tennis.m3u8",
+            "subdomain": "tedesco",
+            "path": "wwe.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/tennis-1",
+              "Referer": "https://roxiestreams.info/wwe-streams",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "tennis-1",
-            "event_title": "WWE RAW",
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE RAW - Stream 2"
+            "display_name": "WWE Smackdown - Stream 2"
+          },
+          {
+            "label": "wwe.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wwe-streams",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
+            "matchup": null,
+            "display_name": "WWE Smackdown - wwe.m3u8"
           }
         ]
       }
@@ -1647,26 +1650,6 @@
             "event_title": "TNA",
             "matchup": null,
             "display_name": "TNA - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ppv-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "TNA",
-            "matchup": null,
-            "display_name": "TNA - Stream 2"
           },
           {
             "label": "ppv.m3u8",
@@ -3968,7 +3951,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4294,73 +4276,6 @@
         {
           "label": "MultiView (NEW)",
           "url": "https://roxiestreams.info/multiview"
-        }
-      ]
-    },
-    "https://roxiestreams.info/tennis-1": {
-      "url": "https://roxiestreams.info/tennis-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Stream 2",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
         }
       ]
     }
@@ -4726,12 +4641,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/vix.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "vix.m3u8",
+          "path": "foxmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -4748,13 +4663,13 @@
           "display_name": "León vs San Luis - Stream 1"
         },
         {
-          "label": "vix.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vix.m3u8",
+          "label": "foxmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "vix.m3u8",
+          "path": "foxmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -4768,7 +4683,7 @@
             "home": "León",
             "away": "San Luis"
           },
-          "display_name": "León vs San Luis - vix.m3u8"
+          "display_name": "León vs San Luis - foxmx.m3u8"
         }
       ]
     },
@@ -5496,26 +5411,6 @@
           "display_name": "TNA - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ppv-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "TNA",
-          "matchup": null,
-          "display_name": "TNA - Stream 2"
-        },
-        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -5674,47 +5569,70 @@
         }
       ]
     },
-    "tennis-1": {
+    "wwe": {
       "pages": [
-        "https://roxiestreams.info/tennis-1"
+        "https://roxiestreams.info/wwe-streams"
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/10d15fb432dadec289d4e9197b15c55c/manifest/video.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/tennis-1",
+          "source_page": "https://roxiestreams.info/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/tennis-1",
+            "Referer": "https://roxiestreams.info/wwe-streams",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "tennis-1",
-          "event_title": "WWE RAW",
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE RAW"
+          "display_name": "WWE Smackdown - Stream 1"
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/tennis.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/tennis-1",
+          "source_page": "https://roxiestreams.info/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tennis.m3u8",
+          "subdomain": "tedesco",
+          "path": "wwe.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/tennis-1",
+            "Referer": "https://roxiestreams.info/wwe-streams",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "tennis-1",
-          "event_title": "WWE RAW",
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE RAW - Stream 2"
+          "display_name": "WWE Smackdown - Stream 2"
+        },
+        {
+          "label": "wwe.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wwe-streams",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
+          "matchup": null,
+          "display_name": "WWE Smackdown - wwe.m3u8"
         }
       ]
     },
@@ -5744,26 +5662,6 @@
           "display_name": "TNA - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ppv-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "TNA",
-          "matchup": null,
-          "display_name": "TNA - Stream 2"
-        },
-        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -5786,7 +5684,7 @@
       ]
     }
   },
-  "stream_count": 61,
+  "stream_count": 60,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
