@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T23:08:22+00:00",
+  "scraped_at": "2026-09-16T01:26:41+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -201,6 +201,63 @@
               "away": "Espanyol"
             },
             "display_name": "Rayo Vallecano vs Espanyol - dep.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Puebla vs Toluca",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Puebla",
+          "away": "Toluca"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-11",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Puebla vs Toluca",
+            "matchup": {
+              "home": "Puebla",
+              "away": "Toluca"
+            },
+            "display_name": "Puebla vs Toluca - Stream 1"
+          },
+          {
+            "label": "espnmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "espnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Puebla vs Toluca",
+            "matchup": {
+              "home": "Puebla",
+              "away": "Toluca"
+            },
+            "display_name": "Puebla vs Toluca - espnmx.m3u8"
           }
         ]
       },
@@ -2314,6 +2371,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "ESPN MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5303,6 +5361,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Puebla vs Toluca",
+          "matchup": {
+            "home": "Puebla",
+            "away": "Toluca"
+          },
+          "display_name": "Puebla vs Toluca - Stream 1"
+        },
+        {
+          "label": "espnmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "espnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Puebla vs Toluca",
+          "matchup": {
+            "home": "Puebla",
+            "away": "Toluca"
+          },
+          "display_name": "Puebla vs Toluca - espnmx.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://tedesco.shadow-ran.online/vsport.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
@@ -6753,7 +6857,7 @@
       ]
     }
   },
-  "stream_count": 69,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
