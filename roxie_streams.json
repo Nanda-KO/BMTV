@@ -1,15 +1,10 @@
 {
-  "scraped_at": "2026-09-16T22:52:37+00:00",
+  "scraped_at": "2026-09-17T01:06:08+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
-    {
-      "name": "Max Verstappen vs 100 Gokarts",
-      "page": "https://roxiestreams.info/f1",
-      "start_time": "September 16, 2026 9:00 AM"
-    },
     {
       "name": "UEFA Europa League",
       "page": "https://roxiestreams.info/soccer",
@@ -33,6 +28,11 @@
     {
       "name": "AEW",
       "page": "https://roxiestreams.info/aew",
+      "start_time": "September 16, 2026 5:00 PM"
+    },
+    {
+      "name": "Campeones Cup",
+      "page": "https://roxiestreams.info/soccer-streams-14",
       "start_time": "September 16, 2026 5:00 PM"
     }
   ],
@@ -172,6 +172,86 @@
               "away": "Estudiantes"
             },
             "display_name": "Corinthians vs Estudiantes - beines.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Grêmio vs Botafogo",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Grêmio",
+          "away": "Botafogo"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-14",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Grêmio vs Botafogo",
+            "matchup": {
+              "home": "Grêmio",
+              "away": "Botafogo"
+            },
+            "display_name": "Grêmio vs Botafogo - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin.shadow-ran.online/l1max.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "l1max.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Grêmio vs Botafogo",
+            "matchup": {
+              "home": "Grêmio",
+              "away": "Botafogo"
+            },
+            "display_name": "Grêmio vs Botafogo - Stream 2 (ES)"
+          },
+          {
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Grêmio vs Botafogo",
+            "matchup": {
+              "home": "Grêmio",
+              "away": "Botafogo"
+            },
+            "display_name": "Grêmio vs Botafogo - fana2.m3u8"
           }
         ]
       },
@@ -553,82 +633,59 @@
         ]
       },
       {
-        "title": "Grêmio vs Botafogo",
+        "title": "Inter Miami vs Cruz Azul",
         "sport": "soccer",
         "matchup": {
-          "home": "Grêmio",
-          "away": "Botafogo"
+          "home": "Inter Miami",
+          "away": "Cruz Azul"
         },
-        "page": "https://roxiestreams.info/soccer-streams-14",
+        "page": "https://roxiestreams.info/soccer-streams-15",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana2.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "fana2.m3u8",
+            "subdomain": "admin2",
+            "path": "mls.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Grêmio vs Botafogo",
+            "event_title": "Inter Miami vs Cruz Azul",
             "matchup": {
-              "home": "Grêmio",
-              "away": "Botafogo"
+              "home": "Inter Miami",
+              "away": "Cruz Azul"
             },
-            "display_name": "Grêmio vs Botafogo - Stream 1"
+            "display_name": "Inter Miami vs Cruz Azul - Stream 1"
           },
           {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin.shadow-ran.online/l1max.m3u8",
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "l1max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Grêmio vs Botafogo",
-            "matchup": {
-              "home": "Grêmio",
-              "away": "Botafogo"
-            },
-            "display_name": "Grêmio vs Botafogo - Stream 2 (ES)"
-          },
-          {
-            "label": "fana2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana2.m3u8",
+            "path": "mls.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Grêmio vs Botafogo",
+            "event_title": "Inter Miami vs Cruz Azul",
             "matchup": {
-              "home": "Grêmio",
-              "away": "Botafogo"
+              "home": "Inter Miami",
+              "away": "Cruz Azul"
             },
-            "display_name": "Grêmio vs Botafogo - fana2.m3u8"
+            "display_name": "Inter Miami vs Cruz Azul - mls.m3u8"
           }
         ]
       },
@@ -2128,66 +2185,7 @@
         ]
       }
     ],
-    "multiview": [],
-    "f1": [
-      {
-        "title": "Max Verstappen vs 100 Gokarts",
-        "sport": "f1",
-        "matchup": {
-          "home": "Max Verstappen",
-          "away": "100 Gokarts"
-        },
-        "page": "https://roxiestreams.info/f1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/f1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/f1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "f1",
-            "event_title": "Max Verstappen vs 100 Gokarts",
-            "matchup": {
-              "home": "Max Verstappen",
-              "away": "100 Gokarts"
-            },
-            "display_name": "Max Verstappen vs 100 Gokarts - Stream 1"
-          },
-          {
-            "label": "max.m3u8",
-            "url": "https://daffodil.shadow-ran.online/max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/f1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/f1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "f1",
-            "event_title": "Max Verstappen vs 100 Gokarts",
-            "matchup": {
-              "home": "Max Verstappen",
-              "away": "100 Gokarts"
-            },
-            "display_name": "Max Verstappen vs 100 Gokarts - max.m3u8"
-          }
-        ]
-      }
-    ]
+    "multiview": []
   },
   "pages": {
     "https://roxiestreams.info/soccer": {
@@ -2225,6 +2223,7 @@
         "Atlético Mineiro vs Santos",
         "LDU Quito vs Palmeiras",
         "Grêmio vs Botafogo",
+        "Inter Miami vs Cruz Azul",
         "Corinthians vs Estudiantes",
         "Stream Request (Discord)"
       ],
@@ -2342,6 +2341,10 @@
           "url": "https://roxiestreams.info/soccer-streams-14"
         },
         {
+          "label": "Inter Miami vs Cruz Azul",
+          "url": "https://roxiestreams.info/soccer-streams-15"
+        },
+        {
           "label": "Corinthians vs Estudiantes",
           "url": "https://roxiestreams.info/soccer-streams-13"
         },
@@ -2434,6 +2437,73 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (EN)",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-14": {
+      "url": "https://roxiestreams.info/soccer-streams-14",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2818,8 +2888,8 @@
         }
       ]
     },
-    "https://roxiestreams.info/soccer-streams-14": {
-      "url": "https://roxiestreams.info/soccer-streams-14",
+    "https://roxiestreams.info/soccer-streams-15": {
+      "url": "https://roxiestreams.info/soccer-streams-15",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -2834,7 +2904,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5533,72 +5602,6 @@
           "url": "https://roxiestreams.info/multiview"
         }
       ]
-    },
-    "https://roxiestreams.info/f1": {
-      "url": "https://roxiestreams.info/f1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
     }
   },
   "sports": {
@@ -5607,12 +5610,13 @@
         "https://roxiestreams.info/soccer",
         "https://roxiestreams.info/soccer-streams-1",
         "https://roxiestreams.info/soccer-streams-13",
+        "https://roxiestreams.info/soccer-streams-14",
         "https://roxiestreams.info/soccer-streams-2",
         "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-10",
         "https://roxiestreams.info/soccer-streams-11",
         "https://roxiestreams.info/soccer-streams-12",
-        "https://roxiestreams.info/soccer-streams-14",
+        "https://roxiestreams.info/soccer-streams-15",
         "https://roxiestreams.info/soccer-streams-4",
         "https://roxiestreams.info/soccer-streams-5",
         "https://roxiestreams.info/soccer-streams-6",
@@ -5734,6 +5738,75 @@
             "away": "Estudiantes"
           },
           "display_name": "Corinthians vs Estudiantes - beines.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Grêmio vs Botafogo",
+          "matchup": {
+            "home": "Grêmio",
+            "away": "Botafogo"
+          },
+          "display_name": "Grêmio vs Botafogo - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin.shadow-ran.online/l1max.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "l1max.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Grêmio vs Botafogo",
+          "matchup": {
+            "home": "Grêmio",
+            "away": "Botafogo"
+          },
+          "display_name": "Grêmio vs Botafogo - Stream 2 (ES)"
+        },
+        {
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Grêmio vs Botafogo",
+          "matchup": {
+            "home": "Grêmio",
+            "away": "Botafogo"
+          },
+          "display_name": "Grêmio vs Botafogo - fana2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6059,72 +6132,49 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana2.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "fana2.m3u8",
+          "subdomain": "admin2",
+          "path": "mls.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Grêmio vs Botafogo",
+          "event_title": "Inter Miami vs Cruz Azul",
           "matchup": {
-            "home": "Grêmio",
-            "away": "Botafogo"
+            "home": "Inter Miami",
+            "away": "Cruz Azul"
           },
-          "display_name": "Grêmio vs Botafogo - Stream 1"
+          "display_name": "Inter Miami vs Cruz Azul - Stream 1"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin.shadow-ran.online/l1max.m3u8",
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "l1max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Grêmio vs Botafogo",
-          "matchup": {
-            "home": "Grêmio",
-            "away": "Botafogo"
-          },
-          "display_name": "Grêmio vs Botafogo - Stream 2 (ES)"
-        },
-        {
-          "label": "fana2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana2.m3u8",
+          "path": "mls.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Grêmio vs Botafogo",
+          "event_title": "Inter Miami vs Cruz Azul",
           "matchup": {
-            "home": "Grêmio",
-            "away": "Botafogo"
+            "home": "Inter Miami",
+            "away": "Cruz Azul"
           },
-          "display_name": "Grêmio vs Botafogo - fana2.m3u8"
+          "display_name": "Inter Miami vs Cruz Azul - mls.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7375,59 +7425,6 @@
         "https://roxiestreams.info/multiview"
       ],
       "streams": []
-    },
-    "f1": {
-      "pages": [
-        "https://roxiestreams.info/f1"
-      ],
-      "streams": [
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/max.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/f1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/f1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "f1",
-          "event_title": "Max Verstappen vs 100 Gokarts",
-          "matchup": {
-            "home": "Max Verstappen",
-            "away": "100 Gokarts"
-          },
-          "display_name": "Max Verstappen vs 100 Gokarts - Stream 1"
-        },
-        {
-          "label": "max.m3u8",
-          "url": "https://daffodil.shadow-ran.online/max.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/f1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/f1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "f1",
-          "event_title": "Max Verstappen vs 100 Gokarts",
-          "matchup": {
-            "home": "Max Verstappen",
-            "away": "100 Gokarts"
-          },
-          "display_name": "Max Verstappen vs 100 Gokarts - max.m3u8"
-        }
-      ]
     }
   },
   "stream_count": 78,
