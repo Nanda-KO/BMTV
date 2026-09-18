@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T17:40:31+00:00",
+  "scraped_at": "2026-09-18T19:59:09+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -44,12 +44,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/vsport.m3u8",
+            "url": "https://admin2.shadow-ran.online/bayern.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "vsport.m3u8",
+            "subdomain": "admin2",
+            "path": "bayern.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -66,13 +66,13 @@
             "display_name": "Bayern München vs Union Berlin - Stream 1"
           },
           {
-            "label": "vsport.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vsport.m3u8",
+            "label": "bayern.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "vsport.m3u8",
+            "path": "bayern.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -86,7 +86,7 @@
               "home": "Bayern München",
               "away": "Union Berlin"
             },
-            "display_name": "Bayern München vs Union Berlin - vsport.m3u8"
+            "display_name": "Bayern München vs Union Berlin - bayern.m3u8"
           }
         ]
       },
@@ -269,6 +269,29 @@
               "away": "Chelsea"
             },
             "display_name": "Brentford vs Chelsea - Stream 2"
+          },
+          {
+            "label": "Stream 3",
+            "url": "https://admin2.shadow-ran.online/prem.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "prem.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Brentford vs Chelsea",
+            "matchup": {
+              "home": "Brentford",
+              "away": "Chelsea"
+            },
+            "display_name": "Brentford vs Chelsea - Stream 3"
           },
           {
             "label": "main.m3u8",
@@ -532,29 +555,6 @@
         },
         "page": "https://roxiestreams.info/soccer-streams-8",
         "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/prem.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "prem.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-8",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Tigres vs Juarez",
-            "matchup": {
-              "home": "Tigres",
-              "away": "Juarez"
-            },
-            "display_name": "Tigres vs Juarez - Stream 1"
-          },
           {
             "label": "prem.m3u8",
             "url": "https://daffodil.shadow-ran.online/prem.m3u8",
@@ -2382,6 +2382,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5377,12 +5378,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/vsport.m3u8",
+          "url": "https://admin2.shadow-ran.online/bayern.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "vsport.m3u8",
+          "subdomain": "admin2",
+          "path": "bayern.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -5399,13 +5400,13 @@
           "display_name": "Bayern München vs Union Berlin - Stream 1"
         },
         {
-          "label": "vsport.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vsport.m3u8",
+          "label": "bayern.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "vsport.m3u8",
+          "path": "bayern.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -5419,7 +5420,7 @@
             "home": "Bayern München",
             "away": "Union Berlin"
           },
-          "display_name": "Bayern München vs Union Berlin - vsport.m3u8"
+          "display_name": "Bayern München vs Union Berlin - bayern.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5572,6 +5573,29 @@
             "away": "Chelsea"
           },
           "display_name": "Brentford vs Chelsea - Stream 2"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://admin2.shadow-ran.online/prem.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "prem.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Brentford vs Chelsea",
+          "matchup": {
+            "home": "Brentford",
+            "away": "Chelsea"
+          },
+          "display_name": "Brentford vs Chelsea - Stream 3"
         },
         {
           "label": "main.m3u8",
@@ -5779,29 +5803,6 @@
             "away": "Atlante"
           },
           "display_name": "Puebla vs Atlante - lyon.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/prem.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "prem.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-8",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Tigres vs Juarez",
-          "matchup": {
-            "home": "Tigres",
-            "away": "Juarez"
-          },
-          "display_name": "Tigres vs Juarez - Stream 1"
         },
         {
           "label": "prem.m3u8",

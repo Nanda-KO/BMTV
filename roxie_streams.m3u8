@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-09-18T17:40:31+00:00
+# RoxieStreams Playlist - generated 2026-09-18T19:59:09+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Bayern München vs Union Berlin - Stream 1" group-title="SOCCER - Bayern München vs Union Berlin",Bayern München vs Union Berlin - Stream 1
@@ -9,16 +9,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/vsport.m3u8
+https://admin2.shadow-ran.online/bayern.m3u8
 
-#EXTINF:-1 tvg-name="Bayern München vs Union Berlin - vsport.m3u8" group-title="SOCCER - Bayern München vs Union Berlin",Bayern München vs Union Berlin - vsport.m3u8
+#EXTINF:-1 tvg-name="Bayern München vs Union Berlin - bayern.m3u8" group-title="SOCCER - Bayern München vs Union Berlin",Bayern München vs Union Berlin - bayern.m3u8
 #EXTGRP:SOCCER - Bayern München vs Union Berlin
 #EXTDESC:Bayern München vs Union Berlin
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/vsport.m3u8
+https://daffodil.shadow-ran.online/bayern.m3u8
 
 #EXTINF:-1 tvg-name="Copa Libertadores - Stream 1" group-title="SOCCER - Copa Libertadores",Copa Libertadores - Stream 1
 #EXTGRP:SOCCER - Copa Libertadores
@@ -82,6 +82,15 @@ https://admin2.shadow-ran.online/main.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-4","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wwe.m3u8
+
+#EXTINF:-1 tvg-name="Brentford vs Chelsea - Stream 3" group-title="SOCCER - Brentford vs Chelsea",Brentford vs Chelsea - Stream 3
+#EXTGRP:SOCCER - Brentford vs Chelsea
+#EXTDESC:Brentford vs Chelsea
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-4","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/prem.m3u8
 
 #EXTINF:-1 tvg-name="Brentford vs Chelsea - main.m3u8" group-title="SOCCER - Brentford vs Chelsea",Brentford vs Chelsea - main.m3u8
 #EXTGRP:SOCCER - Brentford vs Chelsea
@@ -163,15 +172,6 @@ https://admin2.shadow-ran.online/lyon.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/lyon.m3u8
-
-#EXTINF:-1 tvg-name="Tigres vs Juarez - Stream 1" group-title="SOCCER - Tigres vs Juarez",Tigres vs Juarez - Stream 1
-#EXTGRP:SOCCER - Tigres vs Juarez
-#EXTDESC:Tigres vs Juarez
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-8","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/prem.m3u8
 
 #EXTINF:-1 tvg-name="Tigres vs Juarez - prem.m3u8" group-title="SOCCER - Tigres vs Juarez",Tigres vs Juarez - prem.m3u8
 #EXTGRP:SOCCER - Tigres vs Juarez
