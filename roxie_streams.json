@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T16:45:21+00:00",
+  "scraped_at": "2026-09-19T19:06:43+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -2321,6 +2321,37 @@
         ]
       },
       {
+        "title": "Northern Illinois vs Arizona",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Northern Illinois",
+          "away": "Arizona"
+        },
+        "page": "https://roxiestreams.info/ncaa-streams-13",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ncaa-streams-13",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ncaa-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Northern Illinois vs Arizona",
+            "matchup": {
+              "home": "Northern Illinois",
+              "away": "Arizona"
+            },
+            "display_name": "Northern Illinois vs Arizona"
+          }
+        ]
+      },
+      {
         "title": "BYU vs Colorado State",
         "sport": "nfl",
         "matchup": {
@@ -3083,35 +3114,12 @@
             "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 1 (Para)"
           },
           {
-            "label": "Stream 2 (SN)",
-            "url": "https://daffodil.shadow-ran.online/sn.m3u8",
+            "label": "Stream 2 (TNT)",
+            "url": "https://admin.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ufc",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC 331: Van vs. Pantoja 2",
-            "matchup": {
-              "home": "UFC 331: Van",
-              "away": "Pantoja 2"
-            },
-            "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 2 (SN)"
-          },
-          {
-            "label": "Stream 3 (TNT)",
-            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ufc",
@@ -3126,7 +3134,7 @@
               "home": "UFC 331: Van",
               "away": "Pantoja 2"
             },
-            "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 3 (TNT)"
+            "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 2 (TNT)"
           },
           {
             "label": "abbiecadabrii.m3u8",
@@ -6850,7 +6858,7 @@
         },
         {
           "label": "Northern Illinois vs Arizona",
-          "url": "https://roxiestreams.info/ncaa-streams-17"
+          "url": "https://roxiestreams.info/ncaa-streams-13"
         },
         {
           "label": "North Dakota State vs Sacramento State",
@@ -7004,6 +7012,72 @@
     },
     "https://roxiestreams.info/ncaa-streams-12": {
       "url": "https://roxiestreams.info/ncaa-streams-12",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/ncaa-streams-13": {
+      "url": "https://roxiestreams.info/ncaa-streams-13",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -8504,8 +8578,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1 (Para)",
-        "Stream 2 (SN)",
-        "Stream 3 (TNT)",
+        "Stream 2 (TNT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -10374,6 +10447,7 @@
         "https://roxiestreams.info/ncaa-streams-1",
         "https://roxiestreams.info/ncaa-streams-10",
         "https://roxiestreams.info/ncaa-streams-12",
+        "https://roxiestreams.info/ncaa-streams-13",
         "https://roxiestreams.info/ncaa-streams-14",
         "https://roxiestreams.info/ncaa-streams-15",
         "https://roxiestreams.info/ncaa-streams-16",
@@ -10472,6 +10546,26 @@
             "away": "Tennessee"
           },
           "display_name": "Kennesaw State vs Tennessee"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ncaa-streams-13",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ncaa-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Northern Illinois vs Arizona",
+          "matchup": {
+            "home": "Northern Illinois",
+            "away": "Arizona"
+          },
+          "display_name": "Northern Illinois vs Arizona"
         },
         {
           "label": "Direct Link",
@@ -11077,35 +11171,12 @@
           "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 1 (Para)"
         },
         {
-          "label": "Stream 2 (SN)",
-          "url": "https://daffodil.shadow-ran.online/sn.m3u8",
+          "label": "Stream 2 (TNT)",
+          "url": "https://admin.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ufc",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC 331: Van vs. Pantoja 2",
-          "matchup": {
-            "home": "UFC 331: Van",
-            "away": "Pantoja 2"
-          },
-          "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 2 (SN)"
-        },
-        {
-          "label": "Stream 3 (TNT)",
-          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ufc",
@@ -11120,7 +11191,7 @@
             "home": "UFC 331: Van",
             "away": "Pantoja 2"
           },
-          "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 3 (TNT)"
+          "display_name": "UFC 331: Van vs. Pantoja 2 - Stream 2 (TNT)"
         },
         {
           "label": "abbiecadabrii.m3u8",
