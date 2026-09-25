@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T12:59:31+00:00",
+  "scraped_at": "2026-09-25T17:55:06+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -279,6 +279,109 @@
         ]
       },
       {
+        "title": "Suriname vs Honduras",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Suriname",
+          "away": "Honduras"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-11",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Suriname vs Honduras",
+            "matchup": {
+              "home": "Suriname",
+              "away": "Honduras"
+            },
+            "display_name": "Suriname vs Honduras - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "fubo.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Suriname vs Honduras",
+            "matchup": {
+              "home": "Suriname",
+              "away": "Honduras"
+            },
+            "display_name": "Suriname vs Honduras - Stream 2"
+          },
+          {
+            "label": "Stream 3",
+            "url": "https://admin2.shadow-ran.online/sunderland.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sunderland.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Suriname vs Honduras",
+            "matchup": {
+              "home": "Suriname",
+              "away": "Honduras"
+            },
+            "display_name": "Suriname vs Honduras - Stream 3"
+          },
+          {
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Suriname vs Honduras",
+            "matchup": {
+              "home": "Suriname",
+              "away": "Honduras"
+            },
+            "display_name": "Suriname vs Honduras - main.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Jamaica vs Guatemala",
         "sport": "soccer",
         "matchup": {
@@ -344,29 +447,6 @@
         },
         "page": "https://roxiestreams.info/soccer-streams-4",
         "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "fubo.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Armenia vs Latvia",
-            "matchup": {
-              "home": "Armenia",
-              "away": "Latvia"
-            },
-            "display_name": "Armenia vs Latvia - Stream 1"
-          },
           {
             "label": "fubo.m3u8",
             "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
@@ -2202,6 +2282,7 @@
         "Grenada vs Cuba",
         "Jamaica vs Guatemala",
         "Atlante vs Monterrey",
+        "Suriname vs Honduras",
         "Tijuana vs Atlas",
         "El Salvador vs Martinique",
         "Stream Request (Discord)"
@@ -2310,6 +2391,10 @@
         {
           "label": "Atlante vs Monterrey",
           "url": "https://roxiestreams.info/soccer-streams-10"
+        },
+        {
+          "label": "Suriname vs Honduras",
+          "url": "https://roxiestreams.info/soccer-streams-11"
         },
         {
           "label": "Tijuana vs Atlas",
@@ -2476,6 +2561,74 @@
         "Stream 1",
         "Stream 2 (EN)",
         "Stream 3 (ES)",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-11": {
+      "url": "https://roxiestreams.info/soccer-streams-11",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5736,6 +5889,7 @@
         "https://roxiestreams.info/soccer-streams-1",
         "https://roxiestreams.info/soccer-streams-2",
         "https://roxiestreams.info/soccer-streams-10",
+        "https://roxiestreams.info/soccer-streams-11",
         "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-4",
         "https://roxiestreams.info/soccer-streams-5",
@@ -5954,6 +6108,98 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Suriname vs Honduras",
+          "matchup": {
+            "home": "Suriname",
+            "away": "Honduras"
+          },
+          "display_name": "Suriname vs Honduras - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "fubo.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Suriname vs Honduras",
+          "matchup": {
+            "home": "Suriname",
+            "away": "Honduras"
+          },
+          "display_name": "Suriname vs Honduras - Stream 2"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://admin2.shadow-ran.online/sunderland.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sunderland.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Suriname vs Honduras",
+          "matchup": {
+            "home": "Suriname",
+            "away": "Honduras"
+          },
+          "display_name": "Suriname vs Honduras - Stream 3"
+        },
+        {
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Suriname vs Honduras",
+          "matchup": {
+            "home": "Suriname",
+            "away": "Honduras"
+          },
+          "display_name": "Suriname vs Honduras - main.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
@@ -5997,29 +6243,6 @@
             "away": "Guatemala"
           },
           "display_name": "Jamaica vs Guatemala - fsp.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "fubo.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Armenia vs Latvia",
-          "matchup": {
-            "home": "Armenia",
-            "away": "Latvia"
-          },
-          "display_name": "Armenia vs Latvia - Stream 1"
         },
         {
           "label": "fubo.m3u8",
@@ -7535,7 +7758,7 @@
       ]
     }
   },
-  "stream_count": 77,
+  "stream_count": 80,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
