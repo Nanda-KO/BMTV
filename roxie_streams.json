@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T22:18:57+00:00",
+  "scraped_at": "2026-10-02T01:44:05+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -805,29 +805,6 @@
             "display_name": "Pittsburgh Steelers vs Cleveland Browns - Stream 2"
           },
           {
-            "label": "Stream 3",
-            "url": "https://admin.shadow-ran.online/nfl.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nfl-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "nfl.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nfl-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Pittsburgh Steelers vs Cleveland Browns",
-            "matchup": {
-              "home": "Pittsburgh Steelers",
-              "away": "Cleveland Browns"
-            },
-            "display_name": "Pittsburgh Steelers vs Cleveland Browns - Stream 3"
-          },
-          {
             "label": "nfl.m3u8",
             "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
@@ -863,11 +840,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "ncaa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -920,11 +897,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "ncaa2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -979,11 +956,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
+            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -1092,13 +1069,13 @@
         "page": "https://roxiestreams.info/nhl-streams-3",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nhl2.m3u8",
+            "subdomain": "admin2",
+            "path": "nhl3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -1112,7 +1089,30 @@
               "home": "Tampa Bay Lightning",
               "away": "New York Rangers"
             },
-            "display_name": "Tampa Bay Lightning vs New York Rangers - Stream 2"
+            "display_name": "Tampa Bay Lightning vs New York Rangers - Stream 1"
+          },
+          {
+            "label": "nhl3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nhl-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nhl3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nhl-streams-3",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Tampa Bay Lightning vs New York Rangers",
+            "matchup": {
+              "home": "Tampa Bay Lightning",
+              "away": "New York Rangers"
+            },
+            "display_name": "Tampa Bay Lightning vs New York Rangers - nhl3.m3u8"
           }
         ]
       },
@@ -1126,13 +1126,13 @@
         "page": "https://roxiestreams.info/nhl-streams-4",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nhl.m3u8",
+            "path": "nhl4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-4",
               "Origin": "https://roxiestreams.info",
@@ -1146,7 +1146,30 @@
               "home": "Minnesota Wild",
               "away": "Nashville Predators"
             },
-            "display_name": "Minnesota Wild vs Nashville Predators - Stream 2"
+            "display_name": "Minnesota Wild vs Nashville Predators - Stream 1"
+          },
+          {
+            "label": "nhl4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nhl4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nhl-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nhl4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nhl-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Minnesota Wild vs Nashville Predators",
+            "matchup": {
+              "home": "Minnesota Wild",
+              "away": "Nashville Predators"
+            },
+            "display_name": "Minnesota Wild vs Nashville Predators - nhl4.m3u8"
           }
         ]
       },
@@ -1192,27 +1215,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nhl-streams-6",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nhl-streams-6",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Chicago Blackhawks vs Utah Mammoth",
-            "matchup": {
-              "home": "Chicago Blackhawks",
-              "away": "Utah Mammoth"
-            },
-            "display_name": "Chicago Blackhawks vs Utah Mammoth"
-          },
-          {
-            "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/nhl.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-6",
             "headers": {
@@ -1243,7 +1246,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+            "url": "https://admin.formaturamaxi.com.br/nhl7.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-7",
             "headers": {
@@ -2795,7 +2798,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3242,7 +3244,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3309,7 +3310,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3442,7 +3442,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4869,29 +4868,6 @@
           "display_name": "Pittsburgh Steelers vs Cleveland Browns - Stream 2"
         },
         {
-          "label": "Stream 3",
-          "url": "https://admin.shadow-ran.online/nfl.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nfl-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "nfl.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nfl-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Pittsburgh Steelers vs Cleveland Browns",
-          "matchup": {
-            "home": "Pittsburgh Steelers",
-            "away": "Cleveland Browns"
-          },
-          "display_name": "Pittsburgh Steelers vs Cleveland Browns - Stream 3"
-        },
-        {
           "label": "nfl.m3u8",
           "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
@@ -4916,11 +4892,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "ncaa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -4962,11 +4938,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "ncaa2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -5023,11 +4999,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
+          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -5114,13 +5090,13 @@
           "display_name": "Philadelphia Flyers vs New Jersey Devils - nhl2.m3u8"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nhl2.m3u8",
+          "subdomain": "admin2",
+          "path": "nhl3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -5134,16 +5110,39 @@
             "home": "Tampa Bay Lightning",
             "away": "New York Rangers"
           },
-          "display_name": "Tampa Bay Lightning vs New York Rangers - Stream 2"
+          "display_name": "Tampa Bay Lightning vs New York Rangers - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+          "label": "nhl3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nhl-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nhl3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nhl-streams-3",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Tampa Bay Lightning vs New York Rangers",
+          "matchup": {
+            "home": "Tampa Bay Lightning",
+            "away": "New York Rangers"
+          },
+          "display_name": "Tampa Bay Lightning vs New York Rangers - nhl3.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "nhl.m3u8",
+          "path": "nhl4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-4",
             "Origin": "https://roxiestreams.info",
@@ -5157,7 +5156,30 @@
             "home": "Minnesota Wild",
             "away": "Nashville Predators"
           },
-          "display_name": "Minnesota Wild vs Nashville Predators - Stream 2"
+          "display_name": "Minnesota Wild vs Nashville Predators - Stream 1"
+        },
+        {
+          "label": "nhl4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nhl4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nhl-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nhl4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nhl-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Minnesota Wild vs Nashville Predators",
+          "matchup": {
+            "home": "Minnesota Wild",
+            "away": "Nashville Predators"
+          },
+          "display_name": "Minnesota Wild vs Nashville Predators - nhl4.m3u8"
         },
         {
           "label": "Direct Link",
@@ -5181,7 +5203,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-6",
           "headers": {
@@ -5201,27 +5223,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/nhl.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nhl-streams-6",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nhl-streams-6",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Chicago Blackhawks vs Utah Mammoth",
-          "matchup": {
-            "home": "Chicago Blackhawks",
-            "away": "Utah Mammoth"
-          },
-          "display_name": "Chicago Blackhawks vs Utah Mammoth"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+          "url": "https://admin.formaturamaxi.com.br/nhl7.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-7",
           "headers": {
