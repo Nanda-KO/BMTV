@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T17:27:09+00:00",
+  "scraped_at": "2026-10-03T20:08:41+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -28,7 +28,7 @@
     {
       "name": "UFC 332: Silva vs Wang",
       "page": "https://roxiestreams.info/ufc",
-      "start_time": "October 3, 2026 2:00 PM"
+      "start_time": "October 3, 2026 1:00 PM"
     },
     {
       "name": "MotoGP - Grand Prix of Japan",
@@ -225,12 +225,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "canal5.m3u8",
+            "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -247,36 +247,13 @@
             "display_name": "Canada vs Peru - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/mexico.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-11",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mexico.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-11",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Canada vs Peru",
-            "matchup": {
-              "home": "Canada",
-              "away": "Peru"
-            },
-            "display_name": "Canada vs Peru - Stream 2"
-          },
-          {
-            "label": "canal5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "label": "nba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "canal5.m3u8",
+            "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -290,7 +267,7 @@
               "home": "Canada",
               "away": "Peru"
             },
-            "display_name": "Canada vs Peru - canal5.m3u8"
+            "display_name": "Canada vs Peru - nba.m3u8"
           }
         ]
       },
@@ -305,12 +282,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/rcn.m3u8",
+            "url": "https://admin2.shadow-ran.online/fubo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "rcn.m3u8",
+            "path": "fubo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -327,13 +304,13 @@
             "display_name": "Switzerland vs Slovenia - Stream 1"
           },
           {
-            "label": "rcn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/rcn.m3u8",
+            "label": "fubo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "rcn.m3u8",
+            "path": "fubo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -347,7 +324,7 @@
               "home": "Switzerland",
               "away": "Slovenia"
             },
-            "display_name": "Switzerland vs Slovenia - rcn.m3u8"
+            "display_name": "Switzerland vs Slovenia - fubo.m3u8"
           }
         ]
       },
@@ -430,13 +407,13 @@
             "display_name": "Spain vs Czech Republic - Stream 3 (ALT)"
           },
           {
-            "label": "usa.m3u8",
-            "url": "https://daffodil.shadow-ran.online/usa.m3u8",
+            "label": "virgin.m3u8",
+            "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "usa.m3u8",
+            "path": "virgin.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
@@ -450,7 +427,7 @@
               "home": "Spain",
               "away": "Czech Republic"
             },
-            "display_name": "Spain vs Czech Republic - usa.m3u8"
+            "display_name": "Spain vs Czech Republic - virgin.m3u8"
           }
         ]
       },
@@ -465,12 +442,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/abu.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "abu.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -487,13 +464,13 @@
             "display_name": "Atlético Mineiro vs Bragantino - Stream 1"
           },
           {
-            "label": "abu.m3u8",
-            "url": "https://daffodil.shadow-ran.online/abu.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "abu.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -507,7 +484,7 @@
               "home": "Atlético Mineiro",
               "away": "Bragantino"
             },
-            "display_name": "Atlético Mineiro vs Bragantino - abu.m3u8"
+            "display_name": "Atlético Mineiro vs Bragantino - fana.m3u8"
           }
         ]
       },
@@ -1112,29 +1089,6 @@
               "away": "England"
             },
             "display_name": "Croatia vs England - Stream 2 (ES)"
-          },
-          {
-            "label": "virgin.m3u8",
-            "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "virgin.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Croatia vs England",
-            "matchup": {
-              "home": "Croatia",
-              "away": "England"
-            },
-            "display_name": "Croatia vs England - virgin.m3u8"
           }
         ]
       }
@@ -1231,11 +1185,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/mlb2.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/mlb-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "mlb2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/mlb-streams-2",
@@ -1251,6 +1205,29 @@
               "away": "Los Angeles Dodgers"
             },
             "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/ncaa9.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/mlb-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ncaa9.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/mlb-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "Atlanta Braves vs Los Angeles Dodgers",
+            "matchup": {
+              "home": "Atlanta Braves",
+              "away": "Los Angeles Dodgers"
+            },
+            "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 2"
           },
           {
             "label": "mlb2.m3u8",
@@ -1825,7 +1802,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-6",
             "headers": {
@@ -2482,6 +2459,29 @@
             "display_name": "Whittaker vs. Wallace - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ppv-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Whittaker vs. Wallace",
+            "matchup": {
+              "home": "Whittaker",
+              "away": "Wallace"
+            },
+            "display_name": "Whittaker vs. Wallace - Stream 2"
+          },
+          {
             "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
@@ -2654,30 +2654,7 @@
         "page": "https://roxiestreams.info/ufc",
         "streams": [
           {
-            "label": "Stream 1 (Hub)",
-            "url": "https://admin2.shadow-ran.online/hub.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "hub.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ufc",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC 332: Silva vs Wang",
-            "matchup": {
-              "home": "UFC 332: Silva",
-              "away": "Wang"
-            },
-            "display_name": "UFC 332: Silva vs Wang - Stream 1 (Hub)"
-          },
-          {
-            "label": "Stream 2 (Para)",
+            "label": "Stream 1 (PARA+)",
             "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
@@ -2697,10 +2674,10 @@
               "home": "UFC 332: Silva",
               "away": "Wang"
             },
-            "display_name": "UFC 332: Silva vs Wang - Stream 2 (Para)"
+            "display_name": "UFC 332: Silva vs Wang - Stream 1 (PARA+)"
           },
           {
-            "label": "Stream 3 (TNT)",
+            "label": "Stream 2 (TNT)",
             "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
@@ -2720,16 +2697,16 @@
               "home": "UFC 332: Silva",
               "away": "Wang"
             },
-            "display_name": "UFC 332: Silva vs Wang - Stream 3 (TNT)"
+            "display_name": "UFC 332: Silva vs Wang - Stream 2 (TNT)"
           },
           {
-            "label": "hub.m3u8",
-            "url": "https://daffodil.shadow-ran.online/hub.m3u8",
+            "label": "Stream 3 (CBS)",
+            "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "hub.m3u8",
+            "subdomain": "admin",
+            "path": "ncaa10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ufc",
               "Origin": "https://roxiestreams.info",
@@ -2743,7 +2720,30 @@
               "home": "UFC 332: Silva",
               "away": "Wang"
             },
-            "display_name": "UFC 332: Silva vs Wang - hub.m3u8"
+            "display_name": "UFC 332: Silva vs Wang - Stream 3 (CBS)"
+          },
+          {
+            "label": "abbiecadabrii.m3u8",
+            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 332: Silva vs Wang",
+            "matchup": {
+              "home": "UFC 332: Silva",
+              "away": "Wang"
+            },
+            "display_name": "UFC 332: Silva vs Wang - abbiecadabrii.m3u8"
           }
         ]
       }
@@ -3250,9 +3250,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "AZTECA 7 MX VPN",
-        "CLARO MX VPN",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4409,7 +4406,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "PEACOCK US VPN",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7099,6 +7096,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7477,9 +7475,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (Hub)",
-        "Stream 2 (Para)",
-        "Stream 3 (TNT)",
+        "Stream 1 (PARA+)",
+        "Stream 2 (TNT)",
+        "Stream 3 (CBS)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7827,12 +7825,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "canal5.m3u8",
+          "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -7849,36 +7847,13 @@
           "display_name": "Canada vs Peru - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/mexico.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-11",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mexico.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-11",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Canada vs Peru",
-          "matchup": {
-            "home": "Canada",
-            "away": "Peru"
-          },
-          "display_name": "Canada vs Peru - Stream 2"
-        },
-        {
-          "label": "canal5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "label": "nba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "canal5.m3u8",
+          "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -7892,16 +7867,16 @@
             "home": "Canada",
             "away": "Peru"
           },
-          "display_name": "Canada vs Peru - canal5.m3u8"
+          "display_name": "Canada vs Peru - nba.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/rcn.m3u8",
+          "url": "https://admin2.shadow-ran.online/fubo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "rcn.m3u8",
+          "path": "fubo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -7918,13 +7893,13 @@
           "display_name": "Switzerland vs Slovenia - Stream 1"
         },
         {
-          "label": "rcn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/rcn.m3u8",
+          "label": "fubo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "rcn.m3u8",
+          "path": "fubo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -7938,7 +7913,7 @@
             "home": "Switzerland",
             "away": "Slovenia"
           },
-          "display_name": "Switzerland vs Slovenia - rcn.m3u8"
+          "display_name": "Switzerland vs Slovenia - fubo.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8010,13 +7985,13 @@
           "display_name": "Spain vs Czech Republic - Stream 3 (ALT)"
         },
         {
-          "label": "usa.m3u8",
-          "url": "https://daffodil.shadow-ran.online/usa.m3u8",
+          "label": "virgin.m3u8",
+          "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "usa.m3u8",
+          "path": "virgin.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
@@ -8030,16 +8005,16 @@
             "home": "Spain",
             "away": "Czech Republic"
           },
-          "display_name": "Spain vs Czech Republic - usa.m3u8"
+          "display_name": "Spain vs Czech Republic - virgin.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/abu.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "abu.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -8056,13 +8031,13 @@
           "display_name": "Atlético Mineiro vs Bragantino - Stream 1"
         },
         {
-          "label": "abu.m3u8",
-          "url": "https://daffodil.shadow-ran.online/abu.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "abu.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -8076,7 +8051,7 @@
             "home": "Atlético Mineiro",
             "away": "Bragantino"
           },
-          "display_name": "Atlético Mineiro vs Bragantino - abu.m3u8"
+          "display_name": "Atlético Mineiro vs Bragantino - fana.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8560,29 +8535,6 @@
             "away": "England"
           },
           "display_name": "Croatia vs England - Stream 2 (ES)"
-        },
-        {
-          "label": "virgin.m3u8",
-          "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "virgin.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Croatia vs England",
-          "matchup": {
-            "home": "Croatia",
-            "away": "England"
-          },
-          "display_name": "Croatia vs England - virgin.m3u8"
         }
       ]
     },
@@ -8666,11 +8618,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/mlb2.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/mlb-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "mlb2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/mlb-streams-2",
@@ -8686,6 +8638,29 @@
             "away": "Los Angeles Dodgers"
           },
           "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/ncaa9.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/mlb-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa9.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/mlb-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "Atlanta Braves vs Los Angeles Dodgers",
+          "matchup": {
+            "home": "Atlanta Braves",
+            "away": "Los Angeles Dodgers"
+          },
+          "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 2"
         },
         {
           "label": "mlb2.m3u8",
@@ -9132,7 +9107,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-6",
           "headers": {
@@ -9627,6 +9602,29 @@
           "display_name": "Whittaker vs. Wallace - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ppv-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Whittaker vs. Wallace",
+          "matchup": {
+            "home": "Whittaker",
+            "away": "Wallace"
+          },
+          "display_name": "Whittaker vs. Wallace - Stream 2"
+        },
+        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -9776,30 +9774,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1 (Hub)",
-          "url": "https://admin2.shadow-ran.online/hub.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "hub.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ufc",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC 332: Silva vs Wang",
-          "matchup": {
-            "home": "UFC 332: Silva",
-            "away": "Wang"
-          },
-          "display_name": "UFC 332: Silva vs Wang - Stream 1 (Hub)"
-        },
-        {
-          "label": "Stream 2 (Para)",
+          "label": "Stream 1 (PARA+)",
           "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
@@ -9819,10 +9794,10 @@
             "home": "UFC 332: Silva",
             "away": "Wang"
           },
-          "display_name": "UFC 332: Silva vs Wang - Stream 2 (Para)"
+          "display_name": "UFC 332: Silva vs Wang - Stream 1 (PARA+)"
         },
         {
-          "label": "Stream 3 (TNT)",
+          "label": "Stream 2 (TNT)",
           "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
@@ -9842,16 +9817,16 @@
             "home": "UFC 332: Silva",
             "away": "Wang"
           },
-          "display_name": "UFC 332: Silva vs Wang - Stream 3 (TNT)"
+          "display_name": "UFC 332: Silva vs Wang - Stream 2 (TNT)"
         },
         {
-          "label": "hub.m3u8",
-          "url": "https://daffodil.shadow-ran.online/hub.m3u8",
+          "label": "Stream 3 (CBS)",
+          "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "hub.m3u8",
+          "subdomain": "admin",
+          "path": "ncaa10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ufc",
             "Origin": "https://roxiestreams.info",
@@ -9865,7 +9840,30 @@
             "home": "UFC 332: Silva",
             "away": "Wang"
           },
-          "display_name": "UFC 332: Silva vs Wang - hub.m3u8"
+          "display_name": "UFC 332: Silva vs Wang - Stream 3 (CBS)"
+        },
+        {
+          "label": "abbiecadabrii.m3u8",
+          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 332: Silva vs Wang",
+          "matchup": {
+            "home": "UFC 332: Silva",
+            "away": "Wang"
+          },
+          "display_name": "UFC 332: Silva vs Wang - abbiecadabrii.m3u8"
         }
       ]
     },
