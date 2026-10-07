@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T19:25:52+00:00",
+  "scraped_at": "2026-10-07T23:45:16+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -289,6 +289,29 @@
             "display_name": "Botafogo vs Vasco da Gama - Stream 1"
           },
           {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin.shadow-ran.online/fana5es.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana5es.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-5",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Botafogo vs Vasco da Gama",
+            "matchup": {
+              "home": "Botafogo",
+              "away": "Vasco da Gama"
+            },
+            "display_name": "Botafogo vs Vasco da Gama - Stream 2 (ES)"
+          },
+          {
             "label": "fana5pt.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana5pt.m3u8",
             "type": "m3u8",
@@ -367,6 +390,63 @@
               "away": "São Paulo"
             },
             "display_name": "Cruzeiro vs São Paulo - fana6pt.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Leones vs Barranquilla",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Leones",
+          "away": "Barranquilla"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-7",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/win.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "win.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Leones vs Barranquilla",
+            "matchup": {
+              "home": "Leones",
+              "away": "Barranquilla"
+            },
+            "display_name": "Leones vs Barranquilla - Stream 1"
+          },
+          {
+            "label": "win.m3u8",
+            "url": "https://daffodil.shadow-ran.online/win.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "win.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Leones vs Barranquilla",
+            "matchup": {
+              "home": "Leones",
+              "away": "Barranquilla"
+            },
+            "display_name": "Leones vs Barranquilla - win.m3u8"
           }
         ]
       }
@@ -716,11 +796,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+            "url": "https://admin.shadow-ran.online/nba3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-3",
@@ -773,11 +853,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/nba4.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "admin2",
             "path": "nba4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-4",
@@ -832,11 +912,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+            "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "ncaa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -889,11 +969,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa2.m3u8",
+            "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "ncaa2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -948,11 +1028,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -1062,11 +1142,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
+            "url": "https://admin.shadow-ran.online/nhl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nhl3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-3",
@@ -1336,6 +1416,7 @@
         "MultiView (NEW)",
         "https://discord.gg/NCkz2YNKSE",
         "https://roxiestreams.biz/",
+        "Leones vs Barranquilla",
         "RB Bragantino vs Mirassol",
         "Internacional vs Corinthians",
         "Remo vs Grêmio",
@@ -1392,6 +1473,10 @@
         {
           "label": "https://roxiestreams.biz/",
           "url": "https://roxiestreams.biz/"
+        },
+        {
+          "label": "Leones vs Barranquilla",
+          "url": "https://roxiestreams.info/soccer-streams-7"
         },
         {
           "label": "RB Bragantino vs Mirassol",
@@ -1703,6 +1788,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1755,6 +1841,72 @@
     },
     "https://roxiestreams.info/soccer-streams-6": {
       "url": "https://roxiestreams.info/soccer-streams-6",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-7": {
+      "url": "https://roxiestreams.info/soccer-streams-7",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3232,8 +3384,8 @@
         "MultiView (NEW)",
         "https://discord.gg/NCkz2YNKSE",
         "https://roxiestreams.biz/",
+        "Super DIRTcar Week",
         "WoO Energy Sprint Cars - Race",
-        "Super DIRTcar Series",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -3286,12 +3438,12 @@
           "url": "https://roxiestreams.biz/"
         },
         {
-          "label": "WoO Energy Sprint Cars - Race",
-          "url": "https://roxiestreams.info/floracing-1"
+          "label": "Super DIRTcar Week",
+          "url": "https://roxiestreams.info/floracing-2"
         },
         {
-          "label": "Super DIRTcar Series",
-          "url": "https://roxiestreams.info/floracing-2"
+          "label": "WoO Energy Sprint Cars - Race",
+          "url": "https://roxiestreams.info/floracing-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -3440,7 +3592,8 @@
         "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-4",
         "https://roxiestreams.info/soccer-streams-5",
-        "https://roxiestreams.info/soccer-streams-6"
+        "https://roxiestreams.info/soccer-streams-6",
+        "https://roxiestreams.info/soccer-streams-7"
       ],
       "streams": [
         {
@@ -3651,6 +3804,29 @@
           "display_name": "Botafogo vs Vasco da Gama - Stream 1"
         },
         {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin.shadow-ran.online/fana5es.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana5es.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-5",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Botafogo vs Vasco da Gama",
+          "matchup": {
+            "home": "Botafogo",
+            "away": "Vasco da Gama"
+          },
+          "display_name": "Botafogo vs Vasco da Gama - Stream 2 (ES)"
+        },
+        {
           "label": "fana5pt.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana5pt.m3u8",
           "type": "m3u8",
@@ -3718,6 +3894,52 @@
             "away": "São Paulo"
           },
           "display_name": "Cruzeiro vs São Paulo - fana6pt.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/win.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "win.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Leones vs Barranquilla",
+          "matchup": {
+            "home": "Leones",
+            "away": "Barranquilla"
+          },
+          "display_name": "Leones vs Barranquilla - Stream 1"
+        },
+        {
+          "label": "win.m3u8",
+          "url": "https://daffodil.shadow-ran.online/win.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "win.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Leones vs Barranquilla",
+          "matchup": {
+            "home": "Leones",
+            "away": "Barranquilla"
+          },
+          "display_name": "Leones vs Barranquilla - win.m3u8"
         }
       ]
     },
@@ -4018,11 +4240,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+          "url": "https://admin.shadow-ran.online/nba3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-3",
@@ -4064,11 +4286,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/nba4.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "admin2",
           "path": "nba4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-4",
@@ -4119,11 +4341,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+          "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "ncaa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -4165,11 +4387,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa2.m3u8",
+          "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "ncaa2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -4221,11 +4443,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -4313,11 +4535,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
+          "url": "https://admin.shadow-ran.online/nhl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nhl3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-3",
@@ -4548,7 +4770,7 @@
       "streams": []
     }
   },
-  "stream_count": 46,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
