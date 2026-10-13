@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-10-13T06:54:18+00:00
+# RoxieStreams Playlist - generated 2026-10-13T14:54:04+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Sabah vs Slavia Praha - Stream 1" group-title="SOCCER - Sabah vs Slavia Praha",Sabah vs Slavia Praha - Stream 1
@@ -685,6 +685,24 @@ https://admin2.shadow-ran.online/aew.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Faew&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/aew","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/aew.m3u8
+
+#EXTINF:-1 tvg-name="Dana White's Contender Series - Stream 1" group-title="PPV - Dana White's Contender Series",Dana White's Contender Series - Stream 1
+#EXTGRP:PPV - Dana White's Contender Series
+#EXTDESC:Dana White's Contender Series
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/ppv-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/ppv.m3u8
+
+#EXTINF:-1 tvg-name="Dana White's Contender Series - ppv.m3u8" group-title="PPV - Dana White's Contender Series",Dana White's Contender Series - ppv.m3u8
+#EXTGRP:PPV - Dana White's Contender Series
+#EXTDESC:Dana White's Contender Series
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/ppv-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/ppv.m3u8
 
 #EXTINF:-1 tvg-name="WWE NXT - Stream 1" group-title="WWE - WWE NXT",WWE NXT - Stream 1
 #EXTGRP:WWE - WWE NXT
