@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T14:27:13+00:00",
+  "scraped_at": "2026-10-17T17:30:08+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -251,6 +251,29 @@
             "display_name": "Valencia vs Athletic Club - Stream 1"
           },
           {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/barca.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "barca.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Valencia vs Athletic Club",
+            "matchup": {
+              "home": "Valencia",
+              "away": "Athletic Club"
+            },
+            "display_name": "Valencia vs Athletic Club - Stream 2 (EN)"
+          },
+          {
             "label": "dep.m3u8",
             "url": "https://daffodil.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
@@ -286,11 +309,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/beines.m3u8",
+            "url": "https://admin2.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "beines.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
@@ -366,12 +389,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mars.m3u8",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "mars.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -388,13 +411,13 @@
             "display_name": "Aston Villa vs Newcastle - Stream 1"
           },
           {
-            "label": "mars.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mars.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mars.m3u8",
+            "subdomain": "admin2",
+            "path": "peacock.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -408,7 +431,76 @@
               "home": "Aston Villa",
               "away": "Newcastle"
             },
-            "display_name": "Aston Villa vs Newcastle - mars.m3u8"
+            "display_name": "Aston Villa vs Newcastle - Stream 2"
+          },
+          {
+            "label": "Stream 3",
+            "url": "https://admin2.shadow-ran.online/hub.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "hub.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Aston Villa vs Newcastle",
+            "matchup": {
+              "home": "Aston Villa",
+              "away": "Newcastle"
+            },
+            "display_name": "Aston Villa vs Newcastle - Stream 3"
+          },
+          {
+            "label": "Stream 4",
+            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Aston Villa vs Newcastle",
+            "matchup": {
+              "home": "Aston Villa",
+              "away": "Newcastle"
+            },
+            "display_name": "Aston Villa vs Newcastle - Stream 4"
+          },
+          {
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Aston Villa vs Newcastle",
+            "matchup": {
+              "home": "Aston Villa",
+              "away": "Newcastle"
+            },
+            "display_name": "Aston Villa vs Newcastle - main.m3u8"
           }
         ]
       },
@@ -479,6 +571,29 @@
         "page": "https://roxiestreams.info/soccer-streams-13",
         "streams": [
           {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/beines.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "beines.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Botafogo vs Chapecoense",
+            "matchup": {
+              "home": "Botafogo",
+              "away": "Chapecoense"
+            },
+            "display_name": "Botafogo vs Chapecoense - Stream 1"
+          },
+          {
             "label": "Stream 2 (PT)",
             "url": "https://admin2.shadow-ran.online/espnbr.m3u8",
             "type": "m3u8",
@@ -523,40 +638,6 @@
               "away": "Chapecoense"
             },
             "display_name": "Botafogo vs Chapecoense - Stream 3 (EN)"
-          }
-        ]
-      },
-      {
-        "title": "Seattle Sounders FC vs CF Montréal",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Seattle Sounders FC",
-          "away": "CF Montréal"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-14",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/beines.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-14",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "beines.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-14",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Seattle Sounders FC vs CF Montréal",
-            "matchup": {
-              "home": "Seattle Sounders FC",
-              "away": "CF Montréal"
-            },
-            "display_name": "Seattle Sounders FC vs CF Montréal - Stream 1"
           }
         ]
       },
@@ -935,29 +1016,6 @@
             "display_name": "Brentford vs Liverpool - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/hub.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "hub.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-6",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Brentford vs Liverpool",
-            "matchup": {
-              "home": "Brentford",
-              "away": "Liverpool"
-            },
-            "display_name": "Brentford vs Liverpool - Stream 2"
-          },
-          {
             "label": "peacock2.m3u8",
             "url": "https://daffodil.shadow-ran.online/peacock2.m3u8",
             "type": "m3u8",
@@ -991,29 +1049,6 @@
         },
         "page": "https://roxiestreams.info/soccer-streams-7",
         "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "peacock.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Fulham vs Hull",
-            "matchup": {
-              "home": "Fulham",
-              "away": "Hull"
-            },
-            "display_name": "Fulham vs Hull - Stream 1"
-          },
           {
             "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/hull.m3u8",
@@ -1409,6 +1444,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ncaa-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ncaa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ncaa-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Nebraska vs Oregon",
+            "matchup": {
+              "home": "Nebraska",
+              "away": "Oregon"
+            },
+            "display_name": "Nebraska vs Oregon - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-1",
@@ -1428,7 +1486,7 @@
               "home": "Nebraska",
               "away": "Oregon"
             },
-            "display_name": "Nebraska vs Oregon - Stream 1"
+            "display_name": "Nebraska vs Oregon - Stream 2"
           },
           {
             "label": "ncaa.m3u8",
@@ -1523,7 +1581,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/ncaa11.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-11",
             "headers": {
@@ -1766,11 +1824,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa3.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "ncaa3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-3",
@@ -1823,27 +1881,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/ncaa4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ncaa-streams-4",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ncaa-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Northern Illinois vs Wyoming",
-            "matchup": {
-              "home": "Northern Illinois",
-              "away": "Wyoming"
-            },
-            "display_name": "Northern Illinois vs Wyoming"
-          },
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/utah.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-4",
             "headers": {
@@ -1903,6 +1941,26 @@
         },
         "page": "https://roxiestreams.info/ncaa-streams-7",
         "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin.formaturamaxi.com.br/ncaa7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ncaa-streams-7",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ncaa-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "New Mexico vs Hawai'i",
+            "matchup": {
+              "home": "New Mexico",
+              "away": "Hawai'i"
+            },
+            "display_name": "New Mexico vs Hawai'i"
+          },
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/ncaa7.m3u8",
@@ -3197,6 +3255,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3330,6 +3389,9 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
+        "Stream 3",
+        "Stream 4",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4884,6 +4946,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5544,7 +5607,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (UTAH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5677,6 +5739,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7440,6 +7503,29 @@
           "display_name": "Valencia vs Athletic Club - Stream 1"
         },
         {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/barca.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "barca.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Valencia vs Athletic Club",
+          "matchup": {
+            "home": "Valencia",
+            "away": "Athletic Club"
+          },
+          "display_name": "Valencia vs Athletic Club - Stream 2 (EN)"
+        },
+        {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
@@ -7464,11 +7550,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/beines.m3u8",
+          "url": "https://admin2.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "beines.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
@@ -7533,12 +7619,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mars.m3u8",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "mars.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -7555,13 +7641,13 @@
           "display_name": "Aston Villa vs Newcastle - Stream 1"
         },
         {
-          "label": "mars.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mars.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mars.m3u8",
+          "subdomain": "admin2",
+          "path": "peacock.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -7575,7 +7661,76 @@
             "home": "Aston Villa",
             "away": "Newcastle"
           },
-          "display_name": "Aston Villa vs Newcastle - mars.m3u8"
+          "display_name": "Aston Villa vs Newcastle - Stream 2"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://admin2.shadow-ran.online/hub.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "hub.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Aston Villa vs Newcastle",
+          "matchup": {
+            "home": "Aston Villa",
+            "away": "Newcastle"
+          },
+          "display_name": "Aston Villa vs Newcastle - Stream 3"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Aston Villa vs Newcastle",
+          "matchup": {
+            "home": "Aston Villa",
+            "away": "Newcastle"
+          },
+          "display_name": "Aston Villa vs Newcastle - Stream 4"
+        },
+        {
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Aston Villa vs Newcastle",
+          "matchup": {
+            "home": "Aston Villa",
+            "away": "Newcastle"
+          },
+          "display_name": "Aston Villa vs Newcastle - main.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7624,6 +7779,29 @@
           "display_name": "Minnesota United vs St. Louis City - afaplay1.m3u8"
         },
         {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/beines.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "beines.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Botafogo vs Chapecoense",
+          "matchup": {
+            "home": "Botafogo",
+            "away": "Chapecoense"
+          },
+          "display_name": "Botafogo vs Chapecoense - Stream 1"
+        },
+        {
           "label": "Stream 2 (PT)",
           "url": "https://admin2.shadow-ran.online/espnbr.m3u8",
           "type": "m3u8",
@@ -7668,29 +7846,6 @@
             "away": "Chapecoense"
           },
           "display_name": "Botafogo vs Chapecoense - Stream 3 (EN)"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/beines.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-14",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "beines.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-14",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Seattle Sounders FC vs CF Montréal",
-          "matchup": {
-            "home": "Seattle Sounders FC",
-            "away": "CF Montréal"
-          },
-          "display_name": "Seattle Sounders FC vs CF Montréal - Stream 1"
         },
         {
           "label": "Stream 1",
@@ -7992,29 +8147,6 @@
           "display_name": "Brentford vs Liverpool - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/hub.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "hub.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-6",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Brentford vs Liverpool",
-          "matchup": {
-            "home": "Brentford",
-            "away": "Liverpool"
-          },
-          "display_name": "Brentford vs Liverpool - Stream 2"
-        },
-        {
           "label": "peacock2.m3u8",
           "url": "https://daffodil.shadow-ran.online/peacock2.m3u8",
           "type": "m3u8",
@@ -8036,29 +8168,6 @@
             "away": "Liverpool"
           },
           "display_name": "Brentford vs Liverpool - peacock2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "peacock.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Fulham vs Hull",
-          "matchup": {
-            "home": "Fulham",
-            "away": "Hull"
-          },
-          "display_name": "Fulham vs Hull - Stream 1"
         },
         {
           "label": "Stream 2",
@@ -8417,6 +8526,29 @@
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ncaa-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ncaa-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Nebraska vs Oregon",
+          "matchup": {
+            "home": "Nebraska",
+            "away": "Oregon"
+          },
+          "display_name": "Nebraska vs Oregon - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-1",
@@ -8436,7 +8568,7 @@
             "home": "Nebraska",
             "away": "Oregon"
           },
-          "display_name": "Nebraska vs Oregon - Stream 1"
+          "display_name": "Nebraska vs Oregon - Stream 2"
         },
         {
           "label": "ncaa.m3u8",
@@ -8509,7 +8641,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/ncaa11.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-11",
           "headers": {
@@ -8675,11 +8807,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa3.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "ncaa3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-3",
@@ -8721,27 +8853,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/ncaa4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ncaa-streams-4",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ncaa-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Northern Illinois vs Wyoming",
-          "matchup": {
-            "home": "Northern Illinois",
-            "away": "Wyoming"
-          },
-          "display_name": "Northern Illinois vs Wyoming"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/utah.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-4",
           "headers": {
@@ -8778,6 +8890,26 @@
             "away": "West Virginia"
           },
           "display_name": "Cincinnati vs West Virginia"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin.formaturamaxi.com.br/ncaa7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ncaa-streams-7",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ncaa-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "New Mexico vs Hawai'i",
+          "matchup": {
+            "home": "New Mexico",
+            "away": "Hawai'i"
+          },
+          "display_name": "New Mexico vs Hawai'i"
         },
         {
           "label": "Direct Link",
@@ -9543,7 +9675,7 @@
       ]
     }
   },
-  "stream_count": 97,
+  "stream_count": 100,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
