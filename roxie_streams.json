@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T23:49:55+00:00",
+  "scraped_at": "2026-10-17T02:33:29+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -158,12 +158,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/athens.m3u8",
+            "url": "https://admin2.shadow-ran.online/aztecadep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "athens.m3u8",
+            "path": "aztecadep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -180,13 +180,13 @@
             "display_name": "Atlante vs Pumas UNAM - Stream 1"
           },
           {
-            "label": "athens.m3u8",
-            "url": "https://daffodil.shadow-ran.online/athens.m3u8",
+            "label": "aztecadep.m3u8",
+            "url": "https://daffodil.shadow-ran.online/aztecadep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "athens.m3u8",
+            "path": "aztecadep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -200,7 +200,7 @@
               "home": "Atlante",
               "away": "Pumas UNAM"
             },
-            "display_name": "Atlante vs Pumas UNAM - athens.m3u8"
+            "display_name": "Atlante vs Pumas UNAM - aztecadep.m3u8"
           }
         ]
       },
@@ -603,12 +603,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana2.m3u8",
+            "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
-            "path": "fana2.m3u8",
+            "path": "afaplay2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -625,13 +625,13 @@
             "display_name": "Boca Juniors vs Talleres Cordoba - Stream 1"
           },
           {
-            "label": "fana2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/afaplay2en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana2.m3u8",
+            "subdomain": "admin",
+            "path": "afaplay2en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -645,7 +645,30 @@
               "home": "Boca Juniors",
               "away": "Talleres Cordoba"
             },
-            "display_name": "Boca Juniors vs Talleres Cordoba - fana2.m3u8"
+            "display_name": "Boca Juniors vs Talleres Cordoba - Stream 2 (EN)"
+          },
+          {
+            "label": "afaplay2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "afaplay2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Boca Juniors vs Talleres Cordoba",
+            "matchup": {
+              "home": "Boca Juniors",
+              "away": "Talleres Cordoba"
+            },
+            "display_name": "Boca Juniors vs Talleres Cordoba - afaplay2.m3u8"
           }
         ]
       },
@@ -660,12 +683,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tnt4.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxdep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tnt4.m3u8",
+            "path": "foxdep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -682,13 +705,13 @@
             "display_name": "Necaxa vs Atlas - Stream 1"
           },
           {
-            "label": "tnt4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tnt4.m3u8",
+            "label": "foxdep.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxdep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tnt4.m3u8",
+            "path": "foxdep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -702,7 +725,7 @@
               "home": "Necaxa",
               "away": "Atlas"
             },
-            "display_name": "Necaxa vs Atlas - tnt4.m3u8"
+            "display_name": "Necaxa vs Atlas - foxdep.m3u8"
           }
         ]
       },
@@ -938,11 +961,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba10.m3u8",
+            "url": "https://admin.shadow-ran.online/nba10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin",
             "path": "nba10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-10",
@@ -2892,6 +2915,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5228,12 +5252,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/athens.m3u8",
+          "url": "https://admin2.shadow-ran.online/aztecadep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "athens.m3u8",
+          "path": "aztecadep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -5250,13 +5274,13 @@
           "display_name": "Atlante vs Pumas UNAM - Stream 1"
         },
         {
-          "label": "athens.m3u8",
-          "url": "https://daffodil.shadow-ran.online/athens.m3u8",
+          "label": "aztecadep.m3u8",
+          "url": "https://daffodil.shadow-ran.online/aztecadep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "athens.m3u8",
+          "path": "aztecadep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -5270,7 +5294,7 @@
             "home": "Atlante",
             "away": "Pumas UNAM"
           },
-          "display_name": "Atlante vs Pumas UNAM - athens.m3u8"
+          "display_name": "Atlante vs Pumas UNAM - aztecadep.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5596,12 +5620,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana2.m3u8",
+          "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "fana2.m3u8",
+          "path": "afaplay2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -5618,13 +5642,13 @@
           "display_name": "Boca Juniors vs Talleres Cordoba - Stream 1"
         },
         {
-          "label": "fana2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/afaplay2en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana2.m3u8",
+          "subdomain": "admin",
+          "path": "afaplay2en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -5638,16 +5662,39 @@
             "home": "Boca Juniors",
             "away": "Talleres Cordoba"
           },
-          "display_name": "Boca Juniors vs Talleres Cordoba - fana2.m3u8"
+          "display_name": "Boca Juniors vs Talleres Cordoba - Stream 2 (EN)"
+        },
+        {
+          "label": "afaplay2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "afaplay2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Boca Juniors vs Talleres Cordoba",
+          "matchup": {
+            "home": "Boca Juniors",
+            "away": "Talleres Cordoba"
+          },
+          "display_name": "Boca Juniors vs Talleres Cordoba - afaplay2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tnt4.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxdep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tnt4.m3u8",
+          "path": "foxdep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -5664,13 +5711,13 @@
           "display_name": "Necaxa vs Atlas - Stream 1"
         },
         {
-          "label": "tnt4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tnt4.m3u8",
+          "label": "foxdep.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxdep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tnt4.m3u8",
+          "path": "foxdep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -5684,7 +5731,7 @@
             "home": "Necaxa",
             "away": "Atlas"
           },
-          "display_name": "Necaxa vs Atlas - tnt4.m3u8"
+          "display_name": "Necaxa vs Atlas - foxdep.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5899,11 +5946,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba10.m3u8",
+          "url": "https://admin.shadow-ran.online/nba10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin",
           "path": "nba10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-10",
@@ -6937,7 +6984,7 @@
       ]
     }
   },
-  "stream_count": 76,
+  "stream_count": 77,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
