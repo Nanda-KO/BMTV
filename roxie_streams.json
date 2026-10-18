@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-18T11:44:53+00:00",
+  "scraped_at": "2026-10-18T15:12:59+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -982,6 +982,63 @@
               "away": "Rennes"
             },
             "display_name": "Paris vs Rennes - xtra.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Nottingham Forest vs Arsenal",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Nottingham Forest",
+          "away": "Arsenal"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-9",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "peacock.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Nottingham Forest vs Arsenal",
+            "matchup": {
+              "home": "Nottingham Forest",
+              "away": "Arsenal"
+            },
+            "display_name": "Nottingham Forest vs Arsenal - Stream 1"
+          },
+          {
+            "label": "peacock.m3u8",
+            "url": "https://daffodil.shadow-ran.online/peacock.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "peacock.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Nottingham Forest vs Arsenal",
+            "matchup": {
+              "home": "Nottingham Forest",
+              "away": "Arsenal"
+            },
+            "display_name": "Nottingham Forest vs Arsenal - peacock.m3u8"
           }
         ]
       }
@@ -3631,6 +3688,7 @@
         "Stream 1",
         "Stream 2",
         "Stream 3",
+        "Stream 4",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6445,6 +6503,52 @@
             "away": "Rennes"
           },
           "display_name": "Paris vs Rennes - xtra.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "peacock.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Nottingham Forest vs Arsenal",
+          "matchup": {
+            "home": "Nottingham Forest",
+            "away": "Arsenal"
+          },
+          "display_name": "Nottingham Forest vs Arsenal - Stream 1"
+        },
+        {
+          "label": "peacock.m3u8",
+          "url": "https://daffodil.shadow-ran.online/peacock.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "peacock.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Nottingham Forest vs Arsenal",
+          "matchup": {
+            "home": "Nottingham Forest",
+            "away": "Arsenal"
+          },
+          "display_name": "Nottingham Forest vs Arsenal - peacock.m3u8"
         }
       ]
     },
@@ -7648,7 +7752,7 @@
       ]
     }
   },
-  "stream_count": 84,
+  "stream_count": 86,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
