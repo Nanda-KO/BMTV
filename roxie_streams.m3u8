@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-10-20T17:33:32+00:00
+# RoxieStreams Playlist - generated 2026-10-20T20:53:59+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Al Nassr vs NEOM - Stream 1" group-title="SOCCER - Al Nassr vs NEOM",Al Nassr vs NEOM - Stream 1
@@ -45,7 +45,7 @@ https://admin2.shadow-ran.online/tnt2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-2","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/tudnus.m3u8
+https://admin2.shadow-ran.online/tudn.m3u8
 
 #EXTINF:-1 tvg-name="Dortmund vs Sabah - golazo.m3u8" group-title="SOCCER - Dortmund vs Sabah",Dortmund vs Sabah - golazo.m3u8
 #EXTGRP:SOCCER - Dortmund vs Sabah
@@ -209,6 +209,15 @@ https://admin.shadow-ran.online/afaplay1en.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-16","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/afaplay1.m3u8
 
+#EXTINF:-1 tvg-name="Atlético San Luis vs Querétaro - Stream 1" group-title="SOCCER - Atlético San Luis vs Querétaro",Atlético San Luis vs Querétaro - Stream 1
+#EXTGRP:SOCCER - Atlético San Luis vs Querétaro
+#EXTDESC:Atlético San Luis vs Querétaro
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-17&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-17","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/tudnus.m3u8
+
 #EXTINF:-1 tvg-name="Atlético San Luis vs Querétaro - tudnus.m3u8" group-title="SOCCER - Atlético San Luis vs Querétaro",Atlético San Luis vs Querétaro - tudnus.m3u8
 #EXTGRP:SOCCER - Atlético San Luis vs Querétaro
 #EXTDESC:Atlético San Luis vs Querétaro
@@ -272,14 +281,41 @@ https://tedesco.shadow-ran.online/wolves.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/wolves.m3u8
 
-#EXTINF:-1 tvg-name="Barcelona vs PSG - Stream 2 (ES)" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - Stream 2 (ES)
+#EXTINF:-1 tvg-name="Barcelona vs PSG - Stream 1" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - Stream 1
 #EXTGRP:SOCCER - Barcelona vs PSG
 #EXTDESC:Barcelona vs PSG
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/tudn.m3u8
+https://admin.shadow-ran.online/tnt2.m3u8
+
+#EXTINF:-1 tvg-name="Barcelona vs PSG - Stream 2" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - Stream 2
+#EXTGRP:SOCCER - Barcelona vs PSG
+#EXTDESC:Barcelona vs PSG
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/barca.m3u8
+
+#EXTINF:-1 tvg-name="Barcelona vs PSG - Stream 3 (ES)" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - Stream 3 (ES)
+#EXTGRP:SOCCER - Barcelona vs PSG
+#EXTDESC:Barcelona vs PSG
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin.shadow-ran.online/tudn.m3u8
+
+#EXTINF:-1 tvg-name="Barcelona vs PSG - Stream 4 (العربية)" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - Stream 4 (العربية)
+#EXTGRP:SOCCER - Barcelona vs PSG
+#EXTDESC:Barcelona vs PSG
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin.shadow-ran.online/bein1.m3u8
 
 #EXTINF:-1 tvg-name="Barcelona vs PSG - tnt2.m3u8" group-title="SOCCER - Barcelona vs PSG",Barcelona vs PSG - tnt2.m3u8
 #EXTGRP:SOCCER - Barcelona vs PSG
@@ -325,6 +361,15 @@ https://daffodil.shadow-ran.online/prem.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/tnt.m3u8
+
+#EXTINF:-1 tvg-name="Manchester City vs Athens - Stream 2" group-title="SOCCER - Manchester City vs Athens",Manchester City vs Athens - Stream 2
+#EXTGRP:SOCCER - Manchester City vs Athens
+#EXTDESC:Manchester City vs Athens
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin.shadow-ran.online/tnt.m3u8
 
 #EXTINF:-1 tvg-name="Manchester City vs Athens - tnt.m3u8" group-title="SOCCER - Manchester City vs Athens",Manchester City vs Athens - tnt.m3u8
 #EXTGRP:SOCCER - Manchester City vs Athens
