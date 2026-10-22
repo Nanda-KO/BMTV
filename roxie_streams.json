@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T00:15:51+00:00",
+  "scraped_at": "2026-10-22T05:04:25+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -393,6 +393,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/beines.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "beines.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Palmeiras vs Fluminense",
+            "matchup": {
+              "home": "Palmeiras",
+              "away": "Fluminense"
+            },
+            "display_name": "Palmeiras vs Fluminense - Stream 1"
+          },
+          {
+            "label": "Stream 2 (DE)",
             "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-13",
@@ -412,16 +435,16 @@
               "home": "Palmeiras",
               "away": "Fluminense"
             },
-            "display_name": "Palmeiras vs Fluminense - Stream 1"
+            "display_name": "Palmeiras vs Fluminense - Stream 2 (DE)"
           },
           {
-            "label": "sportdigital.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
+            "label": "beines.m3u8",
+            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "sportdigital.m3u8",
+            "path": "beines.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-13",
               "Origin": "https://roxiestreams.info",
@@ -435,7 +458,7 @@
               "home": "Palmeiras",
               "away": "Fluminense"
             },
-            "display_name": "Palmeiras vs Fluminense - sportdigital.m3u8"
+            "display_name": "Palmeiras vs Fluminense - beines.m3u8"
           }
         ]
       },
@@ -450,12 +473,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/primemx.m3u8",
+            "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "primemx.m3u8",
+            "path": "canal5mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -472,13 +495,13 @@
             "display_name": "Santos Laguna vs Pumas - Stream 1"
           },
           {
-            "label": "primemx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/primemx.m3u8",
+            "label": "canal5mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "primemx.m3u8",
+            "path": "canal5mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -492,7 +515,64 @@
               "home": "Santos Laguna",
               "away": "Pumas"
             },
-            "display_name": "Santos Laguna vs Pumas - primemx.m3u8"
+            "display_name": "Santos Laguna vs Pumas - canal5mx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Puebla vs Monterrey",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Puebla",
+          "away": "Monterrey"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-15",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Puebla vs Monterrey",
+            "matchup": {
+              "home": "Puebla",
+              "away": "Monterrey"
+            },
+            "display_name": "Puebla vs Monterrey - Stream 1"
+          },
+          {
+            "label": "espnmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "espnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Puebla vs Monterrey",
+            "matchup": {
+              "home": "Puebla",
+              "away": "Monterrey"
+            },
+            "display_name": "Puebla vs Monterrey - espnmx.m3u8"
           }
         ]
       },
@@ -564,12 +644,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+            "url": "https://admin2.shadow-ran.online/vix5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "espnmx.m3u8",
+            "path": "vix5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -586,13 +666,13 @@
             "display_name": "Pachuca vs Cruz Azul - Stream 1"
           },
           {
-            "label": "espnmx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+            "label": "vix5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vix5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "espnmx.m3u8",
+            "path": "vix5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -606,7 +686,7 @@
               "home": "Pachuca",
               "away": "Cruz Azul"
             },
-            "display_name": "Pachuca vs Cruz Azul - espnmx.m3u8"
+            "display_name": "Pachuca vs Cruz Azul - vix5.m3u8"
           }
         ]
       },
@@ -1380,12 +1460,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nba3.m3u8",
+            "path": "tsn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -1708,6 +1788,40 @@
               "away": "Houston Rockets"
             },
             "display_name": "Dallas Mavericks vs Houston Rockets - nba8.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Golden State Warriors vs Los Angeles Lakers",
+        "sport": "nba",
+        "matchup": {
+          "home": "Golden State Warriors",
+          "away": "Los Angeles Lakers"
+        },
+        "page": "https://roxiestreams.info/nba-streams-9",
+        "streams": [
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/nba9.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nba9.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Golden State Warriors vs Los Angeles Lakers",
+            "matchup": {
+              "home": "Golden State Warriors",
+              "away": "Los Angeles Lakers"
+            },
+            "display_name": "Golden State Warriors vs Los Angeles Lakers - Stream 2"
           }
         ]
       },
@@ -2602,6 +2716,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (DE)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5452,6 +5567,29 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/beines.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "beines.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Palmeiras vs Fluminense",
+          "matchup": {
+            "home": "Palmeiras",
+            "away": "Fluminense"
+          },
+          "display_name": "Palmeiras vs Fluminense - Stream 1"
+        },
+        {
+          "label": "Stream 2 (DE)",
           "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-13",
@@ -5471,16 +5609,16 @@
             "home": "Palmeiras",
             "away": "Fluminense"
           },
-          "display_name": "Palmeiras vs Fluminense - Stream 1"
+          "display_name": "Palmeiras vs Fluminense - Stream 2 (DE)"
         },
         {
-          "label": "sportdigital.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
+          "label": "beines.m3u8",
+          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "sportdigital.m3u8",
+          "path": "beines.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-13",
             "Origin": "https://roxiestreams.info",
@@ -5494,16 +5632,16 @@
             "home": "Palmeiras",
             "away": "Fluminense"
           },
-          "display_name": "Palmeiras vs Fluminense - sportdigital.m3u8"
+          "display_name": "Palmeiras vs Fluminense - beines.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/primemx.m3u8",
+          "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "primemx.m3u8",
+          "path": "canal5mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -5520,13 +5658,13 @@
           "display_name": "Santos Laguna vs Pumas - Stream 1"
         },
         {
-          "label": "primemx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/primemx.m3u8",
+          "label": "canal5mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "primemx.m3u8",
+          "path": "canal5mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -5540,7 +5678,53 @@
             "home": "Santos Laguna",
             "away": "Pumas"
           },
-          "display_name": "Santos Laguna vs Pumas - primemx.m3u8"
+          "display_name": "Santos Laguna vs Pumas - canal5mx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Puebla vs Monterrey",
+          "matchup": {
+            "home": "Puebla",
+            "away": "Monterrey"
+          },
+          "display_name": "Puebla vs Monterrey - Stream 1"
+        },
+        {
+          "label": "espnmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "espnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Puebla vs Monterrey",
+          "matchup": {
+            "home": "Puebla",
+            "away": "Monterrey"
+          },
+          "display_name": "Puebla vs Monterrey - espnmx.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5590,12 +5774,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+          "url": "https://admin2.shadow-ran.online/vix5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "espnmx.m3u8",
+          "path": "vix5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -5612,13 +5796,13 @@
           "display_name": "Pachuca vs Cruz Azul - Stream 1"
         },
         {
-          "label": "espnmx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+          "label": "vix5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vix5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "espnmx.m3u8",
+          "path": "vix5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -5632,7 +5816,7 @@
             "home": "Pachuca",
             "away": "Cruz Azul"
           },
-          "display_name": "Pachuca vs Cruz Azul - espnmx.m3u8"
+          "display_name": "Pachuca vs Cruz Azul - vix5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6299,12 +6483,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "nba3.m3u8",
+          "path": "tsn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -6572,6 +6756,29 @@
             "away": "Houston Rockets"
           },
           "display_name": "Dallas Mavericks vs Houston Rockets - nba8.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/nba9.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nba9.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Golden State Warriors vs Los Angeles Lakers",
+          "matchup": {
+            "home": "Golden State Warriors",
+            "away": "Los Angeles Lakers"
+          },
+          "display_name": "Golden State Warriors vs Los Angeles Lakers - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -6913,7 +7120,7 @@
       "streams": []
     }
   },
-  "stream_count": 74,
+  "stream_count": 78,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
