@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T00:54:33+00:00",
+  "scraped_at": "2026-10-23T05:51:39+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -841,63 +841,6 @@
               "away": "Philadelphia 76ers"
             },
             "display_name": "Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Denver Nuggets vs Oklahoma City Thunder",
-        "sport": "nba",
-        "matchup": {
-          "home": "Denver Nuggets",
-          "away": "Oklahoma City Thunder"
-        },
-        "page": "https://roxiestreams.info/nba-streams-2",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-2",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Oklahoma City Thunder"
-            },
-            "display_name": "Denver Nuggets vs Oklahoma City Thunder - Stream 1"
-          },
-          {
-            "label": "nba2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-2",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Oklahoma City Thunder"
-            },
-            "display_name": "Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8"
           }
         ]
       }
@@ -3094,6 +3037,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5543,52 +5487,6 @@
             "away": "Philadelphia 76ers"
           },
           "display_name": "Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-2",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Oklahoma City Thunder"
-          },
-          "display_name": "Denver Nuggets vs Oklahoma City Thunder - Stream 1"
-        },
-        {
-          "label": "nba2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-2",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Oklahoma City Thunder"
-          },
-          "display_name": "Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8"
         }
       ]
     },
@@ -6307,7 +6205,7 @@
       "streams": []
     }
   },
-  "stream_count": 62,
+  "stream_count": 60,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
