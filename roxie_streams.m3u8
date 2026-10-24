@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-10-24T01:08:30+00:00
+# RoxieStreams Playlist - generated 2026-10-24T05:55:09+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Al Nassr vs Al Faisaly - Stream 1" group-title="SOCCER - Al Nassr vs Al Faisaly",Al Nassr vs Al Faisaly - Stream 1
@@ -99,16 +99,16 @@ https://daffodil.shadow-ran.online/foxonemx.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/benfica.m3u8
+https://admin2.shadow-ran.online/espn2mx.m3u8
 
-#EXTINF:-1 tvg-name="Atlante vs Atlético San Luis - benfica.m3u8" group-title="SOCCER - Atlante vs Atlético San Luis",Atlante vs Atlético San Luis - benfica.m3u8
+#EXTINF:-1 tvg-name="Atlante vs Atlético San Luis - espn2mx.m3u8" group-title="SOCCER - Atlante vs Atlético San Luis",Atlante vs Atlético San Luis - espn2mx.m3u8
 #EXTGRP:SOCCER - Atlante vs Atlético San Luis
 #EXTDESC:Atlante vs Atlético San Luis
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/benfica.m3u8
+https://daffodil.shadow-ran.online/espn2mx.m3u8
 
 #EXTINF:-1 tvg-name="Stuttgart vs Borussia M'gladbach - Stream 1" group-title="SOCCER - Stuttgart vs Borussia M'gladbach",Stuttgart vs Borussia M'gladbach - Stream 1
 #EXTGRP:SOCCER - Stuttgart vs Borussia M'gladbach
@@ -317,6 +317,24 @@ https://admin2.shadow-ran.online/nba11.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nba-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nba11.m3u8
 
+#EXTINF:-1 tvg-name="Portland Trail Blazers vs Sacramento Kings - Stream 1" group-title="NBA - Portland Trail Blazers vs Sacramento Kings",Portland Trail Blazers vs Sacramento Kings - Stream 1
+#EXTGRP:NBA - Portland Trail Blazers vs Sacramento Kings
+#EXTDESC:Portland Trail Blazers vs Sacramento Kings
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnba-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/nba-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/nba12.m3u8
+
+#EXTINF:-1 tvg-name="Portland Trail Blazers vs Sacramento Kings - nba12.m3u8" group-title="NBA - Portland Trail Blazers vs Sacramento Kings",Portland Trail Blazers vs Sacramento Kings - nba12.m3u8
+#EXTGRP:NBA - Portland Trail Blazers vs Sacramento Kings
+#EXTDESC:Portland Trail Blazers vs Sacramento Kings
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnba-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/nba-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/nba12.m3u8
+
 #EXTINF:-1 tvg-name="New York Knicks vs Boston Celtics - Stream 1" group-title="NBA - New York Knicks vs Boston Celtics",New York Knicks vs Boston Celtics - Stream 1
 #EXTGRP:NBA - New York Knicks vs Boston Celtics
 #EXTDESC:New York Knicks vs Boston Celtics
@@ -468,16 +486,16 @@ https://daffodil.shadow-ran.online/nba8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnba-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nba-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/nba3.m3u8
+https://admin2.shadow-ran.online/nba9.m3u8
 
-#EXTINF:-1 tvg-name="New Orleans Pelicans vs Utah Jazz - Stream 2" group-title="NBA - New Orleans Pelicans vs Utah Jazz",New Orleans Pelicans vs Utah Jazz - Stream 2
+#EXTINF:-1 tvg-name="New Orleans Pelicans vs Utah Jazz - nba9.m3u8" group-title="NBA - New Orleans Pelicans vs Utah Jazz",New Orleans Pelicans vs Utah Jazz - nba9.m3u8
 #EXTGRP:NBA - New Orleans Pelicans vs Utah Jazz
 #EXTDESC:New Orleans Pelicans vs Utah Jazz
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnba-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nba-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nba9.m3u8
+https://daffodil.shadow-ran.online/nba9.m3u8
 
 #EXTINF:-1 tvg-name="NC State vs Stanford - Stream 1" group-title="NFL - NC State vs Stanford",NC State vs Stanford - Stream 1
 #EXTGRP:NFL - NC State vs Stanford

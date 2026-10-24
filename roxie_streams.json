@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T01:08:30+00:00",
+  "scraped_at": "2026-10-24T05:55:09+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -323,12 +323,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/benfica.m3u8",
+            "url": "https://admin2.shadow-ran.online/espn2mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "benfica.m3u8",
+            "path": "espn2mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -345,13 +345,13 @@
             "display_name": "Atlante vs Atlético San Luis - Stream 1"
           },
           {
-            "label": "benfica.m3u8",
-            "url": "https://daffodil.shadow-ran.online/benfica.m3u8",
+            "label": "espn2mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espn2mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "benfica.m3u8",
+            "path": "espn2mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-11",
               "Origin": "https://roxiestreams.info",
@@ -365,7 +365,7 @@
               "home": "Atlante",
               "away": "Atlético San Luis"
             },
-            "display_name": "Atlante vs Atlético San Luis - benfica.m3u8"
+            "display_name": "Atlante vs Atlético San Luis - espn2mx.m3u8"
           }
         ]
       },
@@ -1013,6 +1013,63 @@
         ]
       },
       {
+        "title": "Portland Trail Blazers vs Sacramento Kings",
+        "sport": "nba",
+        "matchup": {
+          "home": "Portland Trail Blazers",
+          "away": "Sacramento Kings"
+        },
+        "page": "https://roxiestreams.info/nba-streams-12",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nba12.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-12",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nba12.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-12",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Portland Trail Blazers vs Sacramento Kings",
+            "matchup": {
+              "home": "Portland Trail Blazers",
+              "away": "Sacramento Kings"
+            },
+            "display_name": "Portland Trail Blazers vs Sacramento Kings - Stream 1"
+          },
+          {
+            "label": "nba12.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba12.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-12",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nba12.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-12",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Portland Trail Blazers vs Sacramento Kings",
+            "matchup": {
+              "home": "Portland Trail Blazers",
+              "away": "Sacramento Kings"
+            },
+            "display_name": "Portland Trail Blazers vs Sacramento Kings - nba12.m3u8"
+          }
+        ]
+      },
+      {
         "title": "New York Knicks vs Boston Celtics",
         "sport": "nba",
         "matchup": {
@@ -1468,29 +1525,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/nba3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "nba3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "New Orleans Pelicans vs Utah Jazz",
-            "matchup": {
-              "home": "New Orleans Pelicans",
-              "away": "Utah Jazz"
-            },
-            "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/nba9.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-9",
@@ -1510,7 +1544,30 @@
               "home": "New Orleans Pelicans",
               "away": "Utah Jazz"
             },
-            "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 2"
+            "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 1"
+          },
+          {
+            "label": "nba9.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba9.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nba9.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "New Orleans Pelicans vs Utah Jazz",
+            "matchup": {
+              "home": "New Orleans Pelicans",
+              "away": "Utah Jazz"
+            },
+            "display_name": "New Orleans Pelicans vs Utah Jazz - nba9.m3u8"
           }
         ]
       }
@@ -4142,7 +4199,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5085,7 +5141,7 @@
         },
         {
           "label": "WoO Sprint Cars - Race",
-          "url": "https://roxiestreams.info/motogp"
+          "url": "https://roxiestreams.info/floracing-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -5540,12 +5596,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/benfica.m3u8",
+          "url": "https://admin2.shadow-ran.online/espn2mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "benfica.m3u8",
+          "path": "espn2mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -5562,13 +5618,13 @@
           "display_name": "Atlante vs Atlético San Luis - Stream 1"
         },
         {
-          "label": "benfica.m3u8",
-          "url": "https://daffodil.shadow-ran.online/benfica.m3u8",
+          "label": "espn2mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espn2mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "benfica.m3u8",
+          "path": "espn2mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-11",
             "Origin": "https://roxiestreams.info",
@@ -5582,7 +5638,7 @@
             "home": "Atlante",
             "away": "Atlético San Luis"
           },
-          "display_name": "Atlante vs Atlético San Luis - benfica.m3u8"
+          "display_name": "Atlante vs Atlético San Luis - espn2mx.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6142,6 +6198,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nba12.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-12",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nba12.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-12",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Portland Trail Blazers vs Sacramento Kings",
+          "matchup": {
+            "home": "Portland Trail Blazers",
+            "away": "Sacramento Kings"
+          },
+          "display_name": "Portland Trail Blazers vs Sacramento Kings - Stream 1"
+        },
+        {
+          "label": "nba12.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba12.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-12",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nba12.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-12",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Portland Trail Blazers vs Sacramento Kings",
+          "matchup": {
+            "home": "Portland Trail Blazers",
+            "away": "Sacramento Kings"
+          },
+          "display_name": "Portland Trail Blazers vs Sacramento Kings - nba12.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nba2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-2",
@@ -6510,29 +6612,6 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/nba3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "nba3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "New Orleans Pelicans vs Utah Jazz",
-          "matchup": {
-            "home": "New Orleans Pelicans",
-            "away": "Utah Jazz"
-          },
-          "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/nba9.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-9",
@@ -6552,7 +6631,30 @@
             "home": "New Orleans Pelicans",
             "away": "Utah Jazz"
           },
-          "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 2"
+          "display_name": "New Orleans Pelicans vs Utah Jazz - Stream 1"
+        },
+        {
+          "label": "nba9.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba9.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nba9.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "New Orleans Pelicans vs Utah Jazz",
+          "matchup": {
+            "home": "New Orleans Pelicans",
+            "away": "Utah Jazz"
+          },
+          "display_name": "New Orleans Pelicans vs Utah Jazz - nba9.m3u8"
         }
       ]
     },
@@ -7211,7 +7313,7 @@
       ]
     }
   },
-  "stream_count": 80,
+  "stream_count": 82,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
