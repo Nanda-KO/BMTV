@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T17:29:38+00:00",
+  "scraped_at": "2026-10-24T19:43:37+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -519,12 +519,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "espnmx.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
@@ -541,13 +541,13 @@
             "display_name": "Internacional vs Botafogo - Stream 1"
           },
           {
-            "label": "espnmx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "espnmx.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-15",
               "Origin": "https://roxiestreams.info",
@@ -561,7 +561,7 @@
               "home": "Internacional",
               "away": "Botafogo"
             },
-            "display_name": "Internacional vs Botafogo - espnmx.m3u8"
+            "display_name": "Internacional vs Botafogo - fana.m3u8"
           }
         ]
       },
@@ -576,12 +576,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+            "url": "https://admin.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "aztecadeportes.m3u8",
+            "subdomain": "admin",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-16",
               "Origin": "https://roxiestreams.info",
@@ -598,13 +598,13 @@
             "display_name": "Mirassol vs Sao Paulo - Stream 1"
           },
           {
-            "label": "aztecadeportes.m3u8",
-            "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "aztecadeportes.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-16",
               "Origin": "https://roxiestreams.info",
@@ -618,7 +618,7 @@
               "home": "Mirassol",
               "away": "Sao Paulo"
             },
-            "display_name": "Mirassol vs Sao Paulo - aztecadeportes.m3u8"
+            "display_name": "Mirassol vs Sao Paulo - fana2.m3u8"
           }
         ]
       },
@@ -633,12 +633,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/vix5.m3u8",
+            "url": "https://admin.shadow-ran.online/fana3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "vix5.m3u8",
+            "subdomain": "admin",
+            "path": "fana3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -655,13 +655,13 @@
             "display_name": "Vitória vs Athletico-PR - Stream 1"
           },
           {
-            "label": "vix5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vix5.m3u8",
+            "label": "fana3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "vix5.m3u8",
+            "path": "fana3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -675,7 +675,64 @@
               "home": "Vitória",
               "away": "Athletico-PR"
             },
-            "display_name": "Vitória vs Athletico-PR - vix5.m3u8"
+            "display_name": "Vitória vs Athletico-PR - fana3.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "New York RB vs Inter Miami",
+        "sport": "soccer",
+        "matchup": {
+          "home": "New York RB",
+          "away": "Inter Miami"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-18",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "aztecadeportes.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "New York RB vs Inter Miami",
+            "matchup": {
+              "home": "New York RB",
+              "away": "Inter Miami"
+            },
+            "display_name": "New York RB vs Inter Miami - Stream 1"
+          },
+          {
+            "label": "aztecadeportes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "aztecadeportes.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "New York RB vs Inter Miami",
+            "matchup": {
+              "home": "New York RB",
+              "away": "Inter Miami"
+            },
+            "display_name": "New York RB vs Inter Miami - aztecadeportes.m3u8"
           }
         ]
       },
@@ -1457,29 +1514,6 @@
             "display_name": "Golden State Valkyries vs Atlanta Dream - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wnba.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "wnba.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Golden State Valkyries vs Atlanta Dream",
-            "matchup": {
-              "home": "Golden State Valkyries",
-              "away": "Atlanta Dream"
-            },
-            "display_name": "Golden State Valkyries vs Atlanta Dream - Stream 2"
-          },
-          {
             "label": "wnba.m3u8",
             "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
             "type": "m3u8",
@@ -2076,7 +2110,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/bein3.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-11",
             "headers": {
@@ -2107,7 +2141,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
+            "url": "https://tedesco.formaturamaxi.com.br/ncaa12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-12",
             "headers": {
@@ -2533,11 +2567,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/nhl.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -3068,11 +3102,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/ppv2.m3u8",
+            "url": "https://admin.shadow-ran.online/ppv2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ppv-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "admin",
             "path": "ppv2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ppv-streams-2",
@@ -3088,6 +3122,29 @@
               "away": "West XXVII"
             },
             "display_name": "East vs West XXVII - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/ppv2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ppv-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ppv2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ppv-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "East vs West XXVII",
+            "matchup": {
+              "home": "East",
+              "away": "West XXVII"
+            },
+            "display_name": "East vs West XXVII - Stream 2"
           },
           {
             "label": "ppv2.m3u8",
@@ -3289,6 +3346,29 @@
             "display_name": "UFC 333: Volkanovski vs. Evloev - Stream 2 (TNT)"
           },
           {
+            "label": "Stream 3 (Viaplay)",
+            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 333: Volkanovski vs. Evloev",
+            "matchup": {
+              "home": "UFC 333: Volkanovski",
+              "away": "Evloev"
+            },
+            "display_name": "UFC 333: Volkanovski vs. Evloev - Stream 3 (Viaplay)"
+          },
+          {
             "label": "abbiecadabrii.m3u8",
             "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
             "type": "m3u8",
@@ -3376,11 +3456,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/ppv2.m3u8",
+            "url": "https://admin.shadow-ran.online/ppv2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ppv-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "admin",
             "path": "ppv2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ppv-streams-2",
@@ -3396,6 +3476,29 @@
               "away": "West XXVII"
             },
             "display_name": "East vs West XXVII - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/ppv2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ppv-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ppv2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ppv-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "East vs West XXVII",
+            "matchup": {
+              "home": "East",
+              "away": "West XXVII"
+            },
+            "display_name": "East vs West XXVII - Stream 2"
           },
           {
             "label": "ppv2.m3u8",
@@ -5649,7 +5752,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8507,6 +8609,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8876,6 +8979,7 @@
         "MultiView (NEW)",
         "Stream 1 (STAR+)",
         "Stream 2 (TNT)",
+        "Stream 3 (Viaplay)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9459,12 +9563,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "espnmx.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
@@ -9481,13 +9585,13 @@
           "display_name": "Internacional vs Botafogo - Stream 1"
         },
         {
-          "label": "espnmx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "espnmx.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-15",
             "Origin": "https://roxiestreams.info",
@@ -9501,16 +9605,16 @@
             "home": "Internacional",
             "away": "Botafogo"
           },
-          "display_name": "Internacional vs Botafogo - espnmx.m3u8"
+          "display_name": "Internacional vs Botafogo - fana.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+          "url": "https://admin.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "aztecadeportes.m3u8",
+          "subdomain": "admin",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-16",
             "Origin": "https://roxiestreams.info",
@@ -9527,13 +9631,13 @@
           "display_name": "Mirassol vs Sao Paulo - Stream 1"
         },
         {
-          "label": "aztecadeportes.m3u8",
-          "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "aztecadeportes.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-16",
             "Origin": "https://roxiestreams.info",
@@ -9547,16 +9651,16 @@
             "home": "Mirassol",
             "away": "Sao Paulo"
           },
-          "display_name": "Mirassol vs Sao Paulo - aztecadeportes.m3u8"
+          "display_name": "Mirassol vs Sao Paulo - fana2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/vix5.m3u8",
+          "url": "https://admin.shadow-ran.online/fana3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "vix5.m3u8",
+          "subdomain": "admin",
+          "path": "fana3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -9573,13 +9677,13 @@
           "display_name": "Vitória vs Athletico-PR - Stream 1"
         },
         {
-          "label": "vix5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vix5.m3u8",
+          "label": "fana3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "vix5.m3u8",
+          "path": "fana3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -9593,7 +9697,53 @@
             "home": "Vitória",
             "away": "Athletico-PR"
           },
-          "display_name": "Vitória vs Athletico-PR - vix5.m3u8"
+          "display_name": "Vitória vs Athletico-PR - fana3.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "aztecadeportes.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "New York RB vs Inter Miami",
+          "matchup": {
+            "home": "New York RB",
+            "away": "Inter Miami"
+          },
+          "display_name": "New York RB vs Inter Miami - Stream 1"
+        },
+        {
+          "label": "aztecadeportes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "aztecadeportes.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "New York RB vs Inter Miami",
+          "matchup": {
+            "home": "New York RB",
+            "away": "Inter Miami"
+          },
+          "display_name": "New York RB vs Inter Miami - aztecadeportes.m3u8"
         },
         {
           "label": "Stream 1",
@@ -10241,29 +10391,6 @@
           "display_name": "Golden State Valkyries vs Atlanta Dream - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wnba.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "wnba.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Golden State Valkyries vs Atlanta Dream",
-          "matchup": {
-            "home": "Golden State Valkyries",
-            "away": "Atlanta Dream"
-          },
-          "display_name": "Golden State Valkyries vs Atlanta Dream - Stream 2"
-        },
-        {
           "label": "wnba.m3u8",
           "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
           "type": "m3u8",
@@ -10770,7 +10897,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/bein3.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-11",
           "headers": {
@@ -10790,7 +10917,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
+          "url": "https://tedesco.formaturamaxi.com.br/ncaa12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-12",
           "headers": {
@@ -11101,11 +11228,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/nhl.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -11501,11 +11628,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/ppv2.m3u8",
+          "url": "https://admin.shadow-ran.online/ppv2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ppv-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "admin",
           "path": "ppv2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ppv-streams-2",
@@ -11521,6 +11648,29 @@
             "away": "West XXVII"
           },
           "display_name": "East vs West XXVII - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/ppv2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ppv-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ppv2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ppv-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "East vs West XXVII",
+          "matchup": {
+            "home": "East",
+            "away": "West XXVII"
+          },
+          "display_name": "East vs West XXVII - Stream 2"
         },
         {
           "label": "ppv2.m3u8",
@@ -11704,6 +11854,29 @@
           "display_name": "UFC 333: Volkanovski vs. Evloev - Stream 2 (TNT)"
         },
         {
+          "label": "Stream 3 (Viaplay)",
+          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 333: Volkanovski vs. Evloev",
+          "matchup": {
+            "home": "UFC 333: Volkanovski",
+            "away": "Evloev"
+          },
+          "display_name": "UFC 333: Volkanovski vs. Evloev - Stream 3 (Viaplay)"
+        },
+        {
           "label": "abbiecadabrii.m3u8",
           "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
           "type": "m3u8",
@@ -11783,11 +11956,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/ppv2.m3u8",
+          "url": "https://admin.shadow-ran.online/ppv2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ppv-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "admin",
           "path": "ppv2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ppv-streams-2",
@@ -11803,6 +11976,29 @@
             "away": "West XXVII"
           },
           "display_name": "East vs West XXVII - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/ppv2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ppv-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ppv2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ppv-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "East vs West XXVII",
+          "matchup": {
+            "home": "East",
+            "away": "West XXVII"
+          },
+          "display_name": "East vs West XXVII - Stream 2"
         },
         {
           "label": "ppv2.m3u8",
@@ -11923,7 +12119,7 @@
       ]
     }
   },
-  "stream_count": 121,
+  "stream_count": 125,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
