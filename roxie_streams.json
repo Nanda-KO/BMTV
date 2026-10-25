@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T17:35:50+00:00",
+  "scraped_at": "2026-10-25T19:58:31+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -172,6 +172,29 @@
               "away": "Real Madrid"
             },
             "display_name": "Barcelona vs Real Madrid - Stream 3 (ES ALT)"
+          },
+          {
+            "label": "Stream 4 (العربية)",
+            "url": "https://temp.shadow-ran.online/arab.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "arab.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Barcelona vs Real Madrid",
+            "matchup": {
+              "home": "Barcelona",
+              "away": "Real Madrid"
+            },
+            "display_name": "Barcelona vs Real Madrid - Stream 4 (العربية)"
           },
           {
             "label": "abbiecadabrii.m3u8",
@@ -2620,12 +2643,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
+            "url": "https://admin2.shadow-ran.online/nfl11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nfl8.m3u8",
+            "path": "nfl11.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -2643,12 +2666,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nfl11.m3u8",
+            "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nfl11.m3u8",
+            "path": "nfl8.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -2677,11 +2700,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nfl9.m3u8",
+            "url": "https://admin.shadow-ran.online/nfl9.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-9",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin",
             "path": "nfl9.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-9",
@@ -2697,29 +2720,6 @@
               "away": "Arizona Cardinals"
             },
             "display_name": "Denver Broncos vs Arizona Cardinals - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nfl9.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nfl-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nfl9.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nfl-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Denver Broncos vs Arizona Cardinals",
-            "matchup": {
-              "home": "Denver Broncos",
-              "away": "Arizona Cardinals"
-            },
-            "display_name": "Denver Broncos vs Arizona Cardinals - Stream 2"
           },
           {
             "label": "nfl9.m3u8",
@@ -2759,11 +2759,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
+            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-1",
@@ -3597,6 +3597,7 @@
         "Stream 1 (EN)",
         "Stream 2 (ES)",
         "Stream 3 (ES ALT)",
+        "Stream 4 (العربية)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6520,7 +6521,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7712,6 +7712,29 @@
             "away": "Real Madrid"
           },
           "display_name": "Barcelona vs Real Madrid - Stream 3 (ES ALT)"
+        },
+        {
+          "label": "Stream 4 (العربية)",
+          "url": "https://temp.shadow-ran.online/arab.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "arab.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Barcelona vs Real Madrid",
+          "matchup": {
+            "home": "Barcelona",
+            "away": "Real Madrid"
+          },
+          "display_name": "Barcelona vs Real Madrid - Stream 4 (العربية)"
         },
         {
           "label": "abbiecadabrii.m3u8",
@@ -9777,29 +9800,6 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nfl-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nfl8.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nfl-streams-8",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "New York Giants vs Houston Texans",
-          "matchup": {
-            "home": "New York Giants",
-            "away": "Houston Texans"
-          },
-          "display_name": "New York Giants vs Houston Texans - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/nfl11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-8",
@@ -9819,15 +9819,38 @@
             "home": "New York Giants",
             "away": "Houston Texans"
           },
+          "display_name": "New York Giants vs Houston Texans - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nfl-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nfl8.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nfl-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "New York Giants vs Houston Texans",
+          "matchup": {
+            "home": "New York Giants",
+            "away": "Houston Texans"
+          },
           "display_name": "New York Giants vs Houston Texans - Stream 2"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nfl9.m3u8",
+          "url": "https://admin.shadow-ran.online/nfl9.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-9",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin",
           "path": "nfl9.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-9",
@@ -9843,29 +9866,6 @@
             "away": "Arizona Cardinals"
           },
           "display_name": "Denver Broncos vs Arizona Cardinals - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nfl9.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nfl-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nfl9.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nfl-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Denver Broncos vs Arizona Cardinals",
-          "matchup": {
-            "home": "Denver Broncos",
-            "away": "Arizona Cardinals"
-          },
-          "display_name": "Denver Broncos vs Arizona Cardinals - Stream 2"
         },
         {
           "label": "nfl9.m3u8",
@@ -9904,11 +9904,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
+          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-1",
