@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T23:47:43+00:00",
+  "scraped_at": "2026-10-29T03:54:02+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -649,12 +649,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana6.m3u8",
+            "url": "https://admin.shadow-ran.online/fana6pt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
-            "path": "fana6.m3u8",
+            "path": "fana6pt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -671,13 +671,13 @@
             "display_name": "Remo vs Botafogo - Stream 1"
           },
           {
-            "label": "fana6.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+            "label": "fana6pt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana6pt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana6.m3u8",
+            "path": "fana6pt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-17",
               "Origin": "https://roxiestreams.info",
@@ -691,7 +691,7 @@
               "home": "Remo",
               "away": "Botafogo"
             },
-            "display_name": "Remo vs Botafogo - fana6.m3u8"
+            "display_name": "Remo vs Botafogo - fana6pt.m3u8"
           }
         ]
       },
@@ -706,12 +706,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
+            "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-18",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "afaplay2.m3u8",
+            "subdomain": "admin2",
+            "path": "tudnmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-18",
               "Origin": "https://roxiestreams.info",
@@ -728,36 +728,13 @@
             "display_name": "América vs Tijuana - Stream 1"
           },
           {
-            "label": "Stream 2 (EN)",
-            "url": "https://admin.shadow-ran.online/afaplay2en.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-18",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "afaplay2en.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-18",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "América vs Tijuana",
-            "matchup": {
-              "home": "América",
-              "away": "Tijuana"
-            },
-            "display_name": "América vs Tijuana - Stream 2 (EN)"
-          },
-          {
-            "label": "afaplay2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
+            "label": "tudnmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-18",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "afaplay2.m3u8",
+            "path": "tudnmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-18",
               "Origin": "https://roxiestreams.info",
@@ -771,7 +748,7 @@
               "home": "América",
               "away": "Tijuana"
             },
-            "display_name": "América vs Tijuana - afaplay2.m3u8"
+            "display_name": "América vs Tijuana - tudnmx.m3u8"
           }
         ]
       },
@@ -1199,12 +1176,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlbalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "mlb.m3u8",
+            "subdomain": "admin2",
+            "path": "mlbalt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/mlb-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -1556,11 +1533,11 @@
         ]
       },
       {
-        "title": "Philadelphia 76ers vs Indiana Pacers",
+        "title": "Oklahoma City Thunder vs Dallas Mavericks",
         "sport": "nba",
         "matchup": {
-          "home": "Philadelphia 76ers",
-          "away": "Indiana Pacers"
+          "home": "Oklahoma City Thunder",
+          "away": "Dallas Mavericks"
         },
         "page": "https://roxiestreams.info/nba-streams-4",
         "streams": [
@@ -1580,12 +1557,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Philadelphia 76ers vs Indiana Pacers",
+            "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
             "matchup": {
-              "home": "Philadelphia 76ers",
-              "away": "Indiana Pacers"
+              "home": "Oklahoma City Thunder",
+              "away": "Dallas Mavericks"
             },
-            "display_name": "Philadelphia 76ers vs Indiana Pacers - Stream 1"
+            "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 1"
           },
           {
             "label": "Stream 2",
@@ -1603,12 +1580,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Philadelphia 76ers vs Indiana Pacers",
+            "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
             "matchup": {
-              "home": "Philadelphia 76ers",
-              "away": "Indiana Pacers"
+              "home": "Oklahoma City Thunder",
+              "away": "Dallas Mavericks"
             },
-            "display_name": "Philadelphia 76ers vs Indiana Pacers - Stream 2"
+            "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 2"
           },
           {
             "label": "nba6.m3u8",
@@ -1626,12 +1603,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Philadelphia 76ers vs Indiana Pacers",
+            "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
             "matchup": {
-              "home": "Philadelphia 76ers",
-              "away": "Indiana Pacers"
+              "home": "Oklahoma City Thunder",
+              "away": "Dallas Mavericks"
             },
-            "display_name": "Philadelphia 76ers vs Indiana Pacers - nba6.m3u8"
+            "display_name": "Oklahoma City Thunder vs Dallas Mavericks - nba6.m3u8"
           }
         ]
       },
@@ -1693,16 +1670,16 @@
         ]
       },
       {
-        "title": "Oklahoma City Thunder vs Dallas Mavericks",
+        "title": "New York Knicks vs Chicago Bulls",
         "sport": "nba",
         "matchup": {
-          "home": "Oklahoma City Thunder",
-          "away": "Dallas Mavericks"
+          "home": "New York Knicks",
+          "away": "Chicago Bulls"
         },
         "page": "https://roxiestreams.info/nba-streams-6",
         "streams": [
           {
-            "label": "Stream 2",
+            "label": "Stream 1",
             "url": "https://admin2.shadow-ran.online/nba6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-6",
@@ -1717,12 +1694,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
+            "event_title": "New York Knicks vs Chicago Bulls",
             "matchup": {
-              "home": "Oklahoma City Thunder",
-              "away": "Dallas Mavericks"
+              "home": "New York Knicks",
+              "away": "Chicago Bulls"
             },
-            "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 2"
+            "display_name": "New York Knicks vs Chicago Bulls - Stream 1"
           }
         ]
       },
@@ -1851,11 +1828,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba9.m3u8",
+            "url": "https://admin.shadow-ran.online/nba9.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-9",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba9.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-9",
@@ -3204,7 +3181,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3926,7 +3902,7 @@
         },
         {
           "label": "Oklahoma City Thunder vs Dallas Mavericks",
-          "url": "https://roxiestreams.info/nba-streams-6"
+          "url": "https://roxiestreams.info/nba-streams-4"
         },
         {
           "label": "Los Angeles Lakers vs Los Angeles Clippers",
@@ -4418,7 +4394,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6146,12 +6121,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana6.m3u8",
+          "url": "https://admin.shadow-ran.online/fana6pt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "fana6.m3u8",
+          "path": "fana6pt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -6168,13 +6143,13 @@
           "display_name": "Remo vs Botafogo - Stream 1"
         },
         {
-          "label": "fana6.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+          "label": "fana6pt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana6pt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana6.m3u8",
+          "path": "fana6pt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-17",
             "Origin": "https://roxiestreams.info",
@@ -6188,16 +6163,16 @@
             "home": "Remo",
             "away": "Botafogo"
           },
-          "display_name": "Remo vs Botafogo - fana6.m3u8"
+          "display_name": "Remo vs Botafogo - fana6pt.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/afaplay2.m3u8",
+          "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-18",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "afaplay2.m3u8",
+          "subdomain": "admin2",
+          "path": "tudnmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-18",
             "Origin": "https://roxiestreams.info",
@@ -6214,36 +6189,13 @@
           "display_name": "América vs Tijuana - Stream 1"
         },
         {
-          "label": "Stream 2 (EN)",
-          "url": "https://admin.shadow-ran.online/afaplay2en.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-18",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "afaplay2en.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-18",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "América vs Tijuana",
-          "matchup": {
-            "home": "América",
-            "away": "Tijuana"
-          },
-          "display_name": "América vs Tijuana - Stream 2 (EN)"
-        },
-        {
-          "label": "afaplay2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/afaplay2.m3u8",
+          "label": "tudnmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-18",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "afaplay2.m3u8",
+          "path": "tudnmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-18",
             "Origin": "https://roxiestreams.info",
@@ -6257,7 +6209,7 @@
             "home": "América",
             "away": "Tijuana"
           },
-          "display_name": "América vs Tijuana - afaplay2.m3u8"
+          "display_name": "América vs Tijuana - tudnmx.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6614,12 +6566,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlbalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "mlb.m3u8",
+          "subdomain": "admin2",
+          "path": "mlbalt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/mlb-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -6945,12 +6897,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Philadelphia 76ers vs Indiana Pacers",
+          "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
           "matchup": {
-            "home": "Philadelphia 76ers",
-            "away": "Indiana Pacers"
+            "home": "Oklahoma City Thunder",
+            "away": "Dallas Mavericks"
           },
-          "display_name": "Philadelphia 76ers vs Indiana Pacers - Stream 1"
+          "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 1"
         },
         {
           "label": "Stream 2",
@@ -6968,12 +6920,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Philadelphia 76ers vs Indiana Pacers",
+          "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
           "matchup": {
-            "home": "Philadelphia 76ers",
-            "away": "Indiana Pacers"
+            "home": "Oklahoma City Thunder",
+            "away": "Dallas Mavericks"
           },
-          "display_name": "Philadelphia 76ers vs Indiana Pacers - Stream 2"
+          "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 2"
         },
         {
           "label": "nba6.m3u8",
@@ -6991,12 +6943,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Philadelphia 76ers vs Indiana Pacers",
+          "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
           "matchup": {
-            "home": "Philadelphia 76ers",
-            "away": "Indiana Pacers"
+            "home": "Oklahoma City Thunder",
+            "away": "Dallas Mavericks"
           },
-          "display_name": "Philadelphia 76ers vs Indiana Pacers - nba6.m3u8"
+          "display_name": "Oklahoma City Thunder vs Dallas Mavericks - nba6.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7045,7 +6997,7 @@
           "display_name": "Orlando Magic vs Toronto Raptors - nba5.m3u8"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nba6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-6",
@@ -7060,12 +7012,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Oklahoma City Thunder vs Dallas Mavericks",
+          "event_title": "New York Knicks vs Chicago Bulls",
           "matchup": {
-            "home": "Oklahoma City Thunder",
-            "away": "Dallas Mavericks"
+            "home": "New York Knicks",
+            "away": "Chicago Bulls"
           },
-          "display_name": "Oklahoma City Thunder vs Dallas Mavericks - Stream 2"
+          "display_name": "New York Knicks vs Chicago Bulls - Stream 1"
         },
         {
           "label": "Stream 1",
@@ -7161,11 +7113,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba9.m3u8",
+          "url": "https://admin.shadow-ran.online/nba9.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-9",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba9.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-9",
@@ -7611,7 +7563,7 @@
       "streams": []
     }
   },
-  "stream_count": 83,
+  "stream_count": 82,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
