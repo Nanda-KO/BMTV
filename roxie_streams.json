@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T23:25:01+00:00",
+  "scraped_at": "2026-10-31T02:40:51+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -566,12 +566,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxone7mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "bein4.m3u8",
+            "path": "foxone7mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-8",
               "Origin": "https://roxiestreams.info",
@@ -586,6 +586,29 @@
               "away": "Querétaro"
             },
             "display_name": "Juárez vs Querétaro - Stream 1"
+          },
+          {
+            "label": "foxone7mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxone7mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxone7mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Juárez vs Querétaro",
+            "matchup": {
+              "home": "Juárez",
+              "away": "Querétaro"
+            },
+            "display_name": "Juárez vs Querétaro - foxone7mx.m3u8"
           }
         ]
       },
@@ -600,12 +623,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foot.m3u8",
+            "url": "https://admin2.shadow-ran.online/vixmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "foot.m3u8",
+            "path": "vixmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -622,13 +645,13 @@
             "display_name": "Atlético San Luis vs Atlas - Stream 1"
           },
           {
-            "label": "foot.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+            "label": "vixmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vixmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foot.m3u8",
+            "path": "vixmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -642,7 +665,7 @@
               "home": "Atlético San Luis",
               "away": "Atlas"
             },
-            "display_name": "Atlético San Luis vs Atlas - foot.m3u8"
+            "display_name": "Atlético San Luis vs Atlas - vixmx.m3u8"
           }
         ]
       }
@@ -784,63 +807,6 @@
               "away": "Washington Wizards"
             },
             "display_name": "Charlotte Hornets vs Washington Wizards - nba.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Denver Nuggets vs Phoenix Suns",
-        "sport": "nba",
-        "matchup": {
-          "home": "Denver Nuggets",
-          "away": "Phoenix Suns"
-        },
-        "page": "https://roxiestreams.info/nba-streams-10",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba10.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nba10.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Phoenix Suns",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Phoenix Suns"
-            },
-            "display_name": "Denver Nuggets vs Phoenix Suns - Stream 1"
-          },
-          {
-            "label": "nba10.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba10.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba10.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Phoenix Suns",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Phoenix Suns"
-            },
-            "display_name": "Denver Nuggets vs Phoenix Suns - nba10.m3u8"
           }
         ]
       },
@@ -991,6 +957,29 @@
             "display_name": "New York Knicks vs Philadelphia 76ers - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/knicks.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "knicks.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "New York Knicks vs Philadelphia 76ers",
+            "matchup": {
+              "home": "New York Knicks",
+              "away": "Philadelphia 76ers"
+            },
+            "display_name": "New York Knicks vs Philadelphia 76ers - Stream 2"
+          },
+          {
             "label": "nba4.m3u8",
             "url": "https://daffodil.shadow-ran.online/nba4.m3u8",
             "type": "m3u8",
@@ -1016,11 +1005,11 @@
         ]
       },
       {
-        "title": "Orlando Magic vs Toronto Raptors",
+        "title": "Denver Nuggets vs Phoenix Suns",
         "sport": "nba",
         "matchup": {
-          "home": "Orlando Magic",
-          "away": "Toronto Raptors"
+          "home": "Denver Nuggets",
+          "away": "Phoenix Suns"
         },
         "page": "https://roxiestreams.info/nba-streams-5",
         "streams": [
@@ -1040,12 +1029,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Orlando Magic vs Toronto Raptors",
+            "event_title": "Denver Nuggets vs Phoenix Suns",
             "matchup": {
-              "home": "Orlando Magic",
-              "away": "Toronto Raptors"
+              "home": "Denver Nuggets",
+              "away": "Phoenix Suns"
             },
-            "display_name": "Orlando Magic vs Toronto Raptors - Stream 1"
+            "display_name": "Denver Nuggets vs Phoenix Suns - Stream 1"
           },
           {
             "label": "nba5.m3u8",
@@ -1063,12 +1052,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Orlando Magic vs Toronto Raptors",
+            "event_title": "Denver Nuggets vs Phoenix Suns",
             "matchup": {
-              "home": "Orlando Magic",
-              "away": "Toronto Raptors"
+              "home": "Denver Nuggets",
+              "away": "Phoenix Suns"
             },
-            "display_name": "Orlando Magic vs Toronto Raptors - nba5.m3u8"
+            "display_name": "Denver Nuggets vs Phoenix Suns - nba5.m3u8"
           }
         ]
       },
@@ -1254,11 +1243,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/nba9.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba9.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-9",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "nba9.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-9",
@@ -1274,6 +1263,29 @@
               "away": "Golden State Warriors"
             },
             "display_name": "Los Angeles Lakers vs Golden State Warriors - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/lakers.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "lakers.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-9",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Los Angeles Lakers vs Golden State Warriors",
+            "matchup": {
+              "home": "Los Angeles Lakers",
+              "away": "Golden State Warriors"
+            },
+            "display_name": "Los Angeles Lakers vs Golden State Warriors - Stream 2"
           },
           {
             "label": "nba9.m3u8",
@@ -2557,7 +2569,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2941,7 +2952,7 @@
         },
         {
           "label": "Denver Nuggets vs Phoenix Suns",
-          "url": "https://roxiestreams.info/nba-streams-10"
+          "url": "https://roxiestreams.info/nba-streams-5"
         },
         {
           "label": "Stream Request (Discord)",
@@ -2951,72 +2962,6 @@
     },
     "https://roxiestreams.info/nba-streams-1": {
       "url": "https://roxiestreams.info/nba-streams-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/nba-streams-10": {
-      "url": "https://roxiestreams.info/nba-streams-10",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3229,6 +3174,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3559,6 +3505,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5017,12 +4964,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/bein4.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxone7mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "bein4.m3u8",
+          "path": "foxone7mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-8",
             "Origin": "https://roxiestreams.info",
@@ -5039,13 +4986,36 @@
           "display_name": "Juárez vs Querétaro - Stream 1"
         },
         {
+          "label": "foxone7mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxone7mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxone7mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Juárez vs Querétaro",
+          "matchup": {
+            "home": "Juárez",
+            "away": "Querétaro"
+          },
+          "display_name": "Juárez vs Querétaro - foxone7mx.m3u8"
+        },
+        {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foot.m3u8",
+          "url": "https://admin2.shadow-ran.online/vixmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "foot.m3u8",
+          "path": "vixmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -5062,13 +5032,13 @@
           "display_name": "Atlético San Luis vs Atlas - Stream 1"
         },
         {
-          "label": "foot.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+          "label": "vixmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vixmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foot.m3u8",
+          "path": "vixmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -5082,7 +5052,7 @@
             "home": "Atlético San Luis",
             "away": "Atlas"
           },
-          "display_name": "Atlético San Luis vs Atlas - foot.m3u8"
+          "display_name": "Atlético San Luis vs Atlas - vixmx.m3u8"
         }
       ]
     },
@@ -5167,7 +5137,6 @@
       "pages": [
         "https://roxiestreams.info/nba",
         "https://roxiestreams.info/nba-streams-1",
-        "https://roxiestreams.info/nba-streams-10",
         "https://roxiestreams.info/nba-streams-2",
         "https://roxiestreams.info/nba-streams-3",
         "https://roxiestreams.info/nba-streams-4",
@@ -5223,52 +5192,6 @@
             "away": "Washington Wizards"
           },
           "display_name": "Charlotte Hornets vs Washington Wizards - nba.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba10.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nba10.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Phoenix Suns",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Phoenix Suns"
-          },
-          "display_name": "Denver Nuggets vs Phoenix Suns - Stream 1"
-        },
-        {
-          "label": "nba10.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba10.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba10.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Phoenix Suns",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Phoenix Suns"
-          },
-          "display_name": "Denver Nuggets vs Phoenix Suns - nba10.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5386,6 +5309,29 @@
           "display_name": "New York Knicks vs Philadelphia 76ers - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/knicks.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "knicks.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "New York Knicks vs Philadelphia 76ers",
+          "matchup": {
+            "home": "New York Knicks",
+            "away": "Philadelphia 76ers"
+          },
+          "display_name": "New York Knicks vs Philadelphia 76ers - Stream 2"
+        },
+        {
           "label": "nba4.m3u8",
           "url": "https://daffodil.shadow-ran.online/nba4.m3u8",
           "type": "m3u8",
@@ -5424,12 +5370,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Orlando Magic vs Toronto Raptors",
+          "event_title": "Denver Nuggets vs Phoenix Suns",
           "matchup": {
-            "home": "Orlando Magic",
-            "away": "Toronto Raptors"
+            "home": "Denver Nuggets",
+            "away": "Phoenix Suns"
           },
-          "display_name": "Orlando Magic vs Toronto Raptors - Stream 1"
+          "display_name": "Denver Nuggets vs Phoenix Suns - Stream 1"
         },
         {
           "label": "nba5.m3u8",
@@ -5447,12 +5393,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Orlando Magic vs Toronto Raptors",
+          "event_title": "Denver Nuggets vs Phoenix Suns",
           "matchup": {
-            "home": "Orlando Magic",
-            "away": "Toronto Raptors"
+            "home": "Denver Nuggets",
+            "away": "Phoenix Suns"
           },
-          "display_name": "Orlando Magic vs Toronto Raptors - nba5.m3u8"
+          "display_name": "Denver Nuggets vs Phoenix Suns - nba5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5594,11 +5540,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/nba9.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba9.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-9",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "nba9.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-9",
@@ -5614,6 +5560,29 @@
             "away": "Golden State Warriors"
           },
           "display_name": "Los Angeles Lakers vs Golden State Warriors - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/lakers.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "lakers.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-9",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Los Angeles Lakers vs Golden State Warriors",
+          "matchup": {
+            "home": "Los Angeles Lakers",
+            "away": "Golden State Warriors"
+          },
+          "display_name": "Los Angeles Lakers vs Golden State Warriors - Stream 2"
         },
         {
           "label": "nba9.m3u8",
@@ -6169,7 +6138,7 @@
       ]
     }
   },
-  "stream_count": 67,
+  "stream_count": 68,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
