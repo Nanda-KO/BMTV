@@ -1,55 +1,75 @@
 {
-  "scraped_at": "2026-10-31T08:55:45+00:00",
+  "scraped_at": "2026-10-31T15:14:55+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "Ligue 1",
+      "name": "Premier League",
       "page": "https://roxiestreams.info/soccer",
-      "start_time": "October 30, 2026 11:00 AM"
-    },
-    {
-      "name": "Formula 1",
-      "page": "https://roxiestreams.info/f1",
-      "start_time": "October 30, 2026 11:30 AM"
+      "start_time": "October 31, 2026 6:30 AM"
     },
     {
       "name": "Laliga",
-      "page": "https://roxiestreams.info/soccer-streams-6",
-      "start_time": "October 30, 2026 1:00 PM"
+      "page": "https://roxiestreams.info/soccer-streams-4",
+      "start_time": "October 31, 2026 6:00 PM"
+    },
+    {
+      "name": "Canelo vs. Mbilli: Mexico vs. The World",
+      "page": "https://roxiestreams.info/ppv-streams-1",
+      "start_time": "October 31, 2026 7:00 AM"
     },
     {
       "name": "NCAA (CFB)",
       "page": "https://roxiestreams.info/nfl",
-      "start_time": "October 30, 2026 4:00 PM"
+      "start_time": "October 31, 2026 9:00 AM"
     },
     {
-      "name": "WWE Smackdown",
-      "page": "https://roxiestreams.info/wwe-streams",
-      "start_time": "October 30, 2026 5:00 PM"
+      "name": "Der Klassiker (Bayern vs Dortmund)",
+      "page": "https://roxiestreams.info/soccer-streams-15",
+      "start_time": "October 31, 2026 10:30 AM"
+    },
+    {
+      "name": "Formula 1",
+      "page": "https://roxiestreams.info/f1",
+      "start_time": "October 31, 2026 11:30 AM"
+    },
+    {
+      "name": "UFC FN: Moicano vs. Nolan",
+      "page": "https://roxiestreams.info/ufc",
+      "start_time": "October 31, 2026 2:00 PM"
+    },
+    {
+      "name": "WNBA Finals",
+      "page": "https://roxiestreams.info/wnba-streams-1",
+      "start_time": "October 31, 2026 5:00 PM"
+    },
+    {
+      "name": "MotoGP - Malaysia Grand Prix",
+      "page": "https://roxiestreams.info/motogp",
+      "start_time": "November 1, 2026 12:00 AM"
     }
   ],
   "events_by_sport": {
     "soccer": [
       {
-        "title": "Konyaspor vs Galatasaray",
+        "title": "Brentford vs Nottingham",
         "sport": "soccer",
         "matchup": {
-          "home": "Konyaspor",
-          "away": "Galatasaray"
+          "home": "Brentford",
+          "away": "Nottingham"
         },
         "page": "https://roxiestreams.info/soccer-streams-1",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/bein4.m3u8",
+            "url": "https://admin2.shadow-ran.online/ncaa12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "bein4.m3u8",
+            "subdomain": "admin2",
+            "path": "ncaa12.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -58,21 +78,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Konyaspor vs Galatasaray",
+            "event_title": "Brentford vs Nottingham",
             "matchup": {
-              "home": "Konyaspor",
-              "away": "Galatasaray"
+              "home": "Brentford",
+              "away": "Nottingham"
             },
-            "display_name": "Konyaspor vs Galatasaray - Stream 1"
+            "display_name": "Brentford vs Nottingham - Stream 1"
           },
           {
-            "label": "bein4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+            "label": "ncaa12.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ncaa12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "bein4.m3u8",
+            "path": "ncaa12.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-1",
               "Origin": "https://roxiestreams.info",
@@ -81,32 +101,89 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Konyaspor vs Galatasaray",
+            "event_title": "Brentford vs Nottingham",
             "matchup": {
-              "home": "Konyaspor",
-              "away": "Galatasaray"
+              "home": "Brentford",
+              "away": "Nottingham"
             },
-            "display_name": "Konyaspor vs Galatasaray - bein4.m3u8"
+            "display_name": "Brentford vs Nottingham - ncaa12.m3u8"
           }
         ]
       },
       {
-        "title": "Lille vs Lens",
+        "title": "Bayern München vs Dortmund",
         "sport": "soccer",
         "matchup": {
-          "home": "Lille",
-          "away": "Lens"
+          "home": "Bayern München",
+          "away": "Dortmund"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-15",
+        "streams": [
+          {
+            "label": "Stream 1 (EN)",
+            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Dortmund",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Dortmund"
+            },
+            "display_name": "Bayern München vs Dortmund - Stream 1 (EN)"
+          },
+          {
+            "label": "tsn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Dortmund",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Dortmund"
+            },
+            "display_name": "Bayern München vs Dortmund - tsn.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Stoke City vs Preston North End",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Stoke City",
+          "away": "Preston North End"
         },
         "page": "https://roxiestreams.info/soccer-streams-2",
         "streams": [
           {
-            "label": "Stream 1 (ES)",
-            "url": "https://admin2.shadow-ran.online/beines.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "beines.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -115,44 +192,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Lille vs Lens",
+            "event_title": "Stoke City vs Preston North End",
             "matchup": {
-              "home": "Lille",
-              "away": "Lens"
+              "home": "Stoke City",
+              "away": "Preston North End"
             },
-            "display_name": "Lille vs Lens - Stream 1 (ES)"
+            "display_name": "Stoke City vs Preston North End - Stream 1"
           },
           {
-            "label": "Stream 2 (EN)",
-            "url": "https://tedesco.shadow-ran.online/bein.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "bein.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-2",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Lille vs Lens",
-            "matchup": {
-              "home": "Lille",
-              "away": "Lens"
-            },
-            "display_name": "Lille vs Lens - Stream 2 (EN)"
-          },
-          {
-            "label": "beines.m3u8",
-            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "beines.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -161,89 +215,120 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Lille vs Lens",
+            "event_title": "Stoke City vs Preston North End",
             "matchup": {
-              "home": "Lille",
-              "away": "Lens"
+              "home": "Stoke City",
+              "away": "Preston North End"
             },
-            "display_name": "Lille vs Lens - beines.m3u8"
+            "display_name": "Stoke City vs Preston North End - main.m3u8"
           }
         ]
       },
       {
-        "title": "Villarreal vs Espanyol",
+        "title": "Barcelona vs Deportivo Alavés",
         "sport": "soccer",
         "matchup": {
-          "home": "Villarreal",
-          "away": "Espanyol"
+          "home": "Barcelona",
+          "away": "Deportivo Alavés"
         },
-        "page": "https://roxiestreams.info/soccer-streams-6",
+        "page": "https://roxiestreams.info/soccer-streams-4",
         "streams": [
           {
             "label": "Stream 1",
             "url": "https://admin2.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-6",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
             "path": "dep.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-6",
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Villarreal vs Espanyol",
+            "event_title": "Barcelona vs Deportivo Alavés",
             "matchup": {
-              "home": "Villarreal",
-              "away": "Espanyol"
+              "home": "Barcelona",
+              "away": "Deportivo Alavés"
             },
-            "display_name": "Villarreal vs Espanyol - Stream 1"
+            "display_name": "Barcelona vs Deportivo Alavés - Stream 1"
           },
           {
             "label": "dep.m3u8",
             "url": "https://daffodil.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-6",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
             "path": "dep.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-6",
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Villarreal vs Espanyol",
+            "event_title": "Barcelona vs Deportivo Alavés",
             "matchup": {
-              "home": "Villarreal",
-              "away": "Espanyol"
+              "home": "Barcelona",
+              "away": "Deportivo Alavés"
             },
-            "display_name": "Villarreal vs Espanyol - dep.m3u8"
+            "display_name": "Barcelona vs Deportivo Alavés - dep.m3u8"
           }
         ]
       },
       {
-        "title": "Puebla vs Pumas",
+        "title": "Udinense vs Roma",
         "sport": "soccer",
         "matchup": {
-          "home": "Puebla",
-          "away": "Pumas"
+          "home": "Udinense",
+          "away": "Roma"
+        },
+        "page": "https://roxiestreams.info/ncaa-streams-13",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ncaa-streams-13",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ncaa-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Udinense vs Roma",
+            "matchup": {
+              "home": "Udinense",
+              "away": "Roma"
+            },
+            "display_name": "Udinense vs Roma"
+          }
+        ]
+      },
+      {
+        "title": "Hull vs Ipswich Town",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Hull",
+          "away": "Ipswich Town"
         },
         "page": "https://roxiestreams.info/soccer-streams-10",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+            "url": "https://admin2.shadow-ran.online/peacock4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "aztecadeportes.m3u8",
+            "path": "peacock4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -252,21 +337,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Puebla vs Pumas",
+            "event_title": "Hull vs Ipswich Town",
             "matchup": {
-              "home": "Puebla",
-              "away": "Pumas"
+              "home": "Hull",
+              "away": "Ipswich Town"
             },
-            "display_name": "Puebla vs Pumas - Stream 1"
+            "display_name": "Hull vs Ipswich Town - Stream 1"
           },
           {
-            "label": "aztecadeportes.m3u8",
-            "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+            "label": "peacock4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/peacock4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "aztecadeportes.m3u8",
+            "path": "peacock4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-10",
               "Origin": "https://roxiestreams.info",
@@ -275,29 +360,659 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Puebla vs Pumas",
+            "event_title": "Hull vs Ipswich Town",
             "matchup": {
-              "home": "Puebla",
-              "away": "Pumas"
+              "home": "Hull",
+              "away": "Ipswich Town"
             },
-            "display_name": "Puebla vs Pumas - aztecadeportes.m3u8"
+            "display_name": "Hull vs Ipswich Town - peacock4.m3u8"
           }
         ]
       },
       {
-        "title": "Nice vs Rennes",
+        "title": "Manchester City vs Brighton",
         "sport": "soccer",
         "matchup": {
-          "home": "Nice",
-          "away": "Rennes"
+          "home": "Manchester City",
+          "away": "Brighton"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-11",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/prem.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "prem.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Manchester City vs Brighton",
+            "matchup": {
+              "home": "Manchester City",
+              "away": "Brighton"
+            },
+            "display_name": "Manchester City vs Brighton - Stream 1"
+          },
+          {
+            "label": "prem.m3u8",
+            "url": "https://daffodil.shadow-ran.online/prem.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "prem.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-11",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Manchester City vs Brighton",
+            "matchup": {
+              "home": "Manchester City",
+              "away": "Brighton"
+            },
+            "display_name": "Manchester City vs Brighton - prem.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Wolves vs Cardiff City",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Wolves",
+          "away": "Cardiff City"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-12",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wolves.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-12",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wolves.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-12",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Wolves vs Cardiff City",
+            "matchup": {
+              "home": "Wolves",
+              "away": "Cardiff City"
+            },
+            "display_name": "Wolves vs Cardiff City - Stream 1"
+          },
+          {
+            "label": "wolves.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wolves.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-12",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wolves.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-12",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Wolves vs Cardiff City",
+            "matchup": {
+              "home": "Wolves",
+              "away": "Cardiff City"
+            },
+            "display_name": "Wolves vs Cardiff City - wolves.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Gillingham vs Shrewbury Town",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Gillingham",
+          "away": "Shrewbury Town"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-13",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/gill.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "gill.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Gillingham vs Shrewbury Town",
+            "matchup": {
+              "home": "Gillingham",
+              "away": "Shrewbury Town"
+            },
+            "display_name": "Gillingham vs Shrewbury Town - Stream 1"
+          },
+          {
+            "label": "gill.m3u8",
+            "url": "https://daffodil.shadow-ran.online/gill.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "gill.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-13",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Gillingham vs Shrewbury Town",
+            "matchup": {
+              "home": "Gillingham",
+              "away": "Shrewbury Town"
+            },
+            "display_name": "Gillingham vs Shrewbury Town - gill.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Tottenham vs Crystal Palace",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Tottenham",
+          "away": "Crystal Palace"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-14",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tottenham vs Crystal Palace",
+            "matchup": {
+              "home": "Tottenham",
+              "away": "Crystal Palace"
+            },
+            "display_name": "Tottenham vs Crystal Palace - Stream 1"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tottenham vs Crystal Palace",
+            "matchup": {
+              "home": "Tottenham",
+              "away": "Crystal Palace"
+            },
+            "display_name": "Tottenham vs Crystal Palace - mls.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Rangers vs Aberdeen",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Rangers",
+          "away": "Aberdeen"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-16",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/fana4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-16",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-16",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Rangers vs Aberdeen",
+            "matchup": {
+              "home": "Rangers",
+              "away": "Aberdeen"
+            },
+            "display_name": "Rangers vs Aberdeen - Stream 1"
+          },
+          {
+            "label": "fana4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-16",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-16",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Rangers vs Aberdeen",
+            "matchup": {
+              "home": "Rangers",
+              "away": "Aberdeen"
+            },
+            "display_name": "Rangers vs Aberdeen - fana4.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Coritiba vs Vitória",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Coritiba",
+          "away": "Vitória"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-17",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/fana6pt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana6pt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-17",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coritiba vs Vitória",
+            "matchup": {
+              "home": "Coritiba",
+              "away": "Vitória"
+            },
+            "display_name": "Coritiba vs Vitória - Stream 1"
+          },
+          {
+            "label": "fana6pt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana6pt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana6pt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-17",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coritiba vs Vitória",
+            "matchup": {
+              "home": "Coritiba",
+              "away": "Vitória"
+            },
+            "display_name": "Coritiba vs Vitória - fana6pt.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Milan vs Inter Milan",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Milan",
+          "away": "Inter Milan"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-18",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tudnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Milan vs Inter Milan",
+            "matchup": {
+              "home": "Milan",
+              "away": "Inter Milan"
+            },
+            "display_name": "Milan vs Inter Milan - Stream 1"
+          },
+          {
+            "label": "tudnmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tudnmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-18",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Milan vs Inter Milan",
+            "matchup": {
+              "home": "Milan",
+              "away": "Inter Milan"
+            },
+            "display_name": "Milan vs Inter Milan - tudnmx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Aston Villa vs Fulham",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Aston Villa",
+          "away": "Fulham"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-19",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-19",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "canal5mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-19",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Aston Villa vs Fulham",
+            "matchup": {
+              "home": "Aston Villa",
+              "away": "Fulham"
+            },
+            "display_name": "Aston Villa vs Fulham - Stream 1"
+          },
+          {
+            "label": "canal5mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-19",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "canal5mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-19",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Aston Villa vs Fulham",
+            "matchup": {
+              "home": "Aston Villa",
+              "away": "Fulham"
+            },
+            "display_name": "Aston Villa vs Fulham - canal5mx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "América vs Toluca",
+        "sport": "soccer",
+        "matchup": {
+          "home": "América",
+          "away": "Toluca"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-20",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/foxone3mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-20",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foxone3mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-20",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "América vs Toluca",
+            "matchup": {
+              "home": "América",
+              "away": "Toluca"
+            },
+            "display_name": "América vs Toluca - Stream 1"
+          },
+          {
+            "label": "foxone3mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxone3mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-20",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxone3mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-20",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "América vs Toluca",
+            "matchup": {
+              "home": "América",
+              "away": "Toluca"
+            },
+            "display_name": "América vs Toluca - foxone3mx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Chivas vs Atlante",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Chivas",
+          "away": "Atlante"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-21",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/olympiacos.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-21",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "olympiacos.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-21",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Chivas vs Atlante",
+            "matchup": {
+              "home": "Chivas",
+              "away": "Atlante"
+            },
+            "display_name": "Chivas vs Atlante - Stream 1"
+          },
+          {
+            "label": "olympiacos.m3u8",
+            "url": "https://daffodil.shadow-ran.online/olympiacos.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-21",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "olympiacos.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-21",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Chivas vs Atlante",
+            "matchup": {
+              "home": "Chivas",
+              "away": "Atlante"
+            },
+            "display_name": "Chivas vs Atlante - olympiacos.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "UOlympiacos vs Kifisia",
+        "sport": "soccer",
+        "matchup": {
+          "home": "UOlympiacos",
+          "away": "Kifisia"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-22",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/foxone4mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-22",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foxone4mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-22",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "UOlympiacos vs Kifisia",
+            "matchup": {
+              "home": "UOlympiacos",
+              "away": "Kifisia"
+            },
+            "display_name": "UOlympiacos vs Kifisia - Stream 1"
+          },
+          {
+            "label": "foxone4mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxone4mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-22",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxone4mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-22",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "UOlympiacos vs Kifisia",
+            "matchup": {
+              "home": "UOlympiacos",
+              "away": "Kifisia"
+            },
+            "display_name": "UOlympiacos vs Kifisia - foxone4mx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "West Ham vs West Bromwich Albion",
+        "sport": "soccer",
+        "matchup": {
+          "home": "West Ham",
+          "away": "West Bromwich Albion"
         },
         "page": "https://roxiestreams.info/soccer-streams-3",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -306,192 +1021,135 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Nice vs Rennes",
+            "event_title": "West Ham vs West Bromwich Albion",
             "matchup": {
-              "home": "Nice",
-              "away": "Rennes"
+              "home": "West Ham",
+              "away": "West Bromwich Albion"
             },
-            "display_name": "Nice vs Rennes"
-          }
-        ]
-      },
-      {
-        "title": "Elversberg vs Mainz 05",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Elversberg",
-          "away": "Mainz 05"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/one.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "one.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Elversberg vs Mainz 05",
-            "matchup": {
-              "home": "Elversberg",
-              "away": "Mainz 05"
-            },
-            "display_name": "Elversberg vs Mainz 05 - Stream 1"
+            "display_name": "West Ham vs West Bromwich Albion - Stream 1"
           },
           {
-            "label": "one.m3u8",
-            "url": "https://daffodil.shadow-ran.online/one.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/birm.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "one.m3u8",
+            "subdomain": "admin2",
+            "path": "birm.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Elversberg vs Mainz 05",
+            "event_title": "West Ham vs West Bromwich Albion",
             "matchup": {
-              "home": "Elversberg",
-              "away": "Mainz 05"
+              "home": "West Ham",
+              "away": "West Bromwich Albion"
             },
-            "display_name": "Elversberg vs Mainz 05 - one.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Sheffield United vs Wrexham",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Sheffield United",
-          "away": "Wrexham"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-5",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "golazo.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-5",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Sheffield United vs Wrexham",
-            "matchup": {
-              "home": "Sheffield United",
-              "away": "Wrexham"
-            },
-            "display_name": "Sheffield United vs Wrexham - Stream 1"
+            "display_name": "West Ham vs West Bromwich Albion - Stream 2"
           },
           {
             "label": "golazo.m3u8",
             "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-5",
+            "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
             "path": "golazo.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-5",
+              "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Sheffield United vs Wrexham",
+            "event_title": "West Ham vs West Bromwich Albion",
             "matchup": {
-              "home": "Sheffield United",
-              "away": "Wrexham"
+              "home": "West Ham",
+              "away": "West Bromwich Albion"
             },
-            "display_name": "Sheffield United vs Wrexham - golazo.m3u8"
+            "display_name": "West Ham vs West Bromwich Albion - golazo.m3u8"
           }
         ]
       },
       {
-        "title": "Corinthians vs Mirassol",
+        "title": "Bayer Leverkusen vs Stuttgart",
         "sport": "soccer",
         "matchup": {
-          "home": "Corinthians",
-          "away": "Mirassol"
+          "home": "Bayer Leverkusen",
+          "away": "Stuttgart"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-6",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/one.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "one.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-6",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayer Leverkusen vs Stuttgart",
+            "matchup": {
+              "home": "Bayer Leverkusen",
+              "away": "Stuttgart"
+            },
+            "display_name": "Bayer Leverkusen vs Stuttgart - Stream 1"
+          },
+          {
+            "label": "one.m3u8",
+            "url": "https://daffodil.shadow-ran.online/one.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "one.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-6",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayer Leverkusen vs Stuttgart",
+            "matchup": {
+              "home": "Bayer Leverkusen",
+              "away": "Stuttgart"
+            },
+            "display_name": "Bayer Leverkusen vs Stuttgart - one.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Bournemouth vs Leeds",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Bournemouth",
+          "away": "Leeds"
         },
         "page": "https://roxiestreams.info/soccer-streams-7",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Corinthians vs Mirassol",
-            "matchup": {
-              "home": "Corinthians",
-              "away": "Mirassol"
-            },
-            "display_name": "Corinthians vs Mirassol - Stream 1"
-          },
-          {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin.shadow-ran.online/l1max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "l1max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-7",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Corinthians vs Mirassol",
-            "matchup": {
-              "home": "Corinthians",
-              "away": "Mirassol"
-            },
-            "display_name": "Corinthians vs Mirassol - Stream 2 (ES)"
-          },
-          {
-            "label": "Stream 3 (RU)",
-            "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
+            "url": "https://admin2.shadow-ran.online/peacock2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "match3ru.m3u8",
+            "path": "peacock2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -500,21 +1158,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Corinthians vs Mirassol",
+            "event_title": "Bournemouth vs Leeds",
             "matchup": {
-              "home": "Corinthians",
-              "away": "Mirassol"
+              "home": "Bournemouth",
+              "away": "Leeds"
             },
-            "display_name": "Corinthians vs Mirassol - Stream 3 (RU)"
+            "display_name": "Bournemouth vs Leeds - Stream 1"
           },
           {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "label": "peacock2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/peacock2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana.m3u8",
+            "path": "peacock2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-7",
               "Origin": "https://roxiestreams.info",
@@ -523,89 +1181,32 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Corinthians vs Mirassol",
+            "event_title": "Bournemouth vs Leeds",
             "matchup": {
-              "home": "Corinthians",
-              "away": "Mirassol"
+              "home": "Bournemouth",
+              "away": "Leeds"
             },
-            "display_name": "Corinthians vs Mirassol - fana.m3u8"
+            "display_name": "Bournemouth vs Leeds - peacock2.m3u8"
           }
         ]
       },
       {
-        "title": "Juárez vs Querétaro",
+        "title": "Coventry City vs Sunderland",
         "sport": "soccer",
         "matchup": {
-          "home": "Juárez",
-          "away": "Querétaro"
-        },
-        "page": "https://roxiestreams.info/soccer-streams-8",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foxone7mx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foxone7mx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-8",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Juárez vs Querétaro",
-            "matchup": {
-              "home": "Juárez",
-              "away": "Querétaro"
-            },
-            "display_name": "Juárez vs Querétaro - Stream 1"
-          },
-          {
-            "label": "foxone7mx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foxone7mx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "foxone7mx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-8",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Juárez vs Querétaro",
-            "matchup": {
-              "home": "Juárez",
-              "away": "Querétaro"
-            },
-            "display_name": "Juárez vs Querétaro - foxone7mx.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Atlético San Luis vs Atlas",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Atlético San Luis",
-          "away": "Atlas"
+          "home": "Coventry City",
+          "away": "Sunderland"
         },
         "page": "https://roxiestreams.info/soccer-streams-9",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/vixmx.m3u8",
+            "url": "https://admin2.shadow-ran.online/peacock3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "vixmx.m3u8",
+            "path": "peacock3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -614,21 +1215,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Atlético San Luis vs Atlas",
+            "event_title": "Coventry City vs Sunderland",
             "matchup": {
-              "home": "Atlético San Luis",
-              "away": "Atlas"
+              "home": "Coventry City",
+              "away": "Sunderland"
             },
-            "display_name": "Atlético San Luis vs Atlas - Stream 1"
+            "display_name": "Coventry City vs Sunderland - Stream 1"
           },
           {
-            "label": "vixmx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vixmx.m3u8",
+            "label": "peacock3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/peacock3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "vixmx.m3u8",
+            "path": "peacock3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -637,12 +1238,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Atlético San Luis vs Atlas",
+            "event_title": "Coventry City vs Sunderland",
             "matchup": {
-              "home": "Atlético San Luis",
-              "away": "Atlas"
+              "home": "Coventry City",
+              "away": "Sunderland"
             },
-            "display_name": "Atlético San Luis vs Atlas - vixmx.m3u8"
+            "display_name": "Coventry City vs Sunderland - peacock3.m3u8"
           }
         ]
       }
@@ -784,6 +1385,86 @@
               "away": "Utah Jazz"
             },
             "display_name": "Portland Trail Blazers vs Utah Jazz - nba.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Atlanta Dream vs Golden State Valkyries",
+        "sport": "nba",
+        "matchup": {
+          "home": "Atlanta Dream",
+          "away": "Golden State Valkyries"
+        },
+        "page": "https://roxiestreams.info/wnba-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wnba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wnba-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Atlanta Dream vs Golden State Valkyries",
+            "matchup": {
+              "home": "Atlanta Dream",
+              "away": "Golden State Valkyries"
+            },
+            "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wnba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wnba-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Atlanta Dream vs Golden State Valkyries",
+            "matchup": {
+              "home": "Atlanta Dream",
+              "away": "Golden State Valkyries"
+            },
+            "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 2"
+          },
+          {
+            "label": "wnba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wnba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wnba-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Atlanta Dream vs Golden State Valkyries",
+            "matchup": {
+              "home": "Atlanta Dream",
+              "away": "Golden State Valkyries"
+            },
+            "display_name": "Atlanta Dream vs Golden State Valkyries - wnba.m3u8"
           }
         ]
       },
@@ -1151,86 +1832,6 @@
             "display_name": "Oklahoma City Thunder vs Houston Rockets - nba7.m3u8"
           }
         ]
-      },
-      {
-        "title": "Atlanta Dream vs Golden State Valkyries",
-        "sport": "nba",
-        "matchup": {
-          "home": "Atlanta Dream",
-          "away": "Golden State Valkyries"
-        },
-        "page": "https://roxiestreams.info/wnba-streams-1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "wnba.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Atlanta Dream vs Golden State Valkyries",
-            "matchup": {
-              "home": "Atlanta Dream",
-              "away": "Golden State Valkyries"
-            },
-            "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wnba.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Atlanta Dream vs Golden State Valkyries",
-            "matchup": {
-              "home": "Atlanta Dream",
-              "away": "Golden State Valkyries"
-            },
-            "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 2"
-          },
-          {
-            "label": "wnba.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wnba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "wnba.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wnba-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Atlanta Dream vs Golden State Valkyries",
-            "matchup": {
-              "home": "Atlanta Dream",
-              "away": "Golden State Valkyries"
-            },
-            "display_name": "Atlanta Dream vs Golden State Valkyries - wnba.m3u8"
-          }
-        ]
       }
     ],
     "nfl": [
@@ -1545,11 +2146,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
+            "url": "https://admin.shadow-ran.online/ncaa2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin",
             "path": "ncaa2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -2283,11 +2884,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ppv-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "ppv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ppv-streams-1",
@@ -2389,29 +2990,62 @@
         ]
       }
     ],
-    "multiview": [
+    "multiview": [],
+    "ppv": [
       {
-        "title": "MultiView (NEW)",
-        "sport": "multiview",
-        "matchup": null,
-        "page": "https://roxiestreams.info/multiview",
+        "title": "Canelo vs. Mbilli: Mexico vs. The World",
+        "sport": "ppv",
+        "matchup": {
+          "home": "Canelo",
+          "away": "Mbilli: Mexico vs. The World"
+        },
+        "page": "https://roxiestreams.info/ppv-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/multiview",
+            "source_page": "https://roxiestreams.info/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "ppv.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/multiview",
+              "Referer": "https://roxiestreams.info/ppv-streams-1",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "multiview",
-            "event_title": "MultiView (NEW)",
-            "matchup": null,
-            "display_name": "MultiView (NEW)"
+            "sport": "ppv",
+            "event_title": "Canelo vs. Mbilli: Mexico vs. The World",
+            "matchup": {
+              "home": "Canelo",
+              "away": "Mbilli: Mexico vs. The World"
+            },
+            "display_name": "Canelo vs. Mbilli: Mexico vs. The World - Stream 1"
+          },
+          {
+            "label": "ppv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ppv-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "Canelo vs. Mbilli: Mexico vs. The World",
+            "matchup": {
+              "home": "Canelo",
+              "away": "Mbilli: Mexico vs. The World"
+            },
+            "display_name": "Canelo vs. Mbilli: Mexico vs. The World - ppv.m3u8"
           }
         ]
       }
@@ -2486,72 +3120,157 @@
         ]
       }
     ],
-    "wwe": [
+    "ufc": [
       {
-        "title": "WWE Smackdown",
-        "sport": "wwe",
+        "title": "UFC FN: Moicano vs. Nolan",
+        "sport": "ufc",
+        "matchup": {
+          "home": "UFC FN: Moicano",
+          "away": "Nolan"
+        },
+        "page": "https://roxiestreams.info/ufc",
+        "streams": [
+          {
+            "label": "Stream 1 (STAR+)",
+            "url": "https://temp.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Moicano vs. Nolan",
+            "matchup": {
+              "home": "UFC FN: Moicano",
+              "away": "Nolan"
+            },
+            "display_name": "UFC FN: Moicano vs. Nolan - Stream 1 (STAR+)"
+          },
+          {
+            "label": "Stream 2 (TNT)",
+            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tnt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Moicano vs. Nolan",
+            "matchup": {
+              "home": "UFC FN: Moicano",
+              "away": "Nolan"
+            },
+            "display_name": "UFC FN: Moicano vs. Nolan - Stream 2 (TNT)"
+          },
+          {
+            "label": "Stream 3 (Viaplay)",
+            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Moicano vs. Nolan",
+            "matchup": {
+              "home": "UFC FN: Moicano",
+              "away": "Nolan"
+            },
+            "display_name": "UFC FN: Moicano vs. Nolan - Stream 3 (Viaplay)"
+          },
+          {
+            "label": "abbiecadabrii.m3u8",
+            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Moicano vs. Nolan",
+            "matchup": {
+              "home": "UFC FN: Moicano",
+              "away": "Nolan"
+            },
+            "display_name": "UFC FN: Moicano vs. Nolan - abbiecadabrii.m3u8"
+          }
+        ]
+      }
+    ],
+    "motogp": [
+      {
+        "title": "MotoGP - Malaysia Grand Prix",
+        "sport": "motogp",
         "matchup": null,
-        "page": "https://roxiestreams.info/wwe-streams",
+        "page": "https://roxiestreams.info/motogp",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin2.shadow-ran.online/tnt2.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wwe-streams",
+            "source_page": "https://roxiestreams.info/motogp",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "wwe.m3u8",
+            "path": "tnt2.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/wwe-streams",
+              "Referer": "https://roxiestreams.info/motogp",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
+            "sport": "motogp",
+            "event_title": "MotoGP - Malaysia Grand Prix",
             "matchup": null,
-            "display_name": "WWE Smackdown - Stream 1"
+            "display_name": "MotoGP - Malaysia Grand Prix - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "label": "tnt2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tnt2.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wwe-streams",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
-            "matchup": null,
-            "display_name": "WWE Smackdown - Stream 2"
-          },
-          {
-            "label": "wwe.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wwe-streams",
+            "source_page": "https://roxiestreams.info/motogp",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "wwe.m3u8",
+            "path": "tnt2.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/wwe-streams",
+              "Referer": "https://roxiestreams.info/motogp",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
+            "sport": "motogp",
+            "event_title": "MotoGP - Malaysia Grand Prix",
             "matchup": null,
-            "display_name": "WWE Smackdown - wwe.m3u8"
+            "display_name": "MotoGP - Malaysia Grand Prix - tnt2.m3u8"
           }
         ]
       }
@@ -2575,17 +3294,35 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Konyaspor vs Galatasaray",
-        "Le Havre vs PSG",
-        "Nice vs Rennes",
-        "Elversberg vs Mainz 05",
-        "Sheffield United vs Wrexham",
-        "Villarreal vs Espanyol",
-        "Lille vs Lens",
-        "Corinthians vs Mirassol",
-        "Juárez vs Querétaro",
-        "Atlético San Luis vs Atlas",
-        "Puebla vs Pumas",
+        "Chelsea vs Manchester United",
+        "Stoke City vs Preston North End",
+        "Lincoln City vs Birmingham City",
+        "Levante vs Atlético Madrid",
+        "Bologna vs Monza",
+        "Bayer Leverkusen vs Stuttgart",
+        "Bournemouth vs Leeds",
+        "Brentford vs Nottingham",
+        "Coventry City vs Sunderland",
+        "Hull vs Ipswich Town",
+        "Manchester City vs Brighton",
+        "West Ham vs West Bromwich Albion",
+        "Wolves vs Cardiff City",
+        "Gillingham vs Shrewbury Town",
+        "Rayo Vallecano vs Celta Vigo",
+        "UOlympiacos vs Kifisia",
+        "Udinense vs Roma",
+        "Real Betis vs Málaga",
+        "Tottenham vs Crystal Palace",
+        "Bayern München vs Dortmund",
+        "Rangers vs Aberdeen",
+        "Coritiba vs Vitória",
+        "Milan vs Inter Milan",
+        "Aston Villa vs Fulham",
+        "Barcelona vs Deportivo Alavés",
+        "Pachuca vs Tigres",
+        "Monterrey vs Tijuana",
+        "Chivas vs Atlante",
+        "América vs Toluca",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -2630,48 +3367,120 @@
           "url": "https://roxiestreams.info/multiview"
         },
         {
-          "label": "Konyaspor vs Galatasaray",
+          "label": "Chelsea vs Manchester United",
           "url": "https://roxiestreams.info/soccer-streams-1"
         },
         {
-          "label": "Le Havre vs PSG",
+          "label": "Stoke City vs Preston North End",
           "url": "https://roxiestreams.info/soccer-streams-2"
         },
         {
-          "label": "Nice vs Rennes",
+          "label": "Lincoln City vs Birmingham City",
           "url": "https://roxiestreams.info/soccer-streams-3"
         },
         {
-          "label": "Elversberg vs Mainz 05",
+          "label": "Levante vs Atlético Madrid",
           "url": "https://roxiestreams.info/soccer-streams-4"
         },
         {
-          "label": "Sheffield United vs Wrexham",
+          "label": "Bologna vs Monza",
           "url": "https://roxiestreams.info/soccer-streams-5"
         },
         {
-          "label": "Villarreal vs Espanyol",
+          "label": "Bayer Leverkusen vs Stuttgart",
           "url": "https://roxiestreams.info/soccer-streams-6"
         },
         {
-          "label": "Lille vs Lens",
-          "url": "https://roxiestreams.info/soccer-streams-2"
-        },
-        {
-          "label": "Corinthians vs Mirassol",
+          "label": "Bournemouth vs Leeds",
           "url": "https://roxiestreams.info/soccer-streams-7"
         },
         {
-          "label": "Juárez vs Querétaro",
-          "url": "https://roxiestreams.info/soccer-streams-8"
+          "label": "Brentford vs Nottingham",
+          "url": "https://roxiestreams.info/soccer-streams-1"
         },
         {
-          "label": "Atlético San Luis vs Atlas",
+          "label": "Coventry City vs Sunderland",
           "url": "https://roxiestreams.info/soccer-streams-9"
         },
         {
-          "label": "Puebla vs Pumas",
+          "label": "Hull vs Ipswich Town",
           "url": "https://roxiestreams.info/soccer-streams-10"
+        },
+        {
+          "label": "Manchester City vs Brighton",
+          "url": "https://roxiestreams.info/soccer-streams-11"
+        },
+        {
+          "label": "West Ham vs West Bromwich Albion",
+          "url": "https://roxiestreams.info/soccer-streams-3"
+        },
+        {
+          "label": "Wolves vs Cardiff City",
+          "url": "https://roxiestreams.info/soccer-streams-12"
+        },
+        {
+          "label": "Gillingham vs Shrewbury Town",
+          "url": "https://roxiestreams.info/soccer-streams-13"
+        },
+        {
+          "label": "Rayo Vallecano vs Celta Vigo",
+          "url": "https://roxiestreams.info/soccer-streams-4"
+        },
+        {
+          "label": "UOlympiacos vs Kifisia",
+          "url": "https://roxiestreams.info/soccer-streams-22"
+        },
+        {
+          "label": "Udinense vs Roma",
+          "url": "https://roxiestreams.info/ncaa-streams-13"
+        },
+        {
+          "label": "Real Betis vs Málaga",
+          "url": "https://roxiestreams.info/soccer-streams-4"
+        },
+        {
+          "label": "Tottenham vs Crystal Palace",
+          "url": "https://roxiestreams.info/soccer-streams-14"
+        },
+        {
+          "label": "Bayern München vs Dortmund",
+          "url": "https://roxiestreams.info/soccer-streams-15"
+        },
+        {
+          "label": "Rangers vs Aberdeen",
+          "url": "https://roxiestreams.info/soccer-streams-16"
+        },
+        {
+          "label": "Coritiba vs Vitória",
+          "url": "https://roxiestreams.info/soccer-streams-17"
+        },
+        {
+          "label": "Milan vs Inter Milan",
+          "url": "https://roxiestreams.info/soccer-streams-18"
+        },
+        {
+          "label": "Aston Villa vs Fulham",
+          "url": "https://roxiestreams.info/soccer-streams-19"
+        },
+        {
+          "label": "Barcelona vs Deportivo Alavés",
+          "url": "https://roxiestreams.info/soccer-streams-4"
+        },
+        {
+          "label": "Pachuca vs Tigres",
+          "url": "https://roxiestreams.info/soccer-streams-20"
+        },
+        {
+          "label": "Monterrey vs Tijuana",
+          "url": "https://roxiestreams.info/soccer-streams-20"
+        },
+        {
+          "label": "Chivas vs Atlante",
+          "url": "https://roxiestreams.info/soccer-streams-21"
+        },
+        {
+          "label": "América vs Toluca",
+          "url": "https://roxiestreams.info/soccer-streams-20"
         },
         {
           "label": "Stream Request (Discord)",
@@ -2745,207 +3554,74 @@
         }
       ]
     },
+    "https://roxiestreams.info/soccer-streams-15": {
+      "url": "https://roxiestreams.info/soccer-streams-15",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1 (EN)",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
     "https://roxiestreams.info/soccer-streams-2": {
       "url": "https://roxiestreams.info/soccer-streams-2",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1 (ES)",
-        "Stream 2 (EN)",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/soccer-streams-6": {
-      "url": "https://roxiestreams.info/soccer-streams-6",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/soccer-streams-10": {
-      "url": "https://roxiestreams.info/soccer-streams-10",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/soccer-streams-3": {
-      "url": "https://roxiestreams.info/soccer-streams-3",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3076,6 +3752,931 @@
         }
       ]
     },
+    "https://roxiestreams.info/ncaa-streams-13": {
+      "url": "https://roxiestreams.info/ncaa-streams-13",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-10": {
+      "url": "https://roxiestreams.info/soccer-streams-10",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-11": {
+      "url": "https://roxiestreams.info/soccer-streams-11",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-12": {
+      "url": "https://roxiestreams.info/soccer-streams-12",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-13": {
+      "url": "https://roxiestreams.info/soccer-streams-13",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-14": {
+      "url": "https://roxiestreams.info/soccer-streams-14",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-16": {
+      "url": "https://roxiestreams.info/soccer-streams-16",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-17": {
+      "url": "https://roxiestreams.info/soccer-streams-17",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-18": {
+      "url": "https://roxiestreams.info/soccer-streams-18",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-19": {
+      "url": "https://roxiestreams.info/soccer-streams-19",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-20": {
+      "url": "https://roxiestreams.info/soccer-streams-20",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-21": {
+      "url": "https://roxiestreams.info/soccer-streams-21",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-22": {
+      "url": "https://roxiestreams.info/soccer-streams-22",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/soccer-streams-3": {
+      "url": "https://roxiestreams.info/soccer-streams-3",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Stream 2",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
     "https://roxiestreams.info/soccer-streams-5": {
       "url": "https://roxiestreams.info/soccer-streams-5",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -3142,8 +4743,8 @@
         }
       ]
     },
-    "https://roxiestreams.info/soccer-streams-7": {
-      "url": "https://roxiestreams.info/soccer-streams-7",
+    "https://roxiestreams.info/soccer-streams-6": {
+      "url": "https://roxiestreams.info/soccer-streams-6",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3158,8 +4759,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
-        "Stream 3 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3210,8 +4809,8 @@
         }
       ]
     },
-    "https://roxiestreams.info/soccer-streams-8": {
-      "url": "https://roxiestreams.info/soccer-streams-8",
+    "https://roxiestreams.info/soccer-streams-7": {
+      "url": "https://roxiestreams.info/soccer-streams-7",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3673,6 +5272,73 @@
         }
       ]
     },
+    "https://roxiestreams.info/wnba-streams-1": {
+      "url": "https://roxiestreams.info/wnba-streams-1",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Stream 2",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
     "https://roxiestreams.info/nba-streams-2": {
       "url": "https://roxiestreams.info/nba-streams-2",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -4070,73 +5736,6 @@
         }
       ]
     },
-    "https://roxiestreams.info/wnba-streams-1": {
-      "url": "https://roxiestreams.info/wnba-streams-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Stream 2",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
     "https://roxiestreams.info/nfl": {
       "url": "https://roxiestreams.info/nfl",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -4180,7 +5779,6 @@
         "Florida International vs Liberty",
         "Utah vs Cincinnati",
         "Virginia vs Wake Forest",
-        "Nevada vs UCLA",
         "South Carolina vs Oklahoma",
         "Purdue vs Penn State",
         "Oklahoma State vs Iowa State",
@@ -4337,10 +5935,6 @@
         {
           "label": "Virginia vs Wake Forest",
           "url": "https://roxiestreams.info/ncaa-streams-3"
-        },
-        {
-          "label": "Nevada vs UCLA",
-          "url": "https://roxiestreams.info/ncaa-streams-10"
         },
         {
           "label": "South Carolina vs Oklahoma",
@@ -4604,72 +6198,6 @@
     },
     "https://roxiestreams.info/ncaa-streams-12": {
       "url": "https://roxiestreams.info/ncaa-streams-12",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/ncaa-streams-13": {
-      "url": "https://roxiestreams.info/ncaa-streams-13",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -6693,8 +8221,76 @@
         }
       ]
     },
-    "https://roxiestreams.info/wwe-streams": {
-      "url": "https://roxiestreams.info/wwe-streams",
+    "https://roxiestreams.info/ufc": {
+      "url": "https://roxiestreams.info/ufc",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1 (STAR+)",
+        "Stream 2 (TNT)",
+        "Stream 3 (Viaplay)",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.info/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.info/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.info/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.info/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.info/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.info/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.info/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.info/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.info/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.info/motogp": {
+      "url": "https://roxiestreams.info/motogp",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -6709,7 +8305,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6766,25 +8361,37 @@
       "pages": [
         "https://roxiestreams.info/soccer",
         "https://roxiestreams.info/soccer-streams-1",
+        "https://roxiestreams.info/soccer-streams-15",
         "https://roxiestreams.info/soccer-streams-2",
-        "https://roxiestreams.info/soccer-streams-6",
-        "https://roxiestreams.info/soccer-streams-10",
-        "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-4",
+        "https://roxiestreams.info/ncaa-streams-13",
+        "https://roxiestreams.info/soccer-streams-10",
+        "https://roxiestreams.info/soccer-streams-11",
+        "https://roxiestreams.info/soccer-streams-12",
+        "https://roxiestreams.info/soccer-streams-13",
+        "https://roxiestreams.info/soccer-streams-14",
+        "https://roxiestreams.info/soccer-streams-16",
+        "https://roxiestreams.info/soccer-streams-17",
+        "https://roxiestreams.info/soccer-streams-18",
+        "https://roxiestreams.info/soccer-streams-19",
+        "https://roxiestreams.info/soccer-streams-20",
+        "https://roxiestreams.info/soccer-streams-21",
+        "https://roxiestreams.info/soccer-streams-22",
+        "https://roxiestreams.info/soccer-streams-3",
         "https://roxiestreams.info/soccer-streams-5",
+        "https://roxiestreams.info/soccer-streams-6",
         "https://roxiestreams.info/soccer-streams-7",
-        "https://roxiestreams.info/soccer-streams-8",
         "https://roxiestreams.info/soccer-streams-9"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/bein4.m3u8",
+          "url": "https://admin2.shadow-ran.online/ncaa12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "bein4.m3u8",
+          "subdomain": "admin2",
+          "path": "ncaa12.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -6793,21 +8400,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Konyaspor vs Galatasaray",
+          "event_title": "Brentford vs Nottingham",
           "matchup": {
-            "home": "Konyaspor",
-            "away": "Galatasaray"
+            "home": "Brentford",
+            "away": "Nottingham"
           },
-          "display_name": "Konyaspor vs Galatasaray - Stream 1"
+          "display_name": "Brentford vs Nottingham - Stream 1"
         },
         {
-          "label": "bein4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
+          "label": "ncaa12.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ncaa12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "bein4.m3u8",
+          "path": "ncaa12.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-1",
             "Origin": "https://roxiestreams.info",
@@ -6816,21 +8423,67 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Konyaspor vs Galatasaray",
+          "event_title": "Brentford vs Nottingham",
           "matchup": {
-            "home": "Konyaspor",
-            "away": "Galatasaray"
+            "home": "Brentford",
+            "away": "Nottingham"
           },
-          "display_name": "Konyaspor vs Galatasaray - bein4.m3u8"
+          "display_name": "Brentford vs Nottingham - ncaa12.m3u8"
         },
         {
-          "label": "Stream 1 (ES)",
-          "url": "https://admin2.shadow-ran.online/beines.m3u8",
+          "label": "Stream 1 (EN)",
+          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Dortmund",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Dortmund"
+          },
+          "display_name": "Bayern München vs Dortmund - Stream 1 (EN)"
+        },
+        {
+          "label": "tsn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Dortmund",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Dortmund"
+          },
+          "display_name": "Bayern München vs Dortmund - tsn.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "beines.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -6839,44 +8492,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Lille vs Lens",
+          "event_title": "Stoke City vs Preston North End",
           "matchup": {
-            "home": "Lille",
-            "away": "Lens"
+            "home": "Stoke City",
+            "away": "Preston North End"
           },
-          "display_name": "Lille vs Lens - Stream 1 (ES)"
+          "display_name": "Stoke City vs Preston North End - Stream 1"
         },
         {
-          "label": "Stream 2 (EN)",
-          "url": "https://tedesco.shadow-ran.online/bein.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "bein.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-2",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Lille vs Lens",
-          "matchup": {
-            "home": "Lille",
-            "away": "Lens"
-          },
-          "display_name": "Lille vs Lens - Stream 2 (EN)"
-        },
-        {
-          "label": "beines.m3u8",
-          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "beines.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -6885,67 +8515,87 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Lille vs Lens",
+          "event_title": "Stoke City vs Preston North End",
           "matchup": {
-            "home": "Lille",
-            "away": "Lens"
+            "home": "Stoke City",
+            "away": "Preston North End"
           },
-          "display_name": "Lille vs Lens - beines.m3u8"
+          "display_name": "Stoke City vs Preston North End - main.m3u8"
         },
         {
           "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-6",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
           "path": "dep.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-6",
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Villarreal vs Espanyol",
+          "event_title": "Barcelona vs Deportivo Alavés",
           "matchup": {
-            "home": "Villarreal",
-            "away": "Espanyol"
+            "home": "Barcelona",
+            "away": "Deportivo Alavés"
           },
-          "display_name": "Villarreal vs Espanyol - Stream 1"
+          "display_name": "Barcelona vs Deportivo Alavés - Stream 1"
         },
         {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-6",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
           "path": "dep.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-6",
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Villarreal vs Espanyol",
+          "event_title": "Barcelona vs Deportivo Alavés",
           "matchup": {
-            "home": "Villarreal",
-            "away": "Espanyol"
+            "home": "Barcelona",
+            "away": "Deportivo Alavés"
           },
-          "display_name": "Villarreal vs Espanyol - dep.m3u8"
+          "display_name": "Barcelona vs Deportivo Alavés - dep.m3u8"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ncaa-streams-13",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ncaa-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Udinense vs Roma",
+          "matchup": {
+            "home": "Udinense",
+            "away": "Roma"
+          },
+          "display_name": "Udinense vs Roma"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+          "url": "https://admin2.shadow-ran.online/peacock4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "aztecadeportes.m3u8",
+          "path": "peacock4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -6954,21 +8604,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Puebla vs Pumas",
+          "event_title": "Hull vs Ipswich Town",
           "matchup": {
-            "home": "Puebla",
-            "away": "Pumas"
+            "home": "Hull",
+            "away": "Ipswich Town"
           },
-          "display_name": "Puebla vs Pumas - Stream 1"
+          "display_name": "Hull vs Ipswich Town - Stream 1"
         },
         {
-          "label": "aztecadeportes.m3u8",
-          "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
+          "label": "peacock4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/peacock4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "aztecadeportes.m3u8",
+          "path": "peacock4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-10",
             "Origin": "https://roxiestreams.info",
@@ -6977,18 +8627,527 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Puebla vs Pumas",
+          "event_title": "Hull vs Ipswich Town",
           "matchup": {
-            "home": "Puebla",
-            "away": "Pumas"
+            "home": "Hull",
+            "away": "Ipswich Town"
           },
-          "display_name": "Puebla vs Pumas - aztecadeportes.m3u8"
+          "display_name": "Hull vs Ipswich Town - peacock4.m3u8"
         },
         {
-          "label": "Direct Link",
-          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/prem.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "prem.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Manchester City vs Brighton",
+          "matchup": {
+            "home": "Manchester City",
+            "away": "Brighton"
+          },
+          "display_name": "Manchester City vs Brighton - Stream 1"
+        },
+        {
+          "label": "prem.m3u8",
+          "url": "https://daffodil.shadow-ran.online/prem.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "prem.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-11",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Manchester City vs Brighton",
+          "matchup": {
+            "home": "Manchester City",
+            "away": "Brighton"
+          },
+          "display_name": "Manchester City vs Brighton - prem.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wolves.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-12",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wolves.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-12",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Wolves vs Cardiff City",
+          "matchup": {
+            "home": "Wolves",
+            "away": "Cardiff City"
+          },
+          "display_name": "Wolves vs Cardiff City - Stream 1"
+        },
+        {
+          "label": "wolves.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wolves.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-12",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wolves.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-12",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Wolves vs Cardiff City",
+          "matchup": {
+            "home": "Wolves",
+            "away": "Cardiff City"
+          },
+          "display_name": "Wolves vs Cardiff City - wolves.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/gill.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "gill.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Gillingham vs Shrewbury Town",
+          "matchup": {
+            "home": "Gillingham",
+            "away": "Shrewbury Town"
+          },
+          "display_name": "Gillingham vs Shrewbury Town - Stream 1"
+        },
+        {
+          "label": "gill.m3u8",
+          "url": "https://daffodil.shadow-ran.online/gill.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "gill.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-13",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Gillingham vs Shrewbury Town",
+          "matchup": {
+            "home": "Gillingham",
+            "away": "Shrewbury Town"
+          },
+          "display_name": "Gillingham vs Shrewbury Town - gill.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tottenham vs Crystal Palace",
+          "matchup": {
+            "home": "Tottenham",
+            "away": "Crystal Palace"
+          },
+          "display_name": "Tottenham vs Crystal Palace - Stream 1"
+        },
+        {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tottenham vs Crystal Palace",
+          "matchup": {
+            "home": "Tottenham",
+            "away": "Crystal Palace"
+          },
+          "display_name": "Tottenham vs Crystal Palace - mls.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/fana4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-16",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-16",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Rangers vs Aberdeen",
+          "matchup": {
+            "home": "Rangers",
+            "away": "Aberdeen"
+          },
+          "display_name": "Rangers vs Aberdeen - Stream 1"
+        },
+        {
+          "label": "fana4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-16",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-16",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Rangers vs Aberdeen",
+          "matchup": {
+            "home": "Rangers",
+            "away": "Aberdeen"
+          },
+          "display_name": "Rangers vs Aberdeen - fana4.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/fana6pt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana6pt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-17",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coritiba vs Vitória",
+          "matchup": {
+            "home": "Coritiba",
+            "away": "Vitória"
+          },
+          "display_name": "Coritiba vs Vitória - Stream 1"
+        },
+        {
+          "label": "fana6pt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana6pt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana6pt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-17",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coritiba vs Vitória",
+          "matchup": {
+            "home": "Coritiba",
+            "away": "Vitória"
+          },
+          "display_name": "Coritiba vs Vitória - fana6pt.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tudnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Milan vs Inter Milan",
+          "matchup": {
+            "home": "Milan",
+            "away": "Inter Milan"
+          },
+          "display_name": "Milan vs Inter Milan - Stream 1"
+        },
+        {
+          "label": "tudnmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tudnmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-18",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Milan vs Inter Milan",
+          "matchup": {
+            "home": "Milan",
+            "away": "Inter Milan"
+          },
+          "display_name": "Milan vs Inter Milan - tudnmx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-19",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "canal5mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-19",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Aston Villa vs Fulham",
+          "matchup": {
+            "home": "Aston Villa",
+            "away": "Fulham"
+          },
+          "display_name": "Aston Villa vs Fulham - Stream 1"
+        },
+        {
+          "label": "canal5mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-19",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "canal5mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-19",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Aston Villa vs Fulham",
+          "matchup": {
+            "home": "Aston Villa",
+            "away": "Fulham"
+          },
+          "display_name": "Aston Villa vs Fulham - canal5mx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/foxone3mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-20",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foxone3mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-20",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "América vs Toluca",
+          "matchup": {
+            "home": "América",
+            "away": "Toluca"
+          },
+          "display_name": "América vs Toluca - Stream 1"
+        },
+        {
+          "label": "foxone3mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxone3mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-20",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxone3mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-20",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "América vs Toluca",
+          "matchup": {
+            "home": "América",
+            "away": "Toluca"
+          },
+          "display_name": "América vs Toluca - foxone3mx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/olympiacos.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-21",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "olympiacos.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-21",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Chivas vs Atlante",
+          "matchup": {
+            "home": "Chivas",
+            "away": "Atlante"
+          },
+          "display_name": "Chivas vs Atlante - Stream 1"
+        },
+        {
+          "label": "olympiacos.m3u8",
+          "url": "https://daffodil.shadow-ran.online/olympiacos.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-21",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "olympiacos.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-21",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Chivas vs Atlante",
+          "matchup": {
+            "home": "Chivas",
+            "away": "Atlante"
+          },
+          "display_name": "Chivas vs Atlante - olympiacos.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/foxone4mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-22",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foxone4mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-22",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "UOlympiacos vs Kifisia",
+          "matchup": {
+            "home": "UOlympiacos",
+            "away": "Kifisia"
+          },
+          "display_name": "UOlympiacos vs Kifisia - Stream 1"
+        },
+        {
+          "label": "foxone4mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxone4mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-22",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxone4mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-22",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "UOlympiacos vs Kifisia",
+          "matchup": {
+            "home": "UOlympiacos",
+            "away": "Kifisia"
+          },
+          "display_name": "UOlympiacos vs Kifisia - foxone4mx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -6997,159 +9156,113 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Nice vs Rennes",
+          "event_title": "West Ham vs West Bromwich Albion",
           "matchup": {
-            "home": "Nice",
-            "away": "Rennes"
+            "home": "West Ham",
+            "away": "West Bromwich Albion"
           },
-          "display_name": "Nice vs Rennes"
+          "display_name": "West Ham vs West Bromwich Albion - Stream 1"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/one.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/birm.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "one.m3u8",
+          "path": "birm.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Elversberg vs Mainz 05",
+          "event_title": "West Ham vs West Bromwich Albion",
           "matchup": {
-            "home": "Elversberg",
-            "away": "Mainz 05"
+            "home": "West Ham",
+            "away": "West Bromwich Albion"
           },
-          "display_name": "Elversberg vs Mainz 05 - Stream 1"
-        },
-        {
-          "label": "one.m3u8",
-          "url": "https://daffodil.shadow-ran.online/one.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "one.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-4",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Elversberg vs Mainz 05",
-          "matchup": {
-            "home": "Elversberg",
-            "away": "Mainz 05"
-          },
-          "display_name": "Elversberg vs Mainz 05 - one.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "golazo.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-5",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Sheffield United vs Wrexham",
-          "matchup": {
-            "home": "Sheffield United",
-            "away": "Wrexham"
-          },
-          "display_name": "Sheffield United vs Wrexham - Stream 1"
+          "display_name": "West Ham vs West Bromwich Albion - Stream 2"
         },
         {
           "label": "golazo.m3u8",
           "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-5",
+          "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
           "path": "golazo.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-5",
+            "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Sheffield United vs Wrexham",
+          "event_title": "West Ham vs West Bromwich Albion",
           "matchup": {
-            "home": "Sheffield United",
-            "away": "Wrexham"
+            "home": "West Ham",
+            "away": "West Bromwich Albion"
           },
-          "display_name": "Sheffield United vs Wrexham - golazo.m3u8"
+          "display_name": "West Ham vs West Bromwich Albion - golazo.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana.m3u8",
+          "url": "https://admin2.shadow-ran.online/one.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "source_page": "https://roxiestreams.info/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "fana.m3u8",
+          "subdomain": "admin2",
+          "path": "one.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Referer": "https://roxiestreams.info/soccer-streams-6",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Corinthians vs Mirassol",
+          "event_title": "Bayer Leverkusen vs Stuttgart",
           "matchup": {
-            "home": "Corinthians",
-            "away": "Mirassol"
+            "home": "Bayer Leverkusen",
+            "away": "Stuttgart"
           },
-          "display_name": "Corinthians vs Mirassol - Stream 1"
+          "display_name": "Bayer Leverkusen vs Stuttgart - Stream 1"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin.shadow-ran.online/l1max.m3u8",
+          "label": "one.m3u8",
+          "url": "https://daffodil.shadow-ran.online/one.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-7",
+          "source_page": "https://roxiestreams.info/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "l1max.m3u8",
+          "subdomain": "daffodil",
+          "path": "one.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-7",
+            "Referer": "https://roxiestreams.info/soccer-streams-6",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Corinthians vs Mirassol",
+          "event_title": "Bayer Leverkusen vs Stuttgart",
           "matchup": {
-            "home": "Corinthians",
-            "away": "Mirassol"
+            "home": "Bayer Leverkusen",
+            "away": "Stuttgart"
           },
-          "display_name": "Corinthians vs Mirassol - Stream 2 (ES)"
+          "display_name": "Bayer Leverkusen vs Stuttgart - one.m3u8"
         },
         {
-          "label": "Stream 3 (RU)",
-          "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/peacock2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "match3ru.m3u8",
+          "path": "peacock2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -7158,21 +9271,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Corinthians vs Mirassol",
+          "event_title": "Bournemouth vs Leeds",
           "matchup": {
-            "home": "Corinthians",
-            "away": "Mirassol"
+            "home": "Bournemouth",
+            "away": "Leeds"
           },
-          "display_name": "Corinthians vs Mirassol - Stream 3 (RU)"
+          "display_name": "Bournemouth vs Leeds - Stream 1"
         },
         {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "label": "peacock2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/peacock2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana.m3u8",
+          "path": "peacock2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-7",
             "Origin": "https://roxiestreams.info",
@@ -7181,67 +9294,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Corinthians vs Mirassol",
+          "event_title": "Bournemouth vs Leeds",
           "matchup": {
-            "home": "Corinthians",
-            "away": "Mirassol"
+            "home": "Bournemouth",
+            "away": "Leeds"
           },
-          "display_name": "Corinthians vs Mirassol - fana.m3u8"
+          "display_name": "Bournemouth vs Leeds - peacock2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foxone7mx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foxone7mx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-8",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Juárez vs Querétaro",
-          "matchup": {
-            "home": "Juárez",
-            "away": "Querétaro"
-          },
-          "display_name": "Juárez vs Querétaro - Stream 1"
-        },
-        {
-          "label": "foxone7mx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foxone7mx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "foxone7mx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-8",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Juárez vs Querétaro",
-          "matchup": {
-            "home": "Juárez",
-            "away": "Querétaro"
-          },
-          "display_name": "Juárez vs Querétaro - foxone7mx.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/vixmx.m3u8",
+          "url": "https://admin2.shadow-ran.online/peacock3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "vixmx.m3u8",
+          "path": "peacock3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -7250,21 +9317,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Atlético San Luis vs Atlas",
+          "event_title": "Coventry City vs Sunderland",
           "matchup": {
-            "home": "Atlético San Luis",
-            "away": "Atlas"
+            "home": "Coventry City",
+            "away": "Sunderland"
           },
-          "display_name": "Atlético San Luis vs Atlas - Stream 1"
+          "display_name": "Coventry City vs Sunderland - Stream 1"
         },
         {
-          "label": "vixmx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vixmx.m3u8",
+          "label": "peacock3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/peacock3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "vixmx.m3u8",
+          "path": "peacock3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -7273,12 +9340,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Atlético San Luis vs Atlas",
+          "event_title": "Coventry City vs Sunderland",
           "matchup": {
-            "home": "Atlético San Luis",
-            "away": "Atlas"
+            "home": "Coventry City",
+            "away": "Sunderland"
           },
-          "display_name": "Atlético San Luis vs Atlas - vixmx.m3u8"
+          "display_name": "Coventry City vs Sunderland - peacock3.m3u8"
         }
       ]
     },
@@ -7363,13 +9430,13 @@
       "pages": [
         "https://roxiestreams.info/nba",
         "https://roxiestreams.info/nba-streams-1",
+        "https://roxiestreams.info/wnba-streams-1",
         "https://roxiestreams.info/nba-streams-2",
         "https://roxiestreams.info/nba-streams-3",
         "https://roxiestreams.info/nba-streams-4",
         "https://roxiestreams.info/nba-streams-5",
         "https://roxiestreams.info/nba-streams-6",
-        "https://roxiestreams.info/nba-streams-7",
-        "https://roxiestreams.info/wnba-streams-1"
+        "https://roxiestreams.info/nba-streams-7"
       ],
       "streams": [
         {
@@ -7417,6 +9484,75 @@
             "away": "Utah Jazz"
           },
           "display_name": "Portland Trail Blazers vs Utah Jazz - nba.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wnba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wnba-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Atlanta Dream vs Golden State Valkyries",
+          "matchup": {
+            "home": "Atlanta Dream",
+            "away": "Golden State Valkyries"
+          },
+          "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wnba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wnba-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Atlanta Dream vs Golden State Valkyries",
+          "matchup": {
+            "home": "Atlanta Dream",
+            "away": "Golden State Valkyries"
+          },
+          "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 2"
+        },
+        {
+          "label": "wnba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wnba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wnba-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Atlanta Dream vs Golden State Valkyries",
+          "matchup": {
+            "home": "Atlanta Dream",
+            "away": "Golden State Valkyries"
+          },
+          "display_name": "Atlanta Dream vs Golden State Valkyries - wnba.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7716,75 +9852,6 @@
             "away": "Houston Rockets"
           },
           "display_name": "Oklahoma City Thunder vs Houston Rockets - nba7.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "wnba.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Atlanta Dream vs Golden State Valkyries",
-          "matchup": {
-            "home": "Atlanta Dream",
-            "away": "Golden State Valkyries"
-          },
-          "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wnba.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Atlanta Dream vs Golden State Valkyries",
-          "matchup": {
-            "home": "Atlanta Dream",
-            "away": "Golden State Valkyries"
-          },
-          "display_name": "Atlanta Dream vs Golden State Valkyries - Stream 2"
-        },
-        {
-          "label": "wnba.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wnba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "wnba.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wnba-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Atlanta Dream vs Golden State Valkyries",
-          "matchup": {
-            "home": "Atlanta Dream",
-            "away": "Golden State Valkyries"
-          },
-          "display_name": "Atlanta Dream vs Golden State Valkyries - wnba.m3u8"
         }
       ]
     },
@@ -8023,11 +10090,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
+          "url": "https://admin.shadow-ran.online/ncaa2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin",
           "path": "ncaa2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-2",
@@ -8584,11 +10651,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ppv-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "ppv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ppv-streams-1",
@@ -8687,23 +10754,58 @@
       "pages": [
         "https://roxiestreams.info/multiview"
       ],
+      "streams": []
+    },
+    "ppv": {
+      "pages": [
+        "https://roxiestreams.info/ppv-streams-1"
+      ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/multiview",
+          "source_page": "https://roxiestreams.info/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "ppv.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/multiview",
+            "Referer": "https://roxiestreams.info/ppv-streams-1",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "multiview",
-          "event_title": "MultiView (NEW)",
-          "matchup": null,
-          "display_name": "MultiView (NEW)"
+          "sport": "ppv",
+          "event_title": "Canelo vs. Mbilli: Mexico vs. The World",
+          "matchup": {
+            "home": "Canelo",
+            "away": "Mbilli: Mexico vs. The World"
+          },
+          "display_name": "Canelo vs. Mbilli: Mexico vs. The World - Stream 1"
+        },
+        {
+          "label": "ppv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ppv-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "Canelo vs. Mbilli: Mexico vs. The World",
+          "matchup": {
+            "home": "Canelo",
+            "away": "Mbilli: Mexico vs. The World"
+          },
+          "display_name": "Canelo vs. Mbilli: Mexico vs. The World - ppv.m3u8"
         }
       ]
     },
@@ -8774,75 +10876,154 @@
         }
       ]
     },
-    "wwe": {
+    "ufc": {
       "pages": [
-        "https://roxiestreams.info/wwe-streams"
+        "https://roxiestreams.info/ufc"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1 (STAR+)",
+          "url": "https://temp.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Moicano vs. Nolan",
+          "matchup": {
+            "home": "UFC FN: Moicano",
+            "away": "Nolan"
+          },
+          "display_name": "UFC FN: Moicano vs. Nolan - Stream 1 (STAR+)"
+        },
+        {
+          "label": "Stream 2 (TNT)",
+          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tnt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Moicano vs. Nolan",
+          "matchup": {
+            "home": "UFC FN: Moicano",
+            "away": "Nolan"
+          },
+          "display_name": "UFC FN: Moicano vs. Nolan - Stream 2 (TNT)"
+        },
+        {
+          "label": "Stream 3 (Viaplay)",
+          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Moicano vs. Nolan",
+          "matchup": {
+            "home": "UFC FN: Moicano",
+            "away": "Nolan"
+          },
+          "display_name": "UFC FN: Moicano vs. Nolan - Stream 3 (Viaplay)"
+        },
+        {
+          "label": "abbiecadabrii.m3u8",
+          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Moicano vs. Nolan",
+          "matchup": {
+            "home": "UFC FN: Moicano",
+            "away": "Nolan"
+          },
+          "display_name": "UFC FN: Moicano vs. Nolan - abbiecadabrii.m3u8"
+        }
+      ]
+    },
+    "motogp": {
+      "pages": [
+        "https://roxiestreams.info/motogp"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin2.shadow-ran.online/tnt2.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wwe-streams",
+          "source_page": "https://roxiestreams.info/motogp",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "wwe.m3u8",
+          "path": "tnt2.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/wwe-streams",
+            "Referer": "https://roxiestreams.info/motogp",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
+          "sport": "motogp",
+          "event_title": "MotoGP - Malaysia Grand Prix",
           "matchup": null,
-          "display_name": "WWE Smackdown - Stream 1"
+          "display_name": "MotoGP - Malaysia Grand Prix - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "label": "tnt2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tnt2.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wwe-streams",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
-          "matchup": null,
-          "display_name": "WWE Smackdown - Stream 2"
-        },
-        {
-          "label": "wwe.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wwe-streams",
+          "source_page": "https://roxiestreams.info/motogp",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "wwe.m3u8",
+          "path": "tnt2.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/wwe-streams",
+            "Referer": "https://roxiestreams.info/motogp",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
+          "sport": "motogp",
+          "event_title": "MotoGP - Malaysia Grand Prix",
           "matchup": null,
-          "display_name": "WWE Smackdown - wwe.m3u8"
+          "display_name": "MotoGP - Malaysia Grand Prix - tnt2.m3u8"
         }
       ]
     }
   },
-  "stream_count": 89,
+  "stream_count": 113,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
