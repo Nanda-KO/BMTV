@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02T10:03:39+00:00",
+  "scraped_at": "2026-11-02T20:20:39+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -91,12 +91,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/dep.m3u8",
+            "url": "https://tedesco.shadow-ran.online/xtraes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "dep.m3u8",
+            "subdomain": "tedesco",
+            "path": "xtraes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -113,13 +113,13 @@
             "display_name": "Lorient vs Brest - Stream 1"
           },
           {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+            "label": "xtraes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/xtraes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "dep.m3u8",
+            "path": "xtraes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -133,7 +133,7 @@
               "home": "Lorient",
               "away": "Brest"
             },
-            "display_name": "Lorient vs Brest - dep.m3u8"
+            "display_name": "Lorient vs Brest - xtraes.m3u8"
           }
         ]
       },
@@ -168,6 +168,29 @@
               "away": "Everton"
             },
             "display_name": "Newcastle United vs Everton - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-4",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Newcastle United vs Everton",
+            "matchup": {
+              "home": "Newcastle United",
+              "away": "Everton"
+            },
+            "display_name": "Newcastle United vs Everton - Stream 2"
           },
           {
             "label": "main.m3u8",
@@ -205,12 +228,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foot.m3u8",
+            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foot.m3u8",
+            "subdomain": "tedesco",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -227,13 +250,13 @@
             "display_name": "Deportivo La Coruña vs Osasuna - Stream 1"
           },
           {
-            "label": "foot.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+            "label": "dep.m3u8",
+            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foot.m3u8",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-3",
               "Origin": "https://roxiestreams.info",
@@ -247,7 +270,7 @@
               "home": "Deportivo La Coruña",
               "away": "Osasuna"
             },
-            "display_name": "Deportivo La Coruña vs Osasuna - foot.m3u8"
+            "display_name": "Deportivo La Coruña vs Osasuna - dep.m3u8"
           }
         ]
       },
@@ -282,6 +305,29 @@
               "away": "Alverca"
             },
             "display_name": "Benfica vs Alverca - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/bein.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "bein.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-5",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Benfica vs Alverca",
+            "matchup": {
+              "home": "Benfica",
+              "away": "Alverca"
+            },
+            "display_name": "Benfica vs Alverca - Stream 2 (EN)"
           },
           {
             "label": "beines.m3u8",
@@ -2111,6 +2157,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2243,6 +2290,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4520,12 +4568,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/dep.m3u8",
+          "url": "https://tedesco.shadow-ran.online/xtraes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "dep.m3u8",
+          "subdomain": "tedesco",
+          "path": "xtraes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -4542,13 +4590,13 @@
           "display_name": "Lorient vs Brest - Stream 1"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+          "label": "xtraes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/xtraes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "dep.m3u8",
+          "path": "xtraes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -4562,7 +4610,7 @@
             "home": "Lorient",
             "away": "Brest"
           },
-          "display_name": "Lorient vs Brest - dep.m3u8"
+          "display_name": "Lorient vs Brest - xtraes.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4586,6 +4634,29 @@
             "away": "Everton"
           },
           "display_name": "Newcastle United vs Everton - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-4",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Newcastle United vs Everton",
+          "matchup": {
+            "home": "Newcastle United",
+            "away": "Everton"
+          },
+          "display_name": "Newcastle United vs Everton - Stream 2"
         },
         {
           "label": "main.m3u8",
@@ -4612,12 +4683,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foot.m3u8",
+          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foot.m3u8",
+          "subdomain": "tedesco",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -4634,13 +4705,13 @@
           "display_name": "Deportivo La Coruña vs Osasuna - Stream 1"
         },
         {
-          "label": "foot.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+          "label": "dep.m3u8",
+          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foot.m3u8",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-3",
             "Origin": "https://roxiestreams.info",
@@ -4654,7 +4725,7 @@
             "home": "Deportivo La Coruña",
             "away": "Osasuna"
           },
-          "display_name": "Deportivo La Coruña vs Osasuna - foot.m3u8"
+          "display_name": "Deportivo La Coruña vs Osasuna - dep.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4678,6 +4749,29 @@
             "away": "Alverca"
           },
           "display_name": "Benfica vs Alverca - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/bein.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "bein.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-5",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Benfica vs Alverca",
+          "matchup": {
+            "home": "Benfica",
+            "away": "Alverca"
+          },
+          "display_name": "Benfica vs Alverca - Stream 2 (EN)"
         },
         {
           "label": "beines.m3u8",
@@ -6049,7 +6143,7 @@
       ]
     }
   },
-  "stream_count": 66,
+  "stream_count": 68,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
