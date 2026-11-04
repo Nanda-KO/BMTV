@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-03T22:46:18+00:00",
+  "scraped_at": "2026-11-04T02:51:10+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -347,12 +347,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mls.m3u8",
+            "url": "https://admin.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mls.m3u8",
+            "subdomain": "admin",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -369,13 +369,13 @@
             "display_name": "Internacional vs Coritiba - Stream 1"
           },
           {
-            "label": "mls.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "label": "Stream 2 (RU)",
+            "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mls.m3u8",
+            "subdomain": "admin2",
+            "path": "match3ru.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-14",
               "Origin": "https://roxiestreams.info",
@@ -389,7 +389,30 @@
               "home": "Internacional",
               "away": "Coritiba"
             },
-            "display_name": "Internacional vs Coritiba - mls.m3u8"
+            "display_name": "Internacional vs Coritiba - Stream 2 (RU)"
+          },
+          {
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-14",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Internacional vs Coritiba",
+            "matchup": {
+              "home": "Internacional",
+              "away": "Coritiba"
+            },
+            "display_name": "Internacional vs Coritiba - fana2.m3u8"
           }
         ]
       },
@@ -1697,11 +1720,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "ncaa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -1901,7 +1924,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-11",
             "headers": {
@@ -2134,7 +2157,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+            "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-6",
             "headers": {
@@ -2155,6 +2178,37 @@
         ]
       },
       {
+        "title": "Dallas Stars vs Washington Capitals",
+        "sport": "nhl",
+        "matchup": {
+          "home": "Dallas Stars",
+          "away": "Washington Capitals"
+        },
+        "page": "https://roxiestreams.info/nhl-streams-7",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nhl-streams-7",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nhl-streams-7",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Dallas Stars vs Washington Capitals",
+            "matchup": {
+              "home": "Dallas Stars",
+              "away": "Washington Capitals"
+            },
+            "display_name": "Dallas Stars vs Washington Capitals"
+          }
+        ]
+      },
+      {
         "title": "Colorado Avalanche vs Columbus Blue Jackets",
         "sport": "nhl",
         "matchup": {
@@ -2165,7 +2219,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/nhl8.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-8",
             "headers": {
@@ -2351,26 +2405,6 @@
             "event_title": "WWE NXT",
             "matchup": null,
             "display_name": "WWE NXT - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wwe-streams",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -2591,26 +2625,6 @@
             "event_title": "WWE NXT",
             "matchup": null,
             "display_name": "WWE NXT - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wwe-streams",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -3196,6 +3210,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6122,7 +6137,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6656,12 +6670,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mls.m3u8",
+          "url": "https://admin.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mls.m3u8",
+          "subdomain": "admin",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -6678,13 +6692,13 @@
           "display_name": "Internacional vs Coritiba - Stream 1"
         },
         {
-          "label": "mls.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "label": "Stream 2 (RU)",
+          "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mls.m3u8",
+          "subdomain": "admin2",
+          "path": "match3ru.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-14",
             "Origin": "https://roxiestreams.info",
@@ -6698,7 +6712,30 @@
             "home": "Internacional",
             "away": "Coritiba"
           },
-          "display_name": "Internacional vs Coritiba - mls.m3u8"
+          "display_name": "Internacional vs Coritiba - Stream 2 (RU)"
+        },
+        {
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-14",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Internacional vs Coritiba",
+          "matchup": {
+            "home": "Internacional",
+            "away": "Coritiba"
+          },
+          "display_name": "Internacional vs Coritiba - fana2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7787,11 +7824,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "ncaa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ncaa-streams-1",
@@ -7963,7 +8000,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-11",
           "headers": {
@@ -8141,7 +8178,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+          "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-6",
           "headers": {
@@ -8161,7 +8198,27 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/nhl8.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nhl-streams-7",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nhl-streams-7",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Dallas Stars vs Washington Capitals",
+          "matchup": {
+            "home": "Dallas Stars",
+            "away": "Washington Capitals"
+          },
+          "display_name": "Dallas Stars vs Washington Capitals"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-8",
           "headers": {
@@ -8327,26 +8384,6 @@
           "event_title": "WWE NXT",
           "matchup": null,
           "display_name": "WWE NXT - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wwe-streams",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -8560,26 +8597,6 @@
           "event_title": "WWE NXT",
           "matchup": null,
           "display_name": "WWE NXT - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wwe-streams",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
         },
         {
           "label": "wwe.m3u8",

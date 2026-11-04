@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-11-03T22:46:18+00:00
+# RoxieStreams Playlist - generated 2026-11-04T02:51:10+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Shakhtar Donetsk vs Sporting CP - Stream 1" group-title="SOCCER - Shakhtar Donetsk vs Sporting CP",Shakhtar Donetsk vs Sporting CP - Stream 1
@@ -108,16 +108,25 @@ https://daffodil.shadow-ran.online/fana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-14","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/mls.m3u8
+https://admin.shadow-ran.online/fana2.m3u8
 
-#EXTINF:-1 tvg-name="Internacional vs Coritiba - mls.m3u8" group-title="SOCCER - Internacional vs Coritiba",Internacional vs Coritiba - mls.m3u8
+#EXTINF:-1 tvg-name="Internacional vs Coritiba - Stream 2 (RU)" group-title="SOCCER - Internacional vs Coritiba",Internacional vs Coritiba - Stream 2 (RU)
 #EXTGRP:SOCCER - Internacional vs Coritiba
 #EXTDESC:Internacional vs Coritiba
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-14","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/mls.m3u8
+https://admin2.shadow-ran.online/match3ru.m3u8
+
+#EXTINF:-1 tvg-name="Internacional vs Coritiba - fana2.m3u8" group-title="SOCCER - Internacional vs Coritiba",Internacional vs Coritiba - fana2.m3u8
+#EXTGRP:SOCCER - Internacional vs Coritiba
+#EXTDESC:Internacional vs Coritiba
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-14","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/fana2.m3u8
 
 #EXTINF:-1 tvg-name="UEFA Goals Shows - Stream 1" group-title="SOCCER - UEFA Goals Shows",UEFA Goals Shows - Stream 1
 #EXTGRP:SOCCER - UEFA Goals Shows
@@ -540,7 +549,7 @@ https://daffodil.shadow-ran.online/nba9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fncaa-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/ncaa-streams-1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/ncaa.m3u8
+https://tedesco.shadow-ran.online/ncaa.m3u8
 
 #EXTINF:-1 tvg-name="Ohio vs Akron - ncaa.m3u8" group-title="NFL - Ohio vs Akron",Ohio vs Akron - ncaa.m3u8
 #EXTGRP:NFL - Ohio vs Akron
@@ -603,7 +612,7 @@ https://admin2.formaturamaxi.com.br/nhl10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnhl-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nhl-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
+https://admin2.formaturamaxi.com.br/nhl11.m3u8
 
 #EXTINF:-1 tvg-name="Winnipeg Jets vs Montreal Canadiens - Stream 1" group-title="NHL - Winnipeg Jets vs Montreal Canadiens",Winnipeg Jets vs Montreal Canadiens - Stream 1
 #EXTGRP:NHL - Winnipeg Jets vs Montreal Canadiens
@@ -675,7 +684,16 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnhl-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nhl-streams-6","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/nhl6.m3u8
+https://tedesco.formaturamaxi.com.br/nhl6.m3u8
+
+#EXTINF:-1 tvg-name="Dallas Stars vs Washington Capitals" group-title="NHL - Dallas Stars vs Washington Capitals",Dallas Stars vs Washington Capitals
+#EXTGRP:NHL - Dallas Stars vs Washington Capitals
+#EXTDESC:Dallas Stars vs Washington Capitals
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnhl-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/nhl-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
 
 #EXTINF:-1 tvg-name="Colorado Avalanche vs Columbus Blue Jackets" group-title="NHL - Colorado Avalanche vs Columbus Blue Jackets",Colorado Avalanche vs Columbus Blue Jackets
 #EXTGRP:NHL - Colorado Avalanche vs Columbus Blue Jackets
@@ -684,7 +702,7 @@ https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnhl-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/nhl-streams-8","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.formaturamaxi.com.br/nhl8.m3u8
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 
 #EXTINF:-1 tvg-name="Edmonton Oilers vs New Jersey Devils" group-title="NHL - Edmonton Oilers vs New Jersey Devils",Edmonton Oilers vs New Jersey Devils
 #EXTGRP:NHL - Edmonton Oilers vs New Jersey Devils
@@ -748,15 +766,6 @@ https://daffodil.shadow-ran.online/cnn.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wwe.m3u8
-
-#EXTINF:-1 tvg-name="WWE NXT - Stream 2" group-title="FIGHTING - WWE NXT",WWE NXT - Stream 2
-#EXTGRP:FIGHTING - WWE NXT
-#EXTDESC:WWE NXT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/wwe.m3u8
 
 #EXTINF:-1 tvg-name="WWE NXT - wwe.m3u8" group-title="FIGHTING - WWE NXT",WWE NXT - wwe.m3u8
 #EXTGRP:FIGHTING - WWE NXT
@@ -838,15 +847,6 @@ https://daffodil.shadow-ran.online/cnn.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wwe.m3u8
-
-#EXTINF:-1 tvg-name="WWE NXT - Stream 2" group-title="WWE - WWE NXT",WWE NXT - Stream 2
-#EXTGRP:WWE - WWE NXT
-#EXTDESC:WWE NXT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/wwe.m3u8
 
 #EXTINF:-1 tvg-name="WWE NXT - wwe.m3u8" group-title="WWE - WWE NXT",WWE NXT - wwe.m3u8
 #EXTGRP:WWE - WWE NXT
