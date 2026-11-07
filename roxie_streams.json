@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-06T21:12:17+00:00",
+  "scraped_at": "2026-11-07T00:59:06+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -285,6 +285,63 @@
         ]
       },
       {
+        "title": "Atlético San Luis vs Juárez",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Atlético San Luis",
+          "away": "Juárez"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-10",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/vix2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "vix2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-10",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético San Luis vs Juárez",
+            "matchup": {
+              "home": "Atlético San Luis",
+              "away": "Juárez"
+            },
+            "display_name": "Atlético San Luis vs Juárez - Stream 1"
+          },
+          {
+            "label": "vix2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vix2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "vix2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-10",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético San Luis vs Juárez",
+            "matchup": {
+              "home": "Atlético San Luis",
+              "away": "Juárez"
+            },
+            "display_name": "Atlético San Luis vs Juárez - vix2.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Atlante vs Santos Laguna",
         "sport": "soccer",
         "matchup": {
@@ -490,6 +547,63 @@
         ]
       },
       {
+        "title": "Vitória vs Fluminense",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Vitória",
+          "away": "Fluminense"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-8",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Vitória vs Fluminense",
+            "matchup": {
+              "home": "Vitória",
+              "away": "Fluminense"
+            },
+            "display_name": "Vitória vs Fluminense - Stream 1"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-8",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Vitória vs Fluminense",
+            "matchup": {
+              "home": "Vitória",
+              "away": "Fluminense"
+            },
+            "display_name": "Vitória vs Fluminense - fana.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Necaxa vs Tijuana",
         "sport": "soccer",
         "matchup": {
@@ -500,12 +614,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/tnt3.m3u8",
+            "url": "https://admin2.shadow-ran.online/vix.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tnt3.m3u8",
+            "subdomain": "admin2",
+            "path": "vix.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -522,36 +636,13 @@
             "display_name": "Necaxa vs Tijuana - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/prem.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "prem.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-9",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Necaxa vs Tijuana",
-            "matchup": {
-              "home": "Necaxa",
-              "away": "Tijuana"
-            },
-            "display_name": "Necaxa vs Tijuana - Stream 2"
-          },
-          {
-            "label": "tnt3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tnt3.m3u8",
+            "label": "vix.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vix.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tnt3.m3u8",
+            "path": "vix.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-9",
               "Origin": "https://roxiestreams.info",
@@ -565,7 +656,7 @@
               "home": "Necaxa",
               "away": "Tijuana"
             },
-            "display_name": "Necaxa vs Tijuana - tnt3.m3u8"
+            "display_name": "Necaxa vs Tijuana - vix.m3u8"
           }
         ]
       }
@@ -1324,29 +1415,6 @@
             "display_name": "Columbus Blue Jackets vs Buffalo Sabres - Stream 1"
           },
           {
-            "label": "Stream 2 (FR)",
-            "url": "https://admin2.shadow-ran.online/rds.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nhl-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "rds.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nhl-streams-1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Columbus Blue Jackets vs Buffalo Sabres",
-            "matchup": {
-              "home": "Columbus Blue Jackets",
-              "away": "Buffalo Sabres"
-            },
-            "display_name": "Columbus Blue Jackets vs Buffalo Sabres - Stream 2 (FR)"
-          },
-          {
             "label": "nhl.m3u8",
             "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
@@ -1552,11 +1620,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin22.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin22",
+            "subdomain": "admin2",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/wwe-streams",
@@ -1569,6 +1637,26 @@
             "event_title": "WWE Crown Jewel",
             "matchup": null,
             "display_name": "WWE Crown Jewel - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wwe-streams",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE Crown Jewel",
+            "matchup": null,
+            "display_name": "WWE Crown Jewel - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -1721,11 +1809,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin22.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin22",
+            "subdomain": "admin2",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/wwe-streams",
@@ -1738,6 +1826,26 @@
             "event_title": "WWE Crown Jewel",
             "matchup": null,
             "display_name": "WWE Crown Jewel - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/wwe-streams",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Crown Jewel",
+            "matchup": null,
+            "display_name": "WWE Crown Jewel - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -2563,7 +2671,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3834,7 +3941,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2 (FR)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4180,6 +4286,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4678,6 +4785,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/vix2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "vix2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-10",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético San Luis vs Juárez",
+          "matchup": {
+            "home": "Atlético San Luis",
+            "away": "Juárez"
+          },
+          "display_name": "Atlético San Luis vs Juárez - Stream 1"
+        },
+        {
+          "label": "vix2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vix2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "vix2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-10",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético San Luis vs Juárez",
+          "matchup": {
+            "home": "Atlético San Luis",
+            "away": "Juárez"
+          },
+          "display_name": "Atlético San Luis vs Juárez - vix2.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-11",
@@ -4839,12 +4992,58 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/tnt3.m3u8",
+          "url": "https://tedesco.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Vitória vs Fluminense",
+          "matchup": {
+            "home": "Vitória",
+            "away": "Fluminense"
+          },
+          "display_name": "Vitória vs Fluminense - Stream 1"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-8",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Vitória vs Fluminense",
+          "matchup": {
+            "home": "Vitória",
+            "away": "Fluminense"
+          },
+          "display_name": "Vitória vs Fluminense - fana.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/vix.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tnt3.m3u8",
+          "subdomain": "admin2",
+          "path": "vix.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -4861,36 +5060,13 @@
           "display_name": "Necaxa vs Tijuana - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/prem.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "prem.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-9",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Necaxa vs Tijuana",
-          "matchup": {
-            "home": "Necaxa",
-            "away": "Tijuana"
-          },
-          "display_name": "Necaxa vs Tijuana - Stream 2"
-        },
-        {
-          "label": "tnt3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tnt3.m3u8",
+          "label": "vix.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vix.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tnt3.m3u8",
+          "path": "vix.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-9",
             "Origin": "https://roxiestreams.info",
@@ -4904,7 +5080,7 @@
             "home": "Necaxa",
             "away": "Tijuana"
           },
-          "display_name": "Necaxa vs Tijuana - tnt3.m3u8"
+          "display_name": "Necaxa vs Tijuana - vix.m3u8"
         }
       ]
     },
@@ -5545,29 +5721,6 @@
           "display_name": "Columbus Blue Jackets vs Buffalo Sabres - Stream 1"
         },
         {
-          "label": "Stream 2 (FR)",
-          "url": "https://admin2.shadow-ran.online/rds.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nhl-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "rds.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nhl-streams-1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Columbus Blue Jackets vs Buffalo Sabres",
-          "matchup": {
-            "home": "Columbus Blue Jackets",
-            "away": "Buffalo Sabres"
-          },
-          "display_name": "Columbus Blue Jackets vs Buffalo Sabres - Stream 2 (FR)"
-        },
-        {
           "label": "nhl.m3u8",
           "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
@@ -5739,11 +5892,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin22.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin22",
+          "subdomain": "admin2",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/wwe-streams",
@@ -5756,6 +5909,26 @@
           "event_title": "WWE Crown Jewel",
           "matchup": null,
           "display_name": "WWE Crown Jewel - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wwe-streams",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE Crown Jewel",
+          "matchup": null,
+          "display_name": "WWE Crown Jewel - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -5898,11 +6071,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin22.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin22",
+          "subdomain": "admin2",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/wwe-streams",
@@ -5915,6 +6088,26 @@
           "event_title": "WWE Crown Jewel",
           "matchup": null,
           "display_name": "WWE Crown Jewel - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/wwe-streams",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Crown Jewel",
+          "matchup": null,
+          "display_name": "WWE Crown Jewel - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -5939,7 +6132,7 @@
       ]
     }
   },
-  "stream_count": 61,
+  "stream_count": 65,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
