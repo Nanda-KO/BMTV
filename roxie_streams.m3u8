@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-11-09T10:46:24+00:00
+# RoxieStreams Playlist - generated 2026-11-09T21:14:49+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Anaitasuna FT vs Deportivo Alavés - Stream 1" group-title="SOCCER - Anaitasuna FT vs Deportivo Alavés",Anaitasuna FT vs Deportivo Alavés - Stream 1
@@ -37,15 +37,6 @@ https://admin2.shadow-ran.online/prem.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-3","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/prem.m3u8
-
-#EXTINF:-1 tvg-name="RIZIN 55" group-title="MLB - RIZIN 55",RIZIN 55
-#EXTGRP:MLB - RIZIN 55
-#EXTDESC:RIZIN 55
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fmlb-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/mlb-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/mlb5.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Lakers vs Atlanta Hawks - Stream 1" group-title="NBA - Los Angeles Lakers vs Atlanta Hawks",Los Angeles Lakers vs Atlanta Hawks - Stream 1
 #EXTGRP:NBA - Los Angeles Lakers vs Atlanta Hawks
@@ -326,47 +317,20 @@ https://admin2.shadow-ran.online/aew.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/aew","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/aew.m3u8
 
-#EXTINF:-1 tvg-name="WEC - 6 Hours of Monza" group-title="WEC - WEC - 6 Hours of Monza",WEC - 6 Hours of Monza
-#EXTGRP:WEC - WEC - 6 Hours of Monza
-#EXTDESC:WEC - 6 Hours of Monza
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wec
+#EXTINF:-1 tvg-name="WWE NXT - Stream 1" group-title="WWE - WWE NXT",WWE NXT - Stream 1
+#EXTGRP:WWE - WWE NXT
+#EXTDESC:WWE NXT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwec&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/wec","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://temp.shadow-ran.online/usa.m3u8
 
-#EXTINF:-1 tvg-name="Formula 1 - Sao Paulo Grand Prix - Stream 1" group-title="F1 - Formula 1 - Sao Paulo Grand Prix",Formula 1 - Sao Paulo Grand Prix - Stream 1
-#EXTGRP:F1 - Formula 1 - Sao Paulo Grand Prix
-#EXTDESC:Formula 1 - Sao Paulo Grand Prix
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTINF:-1 tvg-name="WWE NXT - usa.m3u8" group-title="WWE - WWE NXT",WWE NXT - usa.m3u8
+#EXTGRP:WWE - WWE NXT
+#EXTDESC:WWE NXT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/f1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/f1.m3u8
-
-#EXTINF:-1 tvg-name="Formula 1 - Sao Paulo Grand Prix - Stream 2" group-title="F1 - Formula 1 - Sao Paulo Grand Prix",Formula 1 - Sao Paulo Grand Prix - Stream 2
-#EXTGRP:F1 - Formula 1 - Sao Paulo Grand Prix
-#EXTDESC:Formula 1 - Sao Paulo Grand Prix
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/f1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/tsn.m3u8
-
-#EXTINF:-1 tvg-name="Formula 1 - Sao Paulo Grand Prix - f1.m3u8" group-title="F1 - Formula 1 - Sao Paulo Grand Prix",Formula 1 - Sao Paulo Grand Prix - f1.m3u8
-#EXTGRP:F1 - Formula 1 - Sao Paulo Grand Prix
-#EXTDESC:Formula 1 - Sao Paulo Grand Prix
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/f1","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/f1.m3u8
-
-#EXTINF:-1 tvg-name="NASCAR Cup Series - Race" group-title="NASCAR - NASCAR Cup Series - Race",NASCAR Cup Series - Race
-#EXTGRP:NASCAR - NASCAR Cup Series - Race
-#EXTDESC:NASCAR Cup Series - Race
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fnascar&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/nascar","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/nas.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/wwe-streams","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/usa.m3u8

@@ -1,44 +1,19 @@
 {
-  "scraped_at": "2026-11-09T10:46:24+00:00",
+  "scraped_at": "2026-11-09T21:14:49+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "RIZIN 55",
-      "page": "https://roxiestreams.info/mlb-streams-5",
-      "start_time": "November 7, 2026 10:00 PM"
+      "name": "WWE RAW",
+      "page": "https://roxiestreams.info/wwe-streams",
+      "start_time": "November 9, 2026 5:00 PM"
     },
     {
-      "name": "WEC - 6 Hours of Monza",
-      "page": "https://roxiestreams.info/wec",
-      "start_time": "November 8, 2026 2:00 AM"
-    },
-    {
-      "name": "Laliga",
-      "page": "https://roxiestreams.info/soccer",
-      "start_time": "November 8, 2026 5:00 AM"
-    },
-    {
-      "name": "Premier League",
-      "page": "https://roxiestreams.info/soccer",
-      "start_time": "November 8, 2026 6:00 AM"
-    },
-    {
-      "name": "NFL",
+      "name": "NFL (MNF)",
       "page": "https://roxiestreams.info/nfl",
-      "start_time": "November 8, 2026 6:30 AM"
-    },
-    {
-      "name": "Formula 1 - Sao Paulo Grand Prix",
-      "page": "https://roxiestreams.info/f1",
-      "start_time": "November 8, 2026 9:00 AM"
-    },
-    {
-      "name": "NASCAR Cup Series - Race",
-      "page": "https://roxiestreams.info/nascar",
-      "start_time": "November 8, 2026 12:00 PM"
+      "start_time": "November 9, 2026 5:15 PM"
     }
   ],
   "events_by_sport": {
@@ -158,33 +133,7 @@
         ]
       }
     ],
-    "mlb": [
-      {
-        "title": "RIZIN 55",
-        "sport": "mlb",
-        "matchup": null,
-        "page": "https://roxiestreams.info/mlb-streams-5",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/mlb5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/mlb-streams-5",
-            "headers": {
-              "Referer": "https://roxiestreams.info/mlb-streams-5",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "RIZIN 55",
-            "matchup": null,
-            "display_name": "RIZIN 55"
-          }
-        ]
-      }
-    ],
+    "mlb": [],
     "nba": [
       {
         "title": "Los Angeles Lakers vs Atlanta Hawks",
@@ -1054,126 +1003,52 @@
       }
     ],
     "multiview": [],
-    "wec": [
+    "wwe": [
       {
-        "title": "WEC - 6 Hours of Monza",
-        "sport": "wec",
+        "title": "WWE NXT",
+        "sport": "wwe",
         "matchup": null,
-        "page": "https://roxiestreams.info/wec",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/tnt4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/wec",
-            "headers": {
-              "Referer": "https://roxiestreams.info/wec",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wec",
-            "event_title": "WEC - 6 Hours of Monza",
-            "matchup": null,
-            "display_name": "WEC - 6 Hours of Monza"
-          }
-        ]
-      }
-    ],
-    "f1": [
-      {
-        "title": "Formula 1 - Sao Paulo Grand Prix",
-        "sport": "f1",
-        "matchup": null,
-        "page": "https://roxiestreams.info/f1",
+        "page": "https://roxiestreams.info/wwe-streams",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/f1.m3u8",
+            "url": "https://temp.shadow-ran.online/usa.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/f1",
+            "source_page": "https://roxiestreams.info/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "f1.m3u8",
+            "subdomain": "temp",
+            "path": "usa.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/f1",
+              "Referer": "https://roxiestreams.info/wwe-streams",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "f1",
-            "event_title": "Formula 1 - Sao Paulo Grand Prix",
+            "sport": "wwe",
+            "event_title": "WWE NXT",
             "matchup": null,
-            "display_name": "Formula 1 - Sao Paulo Grand Prix - Stream 1"
+            "display_name": "WWE NXT - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "label": "usa.m3u8",
+            "url": "https://daffodil.shadow-ran.online/usa.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.info/f1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tsn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/f1",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "f1",
-            "event_title": "Formula 1 - Sao Paulo Grand Prix",
-            "matchup": null,
-            "display_name": "Formula 1 - Sao Paulo Grand Prix - Stream 2"
-          },
-          {
-            "label": "f1.m3u8",
-            "url": "https://daffodil.shadow-ran.online/f1.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/f1",
+            "source_page": "https://roxiestreams.info/wwe-streams",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "f1.m3u8",
+            "path": "usa.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.info/f1",
+              "Referer": "https://roxiestreams.info/wwe-streams",
               "Origin": "https://roxiestreams.info",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "f1",
-            "event_title": "Formula 1 - Sao Paulo Grand Prix",
+            "sport": "wwe",
+            "event_title": "WWE NXT",
             "matchup": null,
-            "display_name": "Formula 1 - Sao Paulo Grand Prix - f1.m3u8"
-          }
-        ]
-      }
-    ],
-    "nascar": [
-      {
-        "title": "NASCAR Cup Series - Race",
-        "sport": "nascar",
-        "matchup": null,
-        "page": "https://roxiestreams.info/nascar",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nascar",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nascar",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nascar",
-            "event_title": "NASCAR Cup Series - Race",
-            "matchup": null,
-            "display_name": "NASCAR Cup Series - Race"
+            "display_name": "WWE NXT - usa.m3u8"
           }
         ]
       }
@@ -1481,72 +1356,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/mlb-streams-5": {
-      "url": "https://roxiestreams.info/mlb-streams-5",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -3003,205 +2812,6 @@
           "url": "https://roxiestreams.info/multiview"
         }
       ]
-    },
-    "https://roxiestreams.info/wec": {
-      "url": "https://roxiestreams.info/wec",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/f1": {
-      "url": "https://roxiestreams.info/f1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Stream 2",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.info/nascar": {
-      "url": "https://roxiestreams.info/nascar",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
     }
   },
   "sports": {
@@ -3309,28 +2919,9 @@
     },
     "mlb": {
       "pages": [
-        "https://roxiestreams.info/mlb",
-        "https://roxiestreams.info/mlb-streams-5"
+        "https://roxiestreams.info/mlb"
       ],
-      "streams": [
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/mlb5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/mlb-streams-5",
-          "headers": {
-            "Referer": "https://roxiestreams.info/mlb-streams-5",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "RIZIN 55",
-          "matchup": null,
-          "display_name": "RIZIN 55"
-        }
-      ]
+      "streams": []
     },
     "nba": {
       "pages": [
@@ -4093,123 +3684,55 @@
       ],
       "streams": []
     },
-    "wec": {
+    "wwe": {
       "pages": [
-        "https://roxiestreams.info/wec"
-      ],
-      "streams": [
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/tnt4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/wec",
-          "headers": {
-            "Referer": "https://roxiestreams.info/wec",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wec",
-          "event_title": "WEC - 6 Hours of Monza",
-          "matchup": null,
-          "display_name": "WEC - 6 Hours of Monza"
-        }
-      ]
-    },
-    "f1": {
-      "pages": [
-        "https://roxiestreams.info/f1"
+        "https://roxiestreams.info/wwe-streams"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/f1.m3u8",
+          "url": "https://temp.shadow-ran.online/usa.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/f1",
+          "source_page": "https://roxiestreams.info/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "f1.m3u8",
+          "subdomain": "temp",
+          "path": "usa.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/f1",
+            "Referer": "https://roxiestreams.info/wwe-streams",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "f1",
-          "event_title": "Formula 1 - Sao Paulo Grand Prix",
+          "sport": "wwe",
+          "event_title": "WWE NXT",
           "matchup": null,
-          "display_name": "Formula 1 - Sao Paulo Grand Prix - Stream 1"
+          "display_name": "WWE NXT - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "label": "usa.m3u8",
+          "url": "https://daffodil.shadow-ran.online/usa.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.info/f1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tsn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/f1",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "f1",
-          "event_title": "Formula 1 - Sao Paulo Grand Prix",
-          "matchup": null,
-          "display_name": "Formula 1 - Sao Paulo Grand Prix - Stream 2"
-        },
-        {
-          "label": "f1.m3u8",
-          "url": "https://daffodil.shadow-ran.online/f1.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/f1",
+          "source_page": "https://roxiestreams.info/wwe-streams",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "f1.m3u8",
+          "path": "usa.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.info/f1",
+            "Referer": "https://roxiestreams.info/wwe-streams",
             "Origin": "https://roxiestreams.info",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "f1",
-          "event_title": "Formula 1 - Sao Paulo Grand Prix",
+          "sport": "wwe",
+          "event_title": "WWE NXT",
           "matchup": null,
-          "display_name": "Formula 1 - Sao Paulo Grand Prix - f1.m3u8"
-        }
-      ]
-    },
-    "nascar": {
-      "pages": [
-        "https://roxiestreams.info/nascar"
-      ],
-      "streams": [
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nascar",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nascar",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nascar",
-          "event_title": "NASCAR Cup Series - Race",
-          "matchup": null,
-          "display_name": "NASCAR Cup Series - Race"
+          "display_name": "WWE NXT - usa.m3u8"
         }
       ]
     }
   },
-  "stream_count": 41,
+  "stream_count": 37,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
