@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-11-13T12:39:42+00:00
+# RoxieStreams Playlist - generated 2026-11-13T20:04:42+00:00
 # Source: https://roxiestreams.info
 
 #EXTINF:-1 tvg-name="Morocco vs Niger - Stream 1" group-title="SOCCER - Morocco vs Niger",Morocco vs Niger - Stream 1
@@ -27,16 +27,16 @@ https://daffodil.shadow-ran.online/bein.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-10","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fs1.m3u8
+https://admin2.shadow-ran.online/ice.m3u8
 
-#EXTINF:-1 tvg-name="Bulgaria vs Iceland - fs1.m3u8" group-title="SOCCER - Bulgaria vs Iceland",Bulgaria vs Iceland - fs1.m3u8
+#EXTINF:-1 tvg-name="Bulgaria vs Iceland - ice.m3u8" group-title="SOCCER - Bulgaria vs Iceland",Bulgaria vs Iceland - ice.m3u8
 #EXTGRP:SOCCER - Bulgaria vs Iceland
 #EXTDESC:Bulgaria vs Iceland
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-10","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fs1.m3u8
+https://daffodil.shadow-ran.online/ice.m3u8
 
 #EXTINF:-1 tvg-name="Luxembourg vs Estonia - Stream 1" group-title="SOCCER - Luxembourg vs Estonia",Luxembourg vs Estonia - Stream 1
 #EXTGRP:SOCCER - Luxembourg vs Estonia
@@ -45,15 +45,33 @@ https://daffodil.shadow-ran.online/fs1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fsp.m3u8
+https://admin2.shadow-ran.online/lux.m3u8
 
-#EXTINF:-1 tvg-name="Luxembourg vs Estonia - fsp.m3u8" group-title="SOCCER - Luxembourg vs Estonia",Luxembourg vs Estonia - fsp.m3u8
+#EXTINF:-1 tvg-name="Luxembourg vs Estonia - lux.m3u8" group-title="SOCCER - Luxembourg vs Estonia",Luxembourg vs Estonia - lux.m3u8
 #EXTGRP:SOCCER - Luxembourg vs Estonia
 #EXTDESC:Luxembourg vs Estonia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-11","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/lux.m3u8
+
+#EXTINF:-1 tvg-name="Colo-Colo vs Racing Club - Stream 1" group-title="SOCCER - Colo-Colo vs Racing Club",Colo-Colo vs Racing Club - Stream 1
+#EXTGRP:SOCCER - Colo-Colo vs Racing Club
+#EXTDESC:Colo-Colo vs Racing Club
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/fsp.m3u8
+
+#EXTINF:-1 tvg-name="Colo-Colo vs Racing Club - fsp.m3u8" group-title="SOCCER - Colo-Colo vs Racing Club",Colo-Colo vs Racing Club - fsp.m3u8
+#EXTGRP:SOCCER - Colo-Colo vs Racing Club
+#EXTDESC:Colo-Colo vs Racing Club
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-12","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/fsp.m3u8
 
 #EXTINF:-1 tvg-name="Argentina vs Uruguay - Stream 1" group-title="SOCCER - Argentina vs Uruguay",Argentina vs Uruguay - Stream 1
@@ -191,15 +209,6 @@ https://daffodil.shadow-ran.online/mineiro.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-3","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/fsp.m3u8
 
-#EXTINF:-1 tvg-name="Egypt vs Malawi - Stream 1" group-title="SOCCER - Egypt vs Malawi",Egypt vs Malawi - Stream 1
-#EXTGRP:SOCCER - Egypt vs Malawi
-#EXTDESC:Egypt vs Malawi
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-4","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/fs1.m3u8
-
 #EXTINF:-1 tvg-name="Liechtenstein vs Azerbaijan - Stream 1" group-title="SOCCER - Liechtenstein vs Azerbaijan",Liechtenstein vs Azerbaijan - Stream 1
 #EXTGRP:SOCCER - Liechtenstein vs Azerbaijan
 #EXTDESC:Liechtenstein vs Azerbaijan
@@ -207,16 +216,25 @@ https://tedesco.shadow-ran.online/fs1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fs2.m3u8
+https://admin2.shadow-ran.online/aze.m3u8
 
-#EXTINF:-1 tvg-name="Liechtenstein vs Azerbaijan - fs2.m3u8" group-title="SOCCER - Liechtenstein vs Azerbaijan",Liechtenstein vs Azerbaijan - fs2.m3u8
+#EXTINF:-1 tvg-name="Liechtenstein vs Azerbaijan - aze.m3u8" group-title="SOCCER - Liechtenstein vs Azerbaijan",Liechtenstein vs Azerbaijan - aze.m3u8
 #EXTGRP:SOCCER - Liechtenstein vs Azerbaijan
 #EXTDESC:Liechtenstein vs Azerbaijan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-5","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fs2.m3u8
+https://daffodil.shadow-ran.online/aze.m3u8
+
+#EXTINF:-1 tvg-name="Scotland vs North Macedonia - Stream 2" group-title="SOCCER - Scotland vs North Macedonia",Scotland vs North Macedonia - Stream 2
+#EXTGRP:SOCCER - Scotland vs North Macedonia
+#EXTDESC:Scotland vs North Macedonia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-6","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/bbc.m3u8
 
 #EXTINF:-1 tvg-name="Slovenia vs Switzerland - Stream 1" group-title="SOCCER - Slovenia vs Switzerland",Slovenia vs Switzerland - Stream 1
 #EXTGRP:SOCCER - Slovenia vs Switzerland
@@ -225,25 +243,16 @@ https://daffodil.shadow-ran.online/fs2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/virgin.m3u8
+https://admin2.shadow-ran.online/slo.m3u8
 
-#EXTINF:-1 tvg-name="Slovenia vs Switzerland - Stream 2 (ES)" group-title="SOCCER - Slovenia vs Switzerland",Slovenia vs Switzerland - Stream 2 (ES)
+#EXTINF:-1 tvg-name="Slovenia vs Switzerland - slo.m3u8" group-title="SOCCER - Slovenia vs Switzerland",Slovenia vs Switzerland - slo.m3u8
 #EXTGRP:SOCCER - Slovenia vs Switzerland
 #EXTDESC:Slovenia vs Switzerland
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/eng.m3u8
-
-#EXTINF:-1 tvg-name="Slovenia vs Switzerland - virgin.m3u8" group-title="SOCCER - Slovenia vs Switzerland",Slovenia vs Switzerland - virgin.m3u8
-#EXTGRP:SOCCER - Slovenia vs Switzerland
-#EXTDESC:Slovenia vs Switzerland
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-7","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/virgin.m3u8
+https://daffodil.shadow-ran.online/slo.m3u8
 
 #EXTINF:-1 tvg-name="Netherlands vs Greece - Stream 1" group-title="SOCCER - Netherlands vs Greece",Netherlands vs Greece - Stream 1
 #EXTGRP:SOCCER - Netherlands vs Greece
@@ -252,16 +261,16 @@ https://daffodil.shadow-ran.online/virgin.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-8","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/sky.m3u8
+https://admin2.shadow-ran.online/neth.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands vs Greece - sky.m3u8" group-title="SOCCER - Netherlands vs Greece",Netherlands vs Greece - sky.m3u8
+#EXTINF:-1 tvg-name="Netherlands vs Greece - neth.m3u8" group-title="SOCCER - Netherlands vs Greece",Netherlands vs Greece - neth.m3u8
 #EXTGRP:SOCCER - Netherlands vs Greece
 #EXTDESC:Netherlands vs Greece
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-8","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/sky.m3u8
+https://daffodil.shadow-ran.online/neth.m3u8
 
 #EXTINF:-1 tvg-name="Serbia vs Germany - Stream 1" group-title="SOCCER - Serbia vs Germany",Serbia vs Germany - Stream 1
 #EXTGRP:SOCCER - Serbia vs Germany
@@ -270,16 +279,16 @@ https://daffodil.shadow-ran.online/sky.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/finland.m3u8
+https://admin2.shadow-ran.online/fubo.m3u8
 
-#EXTINF:-1 tvg-name="Serbia vs Germany - finland.m3u8" group-title="SOCCER - Serbia vs Germany",Serbia vs Germany - finland.m3u8
+#EXTINF:-1 tvg-name="Serbia vs Germany - fubo.m3u8" group-title="SOCCER - Serbia vs Germany",Serbia vs Germany - fubo.m3u8
 #EXTGRP:SOCCER - Serbia vs Germany
 #EXTDESC:Serbia vs Germany
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.info%2Fsoccer-streams-9&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.info/soccer-streams-9","Origin":"https://roxiestreams.info","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/finland.m3u8
+https://daffodil.shadow-ran.online/fubo.m3u8
 
 #EXTINF:-1 tvg-name="New York Knicks vs Indiana Pacers - Stream 1" group-title="NBA - New York Knicks vs Indiana Pacers",New York Knicks vs Indiana Pacers - Stream 1
 #EXTGRP:NBA - New York Knicks vs Indiana Pacers
