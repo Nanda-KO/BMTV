@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-14T19:26:17+00:00",
+  "scraped_at": "2026-11-14T23:18:43+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -8,37 +8,37 @@
     {
       "name": "NCAA (CFB)",
       "page": "https://roxiestreams.info/nfl",
-      "start_time": "November 14, 2026 9:00 AM"
+      "start_time": "Nov 14, 2026 9:00 AM"
     },
     {
       "name": "Grand Slam of Darts (8/1PM)",
       "page": "https://roxiestreams.info/darts",
-      "start_time": "November 14, 2026 5:00 AM"
+      "start_time": "Nov 14, 2026 5:00 AM"
     },
     {
       "name": "RAF: Chimaev vs. Weidman",
       "page": "https://roxiestreams.info/ppv-streams-3",
-      "start_time": "November 14, 2026 9:00 AM"
+      "start_time": "Nov 14, 2026 9:00 AM"
     },
     {
       "name": "UEFA Nations League",
       "page": "https://roxiestreams.info/soccer",
-      "start_time": "November 14, 2026 9:00 AM"
+      "start_time": "Nov 14, 2026 9:00 AM"
     },
     {
       "name": "UFC 334: Gane vs. Hokit",
       "page": "https://roxiestreams.info/ufc",
-      "start_time": "November 14, 2026 2:00 PM"
+      "start_time": "Nov 14, 2026 2:00 PM"
     },
     {
       "name": "AEW: Full Gear",
       "page": "https://roxiestreams.info/aew",
-      "start_time": "November 14, 2026 4:00 PM"
+      "start_time": "Nov 14, 2026 4:00 PM"
     },
     {
       "name": "PACHECO vs. FULGHUM",
       "page": "https://roxiestreams.info/ppv-streams-5",
-      "start_time": "November 14, 2026 5:00 PM"
+      "start_time": "Nov 14, 2026 5:00 PM"
     }
   ],
   "events_by_sport": {
@@ -111,11 +111,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
+            "url": "https://admin2.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
@@ -361,6 +361,29 @@
             "display_name": "Portugal vs Denmark - Stream 1"
           },
           {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/vix.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "vix.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-15",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Portugal vs Denmark",
+            "matchup": {
+              "home": "Portugal",
+              "away": "Denmark"
+            },
+            "display_name": "Portugal vs Denmark - Stream 2 (ES)"
+          },
+          {
             "label": "fs2.m3u8",
             "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
             "type": "m3u8",
@@ -396,12 +419,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ecu.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ecu.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-16",
               "Origin": "https://roxiestreams.info",
@@ -418,13 +441,13 @@
             "display_name": "Mirassol vs Atlético Mineiro - Stream 1"
           },
           {
-            "label": "ecu.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ecu.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://admin.shadow-ran.online/fanaes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ecu.m3u8",
+            "subdomain": "admin",
+            "path": "fanaes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-16",
               "Origin": "https://roxiestreams.info",
@@ -438,7 +461,110 @@
               "home": "Mirassol",
               "away": "Atlético Mineiro"
             },
-            "display_name": "Mirassol vs Atlético Mineiro - ecu.m3u8"
+            "display_name": "Mirassol vs Atlético Mineiro - Stream 2 (ES)"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-16",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-16",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mirassol vs Atlético Mineiro",
+            "matchup": {
+              "home": "Mirassol",
+              "away": "Atlético Mineiro"
+            },
+            "display_name": "Mirassol vs Atlético Mineiro - fana.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Haiti vs USA",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Haiti",
+          "away": "USA"
+        },
+        "page": "https://roxiestreams.info/soccer-streams-17",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "concacaf.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-17",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Haiti vs USA",
+            "matchup": {
+              "home": "Haiti",
+              "away": "USA"
+            },
+            "display_name": "Haiti vs USA - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "peacock.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-17",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Haiti vs USA",
+            "matchup": {
+              "home": "Haiti",
+              "away": "USA"
+            },
+            "display_name": "Haiti vs USA - Stream 2 (ES)"
+          },
+          {
+            "label": "concacaf.m3u8",
+            "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "concacaf.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-17",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Haiti vs USA",
+            "matchup": {
+              "home": "Haiti",
+              "away": "USA"
+            },
+            "display_name": "Haiti vs USA - concacaf.m3u8"
           }
         ]
       },
@@ -453,12 +579,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/atv.m3u8",
+            "url": "https://admin.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-18",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "atv.m3u8",
+            "subdomain": "admin",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-18",
               "Origin": "https://roxiestreams.info",
@@ -475,13 +601,13 @@
             "display_name": "Banfield vs Boca Juniors - Stream 1"
           },
           {
-            "label": "atv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/atv.m3u8",
+            "label": "tyc.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-18",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "atv.m3u8",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-18",
               "Origin": "https://roxiestreams.info",
@@ -495,7 +621,7 @@
               "home": "Banfield",
               "away": "Boca Juniors"
             },
-            "display_name": "Banfield vs Boca Juniors - atv.m3u8"
+            "display_name": "Banfield vs Boca Juniors - tyc.m3u8"
           }
         ]
       },
@@ -509,13 +635,13 @@
         "page": "https://roxiestreams.info/soccer-streams-19",
         "streams": [
           {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-19",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tudnus.m3u8",
+            "path": "foxmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-19",
               "Origin": "https://roxiestreams.info",
@@ -529,7 +655,30 @@
               "home": "Querétaro",
               "away": "Monterrey"
             },
-            "display_name": "Querétaro vs Monterrey - Stream 2 (ES)"
+            "display_name": "Querétaro vs Monterrey - Stream 1"
+          },
+          {
+            "label": "foxmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-19",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-19",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Querétaro vs Monterrey",
+            "matchup": {
+              "home": "Querétaro",
+              "away": "Monterrey"
+            },
+            "display_name": "Querétaro vs Monterrey - foxmx.m3u8"
           }
         ]
       },
@@ -564,29 +713,6 @@
               "away": "Vasco Gama"
             },
             "display_name": "Chapecoense vs Vasco Gama - Stream 1"
-          },
-          {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/soccer-streams-20",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/soccer-streams-20",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Chapecoense vs Vasco Gama",
-            "matchup": {
-              "home": "Chapecoense",
-              "away": "Vasco Gama"
-            },
-            "display_name": "Chapecoense vs Vasco Gama - fana.m3u8"
           }
         ]
       },
@@ -1344,7 +1470,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://temp.formaturamaxi.com.br/ncaa12.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-12",
             "headers": {
@@ -1406,7 +1532,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/ncaa14.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ncaa-streams-14",
             "headers": {
@@ -1977,11 +2103,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
+            "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nhl2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nhl-streams-2",
@@ -2807,12 +2933,35 @@
         "page": "https://roxiestreams.info/ufc",
         "streams": [
           {
-            "label": "Stream 1 (Star)",
-            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+            "label": "Stream 1 (Para)",
+            "url": "https://temp.shadow-ran.online/simplyabby.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
+            "path": "simplyabby.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/ufc",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 334: Gane vs. Hokit",
+            "matchup": {
+              "home": "UFC 334: Gane",
+              "away": "Hokit"
+            },
+            "display_name": "UFC 334: Gane vs. Hokit - Stream 1 (Para)"
+          },
+          {
+            "label": "Stream 2 (Star+)",
+            "url": "https://temp.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
             "path": "abbiecadabrii.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ufc",
@@ -2827,15 +2976,15 @@
               "home": "UFC 334: Gane",
               "away": "Hokit"
             },
-            "display_name": "UFC 334: Gane vs. Hokit - Stream 1 (Star)"
+            "display_name": "UFC 334: Gane vs. Hokit - Stream 2 (Star+)"
           },
           {
-            "label": "Stream 2 (TNT)",
-            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+            "label": "Stream 3 (TNT)",
+            "url": "https://temp.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ufc",
@@ -2850,39 +2999,16 @@
               "home": "UFC 334: Gane",
               "away": "Hokit"
             },
-            "display_name": "UFC 334: Gane vs. Hokit - Stream 2 (TNT)"
+            "display_name": "UFC 334: Gane vs. Hokit - Stream 3 (TNT)"
           },
           {
-            "label": "Stream 3 (Para)",
-            "url": "https://temp.shadow-ran.online/ufc.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "ufc.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/ufc",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC 334: Gane vs. Hokit",
-            "matchup": {
-              "home": "UFC 334: Gane",
-              "away": "Hokit"
-            },
-            "display_name": "UFC 334: Gane vs. Hokit - Stream 3 (Para)"
-          },
-          {
-            "label": "abbiecadabrii.m3u8",
-            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "label": "simplyabby.m3u8",
+            "url": "https://daffodil.shadow-ran.online/simplyabby.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/ufc",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "abbiecadabrii.m3u8",
+            "path": "simplyabby.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/ufc",
               "Origin": "https://roxiestreams.info",
@@ -2896,7 +3022,7 @@
               "home": "UFC 334: Gane",
               "away": "Hokit"
             },
-            "display_name": "UFC 334: Gane vs. Hokit - abbiecadabrii.m3u8"
+            "display_name": "UFC 334: Gane vs. Hokit - simplyabby.m3u8"
           }
         ]
       }
@@ -3425,6 +3551,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3491,6 +3618,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3557,6 +3685,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3689,7 +3818,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7551,9 +7679,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView",
-        "Stream 1 (Star)",
-        "Stream 2 (TNT)",
-        "Stream 3 (Para)",
+        "Stream 1 (Para)",
+        "Stream 2 (Star+)",
+        "Stream 3 (TNT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7676,11 +7804,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
+          "url": "https://admin2.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
@@ -7882,6 +8010,29 @@
           "display_name": "Portugal vs Denmark - Stream 1"
         },
         {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/vix.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "vix.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-15",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Portugal vs Denmark",
+          "matchup": {
+            "home": "Portugal",
+            "away": "Denmark"
+          },
+          "display_name": "Portugal vs Denmark - Stream 2 (ES)"
+        },
+        {
           "label": "fs2.m3u8",
           "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
           "type": "m3u8",
@@ -7906,12 +8057,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ecu.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ecu.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-16",
             "Origin": "https://roxiestreams.info",
@@ -7928,13 +8079,13 @@
           "display_name": "Mirassol vs Atlético Mineiro - Stream 1"
         },
         {
-          "label": "ecu.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ecu.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://admin.shadow-ran.online/fanaes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ecu.m3u8",
+          "subdomain": "admin",
+          "path": "fanaes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-16",
             "Origin": "https://roxiestreams.info",
@@ -7948,16 +8099,108 @@
             "home": "Mirassol",
             "away": "Atlético Mineiro"
           },
-          "display_name": "Mirassol vs Atlético Mineiro - ecu.m3u8"
+          "display_name": "Mirassol vs Atlético Mineiro - Stream 2 (ES)"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-16",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-16",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mirassol vs Atlético Mineiro",
+          "matchup": {
+            "home": "Mirassol",
+            "away": "Atlético Mineiro"
+          },
+          "display_name": "Mirassol vs Atlético Mineiro - fana.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/atv.m3u8",
+          "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "concacaf.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-17",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Haiti vs USA",
+          "matchup": {
+            "home": "Haiti",
+            "away": "USA"
+          },
+          "display_name": "Haiti vs USA - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "peacock.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-17",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Haiti vs USA",
+          "matchup": {
+            "home": "Haiti",
+            "away": "USA"
+          },
+          "display_name": "Haiti vs USA - Stream 2 (ES)"
+        },
+        {
+          "label": "concacaf.m3u8",
+          "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "concacaf.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-17",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Haiti vs USA",
+          "matchup": {
+            "home": "Haiti",
+            "away": "USA"
+          },
+          "display_name": "Haiti vs USA - concacaf.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-18",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "atv.m3u8",
+          "subdomain": "admin",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-18",
             "Origin": "https://roxiestreams.info",
@@ -7974,13 +8217,13 @@
           "display_name": "Banfield vs Boca Juniors - Stream 1"
         },
         {
-          "label": "atv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/atv.m3u8",
+          "label": "tyc.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-18",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "atv.m3u8",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-18",
             "Origin": "https://roxiestreams.info",
@@ -7994,16 +8237,16 @@
             "home": "Banfield",
             "away": "Boca Juniors"
           },
-          "display_name": "Banfield vs Boca Juniors - atv.m3u8"
+          "display_name": "Banfield vs Boca Juniors - tyc.m3u8"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-19",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tudnus.m3u8",
+          "path": "foxmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-19",
             "Origin": "https://roxiestreams.info",
@@ -8017,7 +8260,30 @@
             "home": "Querétaro",
             "away": "Monterrey"
           },
-          "display_name": "Querétaro vs Monterrey - Stream 2 (ES)"
+          "display_name": "Querétaro vs Monterrey - Stream 1"
+        },
+        {
+          "label": "foxmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-19",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-19",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Querétaro vs Monterrey",
+          "matchup": {
+            "home": "Querétaro",
+            "away": "Monterrey"
+          },
+          "display_name": "Querétaro vs Monterrey - foxmx.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8041,29 +8307,6 @@
             "away": "Vasco Gama"
           },
           "display_name": "Chapecoense vs Vasco Gama - Stream 1"
-        },
-        {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/soccer-streams-20",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/soccer-streams-20",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Chapecoense vs Vasco Gama",
-          "matchup": {
-            "home": "Chapecoense",
-            "away": "Vasco Gama"
-          },
-          "display_name": "Chapecoense vs Vasco Gama - fana.m3u8"
         },
         {
           "label": "Stream 1 (ES)",
@@ -8702,7 +8945,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://temp.formaturamaxi.com.br/ncaa12.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-12",
           "headers": {
@@ -8742,7 +8985,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/ncaa14.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ncaa-streams-14",
           "headers": {
@@ -9164,11 +9407,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
+          "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nhl2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nhl-streams-2",
@@ -9868,12 +10111,35 @@
       ],
       "streams": [
         {
-          "label": "Stream 1 (Star)",
-          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
+          "label": "Stream 1 (Para)",
+          "url": "https://temp.shadow-ran.online/simplyabby.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
+          "path": "simplyabby.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/ufc",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 334: Gane vs. Hokit",
+          "matchup": {
+            "home": "UFC 334: Gane",
+            "away": "Hokit"
+          },
+          "display_name": "UFC 334: Gane vs. Hokit - Stream 1 (Para)"
+        },
+        {
+          "label": "Stream 2 (Star+)",
+          "url": "https://temp.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
           "path": "abbiecadabrii.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ufc",
@@ -9888,15 +10154,15 @@
             "home": "UFC 334: Gane",
             "away": "Hokit"
           },
-          "display_name": "UFC 334: Gane vs. Hokit - Stream 1 (Star)"
+          "display_name": "UFC 334: Gane vs. Hokit - Stream 2 (Star+)"
         },
         {
-          "label": "Stream 2 (TNT)",
-          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+          "label": "Stream 3 (TNT)",
+          "url": "https://temp.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ufc",
@@ -9911,39 +10177,16 @@
             "home": "UFC 334: Gane",
             "away": "Hokit"
           },
-          "display_name": "UFC 334: Gane vs. Hokit - Stream 2 (TNT)"
+          "display_name": "UFC 334: Gane vs. Hokit - Stream 3 (TNT)"
         },
         {
-          "label": "Stream 3 (Para)",
-          "url": "https://temp.shadow-ran.online/ufc.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "ufc.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/ufc",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC 334: Gane vs. Hokit",
-          "matchup": {
-            "home": "UFC 334: Gane",
-            "away": "Hokit"
-          },
-          "display_name": "UFC 334: Gane vs. Hokit - Stream 3 (Para)"
-        },
-        {
-          "label": "abbiecadabrii.m3u8",
-          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "label": "simplyabby.m3u8",
+          "url": "https://daffodil.shadow-ran.online/simplyabby.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/ufc",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "abbiecadabrii.m3u8",
+          "path": "simplyabby.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/ufc",
             "Origin": "https://roxiestreams.info",
@@ -9957,12 +10200,12 @@
             "home": "UFC 334: Gane",
             "away": "Hokit"
           },
-          "display_name": "UFC 334: Gane vs. Hokit - abbiecadabrii.m3u8"
+          "display_name": "UFC 334: Gane vs. Hokit - simplyabby.m3u8"
         }
       ]
     }
   },
-  "stream_count": 100,
+  "stream_count": 105,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
