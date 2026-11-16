@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-15T22:01:37+00:00",
+  "scraped_at": "2026-11-16T02:03:33+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -96,12 +96,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fs2.m3u8",
+            "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fs2.m3u8",
+            "path": "concacaf.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -118,13 +118,13 @@
             "display_name": "Panama vs Curaçao - Stream 1"
           },
           {
-            "label": "fs2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fs2.m3u8",
+            "subdomain": "admin2",
+            "path": "tudnus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/soccer-streams-2",
               "Origin": "https://roxiestreams.info",
@@ -138,7 +138,30 @@
               "home": "Panama",
               "away": "Curaçao"
             },
-            "display_name": "Panama vs Curaçao - fs2.m3u8"
+            "display_name": "Panama vs Curaçao - Stream 2 (ES)"
+          },
+          {
+            "label": "concacaf.m3u8",
+            "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "concacaf.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/soccer-streams-2",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Panama vs Curaçao",
+            "matchup": {
+              "home": "Panama",
+              "away": "Curaçao"
+            },
+            "display_name": "Panama vs Curaçao - concacaf.m3u8"
           }
         ]
       },
@@ -715,11 +738,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba8.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nba8.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-8",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nba8.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-8",
@@ -1094,12 +1117,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl12.m3u8",
+            "url": "https://admin2.shadow-ran.online/darts.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nfl12.m3u8",
+            "path": "darts.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -1117,12 +1140,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/seahawks.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "seahawks.m3u8",
+            "path": "nfl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -1139,13 +1162,13 @@
             "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 2"
           },
           {
-            "label": "nfl12.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl12.m3u8",
+            "label": "darts.m3u8",
+            "url": "https://daffodil.shadow-ran.online/darts.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nfl-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "nfl12.m3u8",
+            "path": "darts.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nfl-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -1159,7 +1182,7 @@
               "home": "Pittsburgh Steelers",
               "away": "Cincinnati Bengals"
             },
-            "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - nfl12.m3u8"
+            "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - darts.m3u8"
           }
         ]
       },
@@ -1588,6 +1611,63 @@
         ]
       },
       {
+        "title": "Calgary Flames vs Anaheim Ducks",
+        "sport": "nhl",
+        "matchup": {
+          "home": "Calgary Flames",
+          "away": "Anaheim Ducks"
+        },
+        "page": "https://roxiestreams.info/nba-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Calgary Flames vs Anaheim Ducks",
+            "matchup": {
+              "home": "Calgary Flames",
+              "away": "Anaheim Ducks"
+            },
+            "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
+          },
+          {
+            "label": "nba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nba-streams-1",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Calgary Flames vs Anaheim Ducks",
+            "matchup": {
+              "home": "Calgary Flames",
+              "away": "Anaheim Ducks"
+            },
+            "display_name": "Calgary Flames vs Anaheim Ducks - nba.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Florida Panthers vs Dallas Stars",
         "sport": "nhl",
         "matchup": {
@@ -1641,63 +1721,6 @@
               "away": "Dallas Stars"
             },
             "display_name": "Florida Panthers vs Dallas Stars - nhl2.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Calgary Flames vs Anaheim Ducks",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Calgary Flames",
-          "away": "Anaheim Ducks"
-        },
-        "page": "https://roxiestreams.info/nhl-streams-3",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nhl-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nhl3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nhl-streams-3",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Anaheim Ducks",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Anaheim Ducks"
-            },
-            "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
-          },
-          {
-            "label": "nhl3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nhl-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nhl3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nhl-streams-3",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Anaheim Ducks",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Anaheim Ducks"
-            },
-            "display_name": "Calgary Flames vs Anaheim Ducks - nhl3.m3u8"
           }
         ]
       },
@@ -2202,6 +2225,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3643,6 +3667,7 @@
         "MultiView",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4300,7 +4325,7 @@
         },
         {
           "label": "Calgary Flames vs Anaheim Ducks",
-          "url": "https://roxiestreams.info/nhl-streams-3"
+          "url": "https://roxiestreams.info/nba-streams-1"
         },
         {
           "label": "Vancouver Canucks vs Vegas Golden Knights",
@@ -4384,72 +4409,6 @@
     },
     "https://roxiestreams.info/nhl-streams-2": {
       "url": "https://roxiestreams.info/nhl-streams-2",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        }
-      ]
-    },
-    "https://roxiestreams.info/nhl-streams-3": {
-      "url": "https://roxiestreams.info/nhl-streams-3",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -5127,12 +5086,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fs2.m3u8",
+          "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fs2.m3u8",
+          "path": "concacaf.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -5149,13 +5108,13 @@
           "display_name": "Panama vs Curaçao - Stream 1"
         },
         {
-          "label": "fs2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fs2.m3u8",
+          "subdomain": "admin2",
+          "path": "tudnus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/soccer-streams-2",
             "Origin": "https://roxiestreams.info",
@@ -5169,7 +5128,30 @@
             "home": "Panama",
             "away": "Curaçao"
           },
-          "display_name": "Panama vs Curaçao - fs2.m3u8"
+          "display_name": "Panama vs Curaçao - Stream 2 (ES)"
+        },
+        {
+          "label": "concacaf.m3u8",
+          "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "concacaf.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/soccer-streams-2",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Panama vs Curaçao",
+          "matchup": {
+            "home": "Panama",
+            "away": "Curaçao"
+          },
+          "display_name": "Panama vs Curaçao - concacaf.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5655,11 +5637,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba8.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nba8.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-8",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nba8.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-8",
@@ -5997,12 +5979,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nfl12.m3u8",
+          "url": "https://admin2.shadow-ran.online/darts.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "nfl12.m3u8",
+          "path": "darts.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -6020,12 +6002,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/seahawks.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "seahawks.m3u8",
+          "path": "nfl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -6042,13 +6024,13 @@
           "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 2"
         },
         {
-          "label": "nfl12.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl12.m3u8",
+          "label": "darts.m3u8",
+          "url": "https://daffodil.shadow-ran.online/darts.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nfl-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "nfl12.m3u8",
+          "path": "darts.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nfl-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -6062,7 +6044,7 @@
             "home": "Pittsburgh Steelers",
             "away": "Cincinnati Bengals"
           },
-          "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - nfl12.m3u8"
+          "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - darts.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6369,8 +6351,8 @@
       "pages": [
         "https://roxiestreams.info/nhl",
         "https://roxiestreams.info/nhl-streams-1",
+        "https://roxiestreams.info/nba-streams-1",
         "https://roxiestreams.info/nhl-streams-2",
-        "https://roxiestreams.info/nhl-streams-3",
         "https://roxiestreams.info/nhl-streams-4",
         "https://roxiestreams.info/nhl-streams-5"
       ],
@@ -6423,6 +6405,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Calgary Flames vs Anaheim Ducks",
+          "matchup": {
+            "home": "Calgary Flames",
+            "away": "Anaheim Ducks"
+          },
+          "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
+        },
+        {
+          "label": "nba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nba-streams-1",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Calgary Flames vs Anaheim Ducks",
+          "matchup": {
+            "home": "Calgary Flames",
+            "away": "Anaheim Ducks"
+          },
+          "display_name": "Calgary Flames vs Anaheim Ducks - nba.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-2",
@@ -6466,52 +6494,6 @@
             "away": "Dallas Stars"
           },
           "display_name": "Florida Panthers vs Dallas Stars - nhl2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nhl-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nhl3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nhl-streams-3",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Anaheim Ducks",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Anaheim Ducks"
-          },
-          "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
-        },
-        {
-          "label": "nhl3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nhl-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nhl3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nhl-streams-3",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Anaheim Ducks",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Anaheim Ducks"
-          },
-          "display_name": "Calgary Flames vs Anaheim Ducks - nhl3.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6782,7 +6764,7 @@
       ]
     }
   },
-  "stream_count": 71,
+  "stream_count": 72,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
