@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-19T01:05:54+00:00",
+  "scraped_at": "2026-11-19T08:46:07+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -511,63 +511,6 @@
         ]
       },
       {
-        "title": "Boston Celtics vs Denver Nuggets",
-        "sport": "nba",
-        "matchup": {
-          "home": "Boston Celtics",
-          "away": "Denver Nuggets"
-        },
-        "page": "https://roxiestreams.info/nba-streams-10",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba10.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nba10.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Boston Celtics vs Denver Nuggets",
-            "matchup": {
-              "home": "Boston Celtics",
-              "away": "Denver Nuggets"
-            },
-            "display_name": "Boston Celtics vs Denver Nuggets - Stream 1"
-          },
-          {
-            "label": "nba10.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba10.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba10.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-10",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Boston Celtics vs Denver Nuggets",
-            "matchup": {
-              "home": "Boston Celtics",
-              "away": "Denver Nuggets"
-            },
-            "display_name": "Boston Celtics vs Denver Nuggets - nba10.m3u8"
-          }
-        ]
-      },
-      {
         "title": "Utah Jazz vs Los Angeles Lakers",
         "sport": "nba",
         "matchup": {
@@ -635,12 +578,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nbaalt.m3u8",
+            "url": "https://admin.shadow-ran.online/nba12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-12",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nbaalt.m3u8",
+            "subdomain": "admin",
+            "path": "nba12.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -657,13 +600,13 @@
             "display_name": "Phoenix Suns vs Sacramento Kings - Stream 1"
           },
           {
-            "label": "nbaalt.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nbaalt.m3u8",
+            "label": "nba12.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba12.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "nbaalt.m3u8",
+            "path": "nba12.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-12",
               "Origin": "https://roxiestreams.info",
@@ -677,7 +620,7 @@
               "home": "Phoenix Suns",
               "away": "Sacramento Kings"
             },
-            "display_name": "Phoenix Suns vs Sacramento Kings - nbaalt.m3u8"
+            "display_name": "Phoenix Suns vs Sacramento Kings - nba12.m3u8"
           }
         ]
       },
@@ -2283,6 +2226,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (CELTICS)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2415,7 +2359,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4135,52 +4078,6 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba10.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nba10.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Boston Celtics vs Denver Nuggets",
-          "matchup": {
-            "home": "Boston Celtics",
-            "away": "Denver Nuggets"
-          },
-          "display_name": "Boston Celtics vs Denver Nuggets - Stream 1"
-        },
-        {
-          "label": "nba10.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba10.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba10.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-10",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Boston Celtics vs Denver Nuggets",
-          "matchup": {
-            "home": "Boston Celtics",
-            "away": "Denver Nuggets"
-          },
-          "display_name": "Boston Celtics vs Denver Nuggets - nba10.m3u8"
-        },
-        {
-          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nba11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-11",
@@ -4227,12 +4124,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nbaalt.m3u8",
+          "url": "https://admin.shadow-ran.online/nba12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-12",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nbaalt.m3u8",
+          "subdomain": "admin",
+          "path": "nba12.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -4249,13 +4146,13 @@
           "display_name": "Phoenix Suns vs Sacramento Kings - Stream 1"
         },
         {
-          "label": "nbaalt.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nbaalt.m3u8",
+          "label": "nba12.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba12.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "nbaalt.m3u8",
+          "path": "nba12.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-12",
             "Origin": "https://roxiestreams.info",
@@ -4269,7 +4166,7 @@
             "home": "Phoenix Suns",
             "away": "Sacramento Kings"
           },
-          "display_name": "Phoenix Suns vs Sacramento Kings - nbaalt.m3u8"
+          "display_name": "Phoenix Suns vs Sacramento Kings - nba12.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4934,7 +4831,7 @@
       "streams": []
     }
   },
-  "stream_count": 50,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
