@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T00:25:56+00:00",
+  "scraped_at": "2026-11-20T07:41:17+00:00",
   "base_url": "https://roxiestreams.info",
   "domains": [
     "shadow-ran.online"
@@ -414,11 +414,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.info/nba-streams-1",
@@ -548,29 +548,6 @@
               "away": "Minnesota Timberwolves"
             },
             "display_name": "New York Knicks vs Minnesota Timberwolves - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/bucks.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nba-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "bucks.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nba-streams-3",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "New York Knicks vs Minnesota Timberwolves",
-            "matchup": {
-              "home": "New York Knicks",
-              "away": "Minnesota Timberwolves"
-            },
-            "display_name": "New York Knicks vs Minnesota Timberwolves - Stream 2"
           },
           {
             "label": "nba3.m3u8",
@@ -819,11 +796,11 @@
     ],
     "nhl": [
       {
-        "title": "Los Angeles Kings vs Toronto Maple Leafs",
+        "title": "Dallas Stars vs Vegas Golden Knights",
         "sport": "nhl",
         "matchup": {
-          "home": "Los Angeles Kings",
-          "away": "Toronto Maple Leafs"
+          "home": "Dallas Stars",
+          "away": "Vegas Golden Knights"
         },
         "page": "https://roxiestreams.info/nhl-streams-1",
         "streams": [
@@ -843,12 +820,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Los Angeles Kings vs Toronto Maple Leafs",
+            "event_title": "Dallas Stars vs Vegas Golden Knights",
             "matchup": {
-              "home": "Los Angeles Kings",
-              "away": "Toronto Maple Leafs"
+              "home": "Dallas Stars",
+              "away": "Vegas Golden Knights"
             },
-            "display_name": "Los Angeles Kings vs Toronto Maple Leafs - Stream 1"
+            "display_name": "Dallas Stars vs Vegas Golden Knights - Stream 1"
           },
           {
             "label": "nhl.m3u8",
@@ -866,12 +843,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Los Angeles Kings vs Toronto Maple Leafs",
+            "event_title": "Dallas Stars vs Vegas Golden Knights",
             "matchup": {
-              "home": "Los Angeles Kings",
-              "away": "Toronto Maple Leafs"
+              "home": "Dallas Stars",
+              "away": "Vegas Golden Knights"
             },
-            "display_name": "Los Angeles Kings vs Toronto Maple Leafs - nhl.m3u8"
+            "display_name": "Dallas Stars vs Vegas Golden Knights - nhl.m3u8"
           }
         ]
       },
@@ -886,7 +863,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
+            "url": "https://admin.formaturamaxi.com.br/nhl10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-10",
             "headers": {
@@ -917,7 +894,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
+            "url": "https://admin.formaturamaxi.com.br/nhl11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-11",
             "headers": {
@@ -934,37 +911,6 @@
               "away": "Seattle Kraken"
             },
             "display_name": "Vancouver Canucks vs Seattle Kraken"
-          }
-        ]
-      },
-      {
-        "title": "Dallas Stars vs Vegas Golden Knights",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Dallas Stars",
-          "away": "Vegas Golden Knights"
-        },
-        "page": "https://roxiestreams.info/nhl-streams-12",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.info/nhl-streams-12",
-            "headers": {
-              "Referer": "https://roxiestreams.info/nhl-streams-12",
-              "Origin": "https://roxiestreams.info",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Dallas Stars vs Vegas Golden Knights",
-            "matchup": {
-              "home": "Dallas Stars",
-              "away": "Vegas Golden Knights"
-            },
-            "display_name": "Dallas Stars vs Vegas Golden Knights"
           }
         ]
       },
@@ -1125,6 +1071,26 @@
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.info/nhl-streams-5",
+            "headers": {
+              "Referer": "https://roxiestreams.info/nhl-streams-5",
+              "Origin": "https://roxiestreams.info",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Montreal Canadiens vs Carolina Hurricanes",
+            "matchup": {
+              "home": "Montreal Canadiens",
+              "away": "Carolina Hurricanes"
+            },
+            "display_name": "Montreal Canadiens vs Carolina Hurricanes"
+          },
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.info/nhl-streams-5",
             "headers": {
@@ -2158,7 +2124,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2599,7 +2564,7 @@
         },
         {
           "label": "Dallas Stars vs Vegas Golden Knights",
-          "url": "https://roxiestreams.info/nhl-streams-12"
+          "url": "https://roxiestreams.info/nhl-streams-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -2741,72 +2706,6 @@
     },
     "https://roxiestreams.info/nhl-streams-11": {
       "url": "https://roxiestreams.info/nhl-streams-11",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.info/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.info/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.info/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.info/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.info/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.info/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.info/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.info/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.info/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        }
-      ]
-    },
-    "https://roxiestreams.info/nhl-streams-12": {
-      "url": "https://roxiestreams.info/nhl-streams-12",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3085,6 +2984,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4166,11 +4066,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.info/nba-streams-1",
@@ -4278,29 +4178,6 @@
             "away": "Minnesota Timberwolves"
           },
           "display_name": "New York Knicks vs Minnesota Timberwolves - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/bucks.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nba-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "bucks.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nba-streams-3",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "New York Knicks vs Minnesota Timberwolves",
-          "matchup": {
-            "home": "New York Knicks",
-            "away": "Minnesota Timberwolves"
-          },
-          "display_name": "New York Knicks vs Minnesota Timberwolves - Stream 2"
         },
         {
           "label": "nba3.m3u8",
@@ -4526,7 +4403,6 @@
         "https://roxiestreams.info/nhl-streams-1",
         "https://roxiestreams.info/nhl-streams-10",
         "https://roxiestreams.info/nhl-streams-11",
-        "https://roxiestreams.info/nhl-streams-12",
         "https://roxiestreams.info/nhl-streams-2",
         "https://roxiestreams.info/nhl-streams-3",
         "https://roxiestreams.info/nhl-streams-4",
@@ -4553,12 +4429,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Los Angeles Kings vs Toronto Maple Leafs",
+          "event_title": "Dallas Stars vs Vegas Golden Knights",
           "matchup": {
-            "home": "Los Angeles Kings",
-            "away": "Toronto Maple Leafs"
+            "home": "Dallas Stars",
+            "away": "Vegas Golden Knights"
           },
-          "display_name": "Los Angeles Kings vs Toronto Maple Leafs - Stream 1"
+          "display_name": "Dallas Stars vs Vegas Golden Knights - Stream 1"
         },
         {
           "label": "nhl.m3u8",
@@ -4576,16 +4452,16 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Los Angeles Kings vs Toronto Maple Leafs",
+          "event_title": "Dallas Stars vs Vegas Golden Knights",
           "matchup": {
-            "home": "Los Angeles Kings",
-            "away": "Toronto Maple Leafs"
+            "home": "Dallas Stars",
+            "away": "Vegas Golden Knights"
           },
-          "display_name": "Los Angeles Kings vs Toronto Maple Leafs - nhl.m3u8"
+          "display_name": "Dallas Stars vs Vegas Golden Knights - nhl.m3u8"
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
+          "url": "https://admin.formaturamaxi.com.br/nhl10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-10",
           "headers": {
@@ -4605,7 +4481,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
+          "url": "https://admin.formaturamaxi.com.br/nhl11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-11",
           "headers": {
@@ -4622,26 +4498,6 @@
             "away": "Seattle Kraken"
           },
           "display_name": "Vancouver Canucks vs Seattle Kraken"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.info/nhl-streams-12",
-          "headers": {
-            "Referer": "https://roxiestreams.info/nhl-streams-12",
-            "Origin": "https://roxiestreams.info",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Dallas Stars vs Vegas Golden Knights",
-          "matchup": {
-            "home": "Dallas Stars",
-            "away": "Vegas Golden Knights"
-          },
-          "display_name": "Dallas Stars vs Vegas Golden Knights"
         },
         {
           "label": "Stream 1",
@@ -4758,6 +4614,26 @@
         {
           "label": "Direct Link",
           "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.info/nhl-streams-5",
+          "headers": {
+            "Referer": "https://roxiestreams.info/nhl-streams-5",
+            "Origin": "https://roxiestreams.info",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Montreal Canadiens vs Carolina Hurricanes",
+          "matchup": {
+            "home": "Montreal Canadiens",
+            "away": "Carolina Hurricanes"
+          },
+          "display_name": "Montreal Canadiens vs Carolina Hurricanes"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.info/nhl-streams-5",
           "headers": {
@@ -5012,7 +4888,7 @@
       ]
     }
   },
-  "stream_count": 50,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
